@@ -57,6 +57,24 @@
             "notes": ""
         },
         {
+            "title": "#hack4good",
+            "url": "http://hack4good.io/",
+            "startDate": "September 12",
+            "endDate": "September 14",
+	    "year": "2014",
+            "city": "Global (see site for list)",
+            "host": "Hack4Good",
+            "length": "48",
+            "size": "3000+",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "facebookURL": "",
+            "twitterURL": "",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
             "title": "HackISU",
             "url": "http://hackisu.com/",
             "startDate": "September 12",
