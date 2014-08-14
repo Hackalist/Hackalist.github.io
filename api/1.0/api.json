@@ -201,6 +201,24 @@
             "notes": ""
         },
         {
+            "title": "HackPR",
+            "url": "http://hackpr.io/",
+            "startDate": "September 27",
+            "endDate": "September 28",
+	    "year": "2014",
+            "city": "Mayagüez, Puerto Rico",
+            "host": "University of Puerto Rico",
+            "length": "24",
+            "size": "200+",
+            "travel": "unknown",
+            "prize": "yes",
+            "highSchoolers": "unknown",
+            "facebookURL": "https://www.facebook.com/HackPuertoRico",
+            "twitterURL": "https://twitter.com/HackPuertoRico",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
             "title": "LexHack",
             "url": "http://lexhack.org/",
             "startDate": "September 27",
