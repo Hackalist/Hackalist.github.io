@@ -329,6 +329,24 @@
             "notes": ""
         },
         {
+            "title": "DubHacks",
+            "url": "http://dubhacks.co/",
+            "startDate": "October 17",
+            "endDate": "October 19",
+	    "year": "2014",
+            "city": "Seattle, WA",
+            "host": "University of Washington",
+            "length": "36",
+            "size": "300+",
+            "travel": "yes",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "facebookURL": "https://www.facebook.com/uwhacks",
+            "twitterURL": "https://twitter.com/DubHacks",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
             "title": "HackTX",
             "url": "http://hacktx.com/",
             "startDate": "October 18",
