@@ -492,6 +492,24 @@
         }
     ],
     "november": [
+    	 {
+            "title": "HackCC",
+            "url": "http://www.hackcc.org/",
+            "startDate": "November 7",
+            "endDate": "November 9",
+	    "year": "2014",
+            "city": "Santa Monica, CA",
+            "host": "HackCC",
+            "length": "36",
+            "size": "200+",
+            "travel": "yes",
+            "prize": "yes",
+            "highSchoolers": "no",
+            "facebookURL": "https://www.facebook.com/hackmycc",
+            "twitterURL": "",
+            "googlePlusURL": "",
+            "notes": "This hackathon is for community college students."
+        },
         {
             "title": "HackSC",
             "url": "http://f2014.hacksc.com/",
