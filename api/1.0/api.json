@@ -583,6 +583,23 @@
             "notes": ""
         },
         {
+        	"title": "CodeDay Fall 2014",
+        	"url": "http://codeday.org",
+        	"startDate": "November 16",
+        	"endDate": "November 17",
+        	"year": "2014",
+        	"city": "22 cities in the US",
+        	"host": "StudentRND",
+        	"length": "24",
+        	"size": "~2000",
+        	"travel": "no",
+        	"prize": "yes",
+        	"highSchoolers": "yes",
+        	"facebookURL": "http://www.facebook.com/CodeDayEvents",
+        	"twitterURL": "http://twitter.com/CodeDay"
+        	"googlePlusURL": "",
+        },
+        {
             "title": "WildHacks",
             "url": "http://wildhacks.org/",
             "startDate": "November 22",
