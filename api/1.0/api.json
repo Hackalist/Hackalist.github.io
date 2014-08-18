@@ -596,8 +596,9 @@
         	"prize": "yes",
         	"highSchoolers": "yes",
         	"facebookURL": "http://www.facebook.com/CodeDayEvents",
-        	"twitterURL": "http://twitter.com/CodeDay"
+        	"twitterURL": "http://twitter.com/CodeDay",
         	"googlePlusURL": "",
+        	"notes": ""
         },
         {
             "title": "WildHacks",
