@@ -583,7 +583,7 @@
             "notes": ""
         },
         {
-        	"title": "CodeDay",
+        	"title": "CodeDay Fall 2014",
         	"url": "http://codeday.org",
         	"startDate": "November 16",
         	"endDate": "November 17",
@@ -595,7 +595,7 @@
         	"travel": "no",
         	"prize": "yes",
         	"highSchoolers": "yes",
-        	"facebookURL": "",
+        	"facebookURL": "http://www.facebook.com/CodeDayEvents",
         	"twitterURL": "http://twitter.com/CodeDay"
         	"googlePlusURL": "",
         },
