@@ -592,6 +592,12 @@
         	"host": "StudentRND",
         	"length": "24",
         	"size": "~2000",
+        	"travel": "no",
+        	"prize": "yes",
+        	"highSchoolers": "yes",
+        	"facebookURL": "",
+        	"twitterURL": "http://twitter.com/CodeDay"
+        	"googlePlusURL": "",
         },
         {
             "title": "WildHacks",
