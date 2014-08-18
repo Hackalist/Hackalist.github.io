@@ -42,6 +42,13 @@
 				background-color: #FFFFFF;
 				margin: 0 auto;
 			}
+			.entry-div-dark {
+				width: 90%;
+				padding: 5px;
+				border-radius: 0px;
+				background-color: #E1E2E1;
+				margin: 0 auto;
+			}
 			.fill-div {
 				display: block;
 				width: 100%;
