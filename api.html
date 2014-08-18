@@ -35,12 +35,97 @@
 								<td style="vertical-align:text-top; text-align:center;">
 									Hackalist has a pretty straightforward JSON-based API that contains all the information available on the frontpage.
 									<br><br>
-									Feel free to use it for your own projects! As always, a link back to Hackalist is always appreciated :)
+									Do feel free to use it for your own projects. As always, a link back to Hackalist is always appreciated.
 									<br><br>
-									If you'd like to submit an update, correction, or addition to the list, free to submit pull requests to the JSON file <a href="https://github.com/Hackalist/Hackalist.github.io/blob/master/api/1.0/api.json">over on GitHub</a>.
+									If you'd like to submit an update, correction, or addition to the list, anyone can submit a pull request to the JSON file <a href="https://github.com/Hackalist/Hackalist.github.io/blob/master/api/1.0/api.json">over on GitHub</a>.
 									<br>
-									Alternatively, you can email me at <span id="e898839358">[javascript protected email address]</span><script type="text/javascript">/*<![CDATA[*/eval("var a=\"EkrBYos1igbwdy3T4OuGCX@7LVmIl0cjQP+Kz9Fh_SMAvNH.Rn2DqfptWe5-6Zx8UaJ\";var b=a.split(\"\").sort().join(\"\");var c=\"DNxnpWSa5Sxny.fSnqrAtf\";var d=\"\";for(var e=0;e<c.length;e++)d+=b.charAt(a.indexOf(c.charAt(e)));document.getElementById(\"e898839358\").innerHTML=\"<a href=\\\"mailto:\"+d+\"\\\">\"+d+\"</a>\"")/*]]>*/</script>.
-									<br><br>	
+									Updates and suggestions can also be emailed to me at <span id="e898839358">[javascript protected email address]</span><script type="text/javascript">/*<![CDATA[*/eval("var a=\"EkrBYos1igbwdy3T4OuGCX@7LVmIl0cjQP+Kz9Fh_SMAvNH.Rn2DqfptWe5-6Zx8UaJ\";var b=a.split(\"\").sort().join(\"\");var c=\"DNxnpWSa5Sxny.fSnqrAtf\";var d=\"\";for(var e=0;e<c.length;e++)d+=b.charAt(a.indexOf(c.charAt(e)));document.getElementById(\"e898839358\").innerHTML=\"<a href=\\\"mailto:\"+d+\"\\\">\"+d+\"</a>\"")/*]]>*/</script>.
+									<br><br>
+									Documentation for JSON parameters:
+									<div class="entry-div-dark" style="text-align:left; font-size: .8em;">
+										 <table style="width:100%;">
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>title</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> Name of hackathon </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>url</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> URL of website </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>startDate</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> First day of hackathon in form <i>Month, Day</i> </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>endDate</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> Last day of hackathon in form <i>Month, Day</i> </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>year</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> Year of hackathon </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>city</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> City that hackathon is occuring in.<br>If in United States, use form <i>City, State</i> (abbreviated)<br>If elsewhere, use form <i>City, State</i>/<i>Province</i> (abbreviated)<i>, Country<i> </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>host</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> Name of institution, organization, or company hosting the event </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>length</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> Length of hackaton in hours </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>size</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> Number of anticpated attendees </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>travel</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> Travel reimbursement offered? <i>yes, no,</i> or <i>unknown</i> </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>prize</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> Prize money offered? <i>yes, no,</i> or <i>unknown</i> </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>highSchoolers</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> High school attendance offered? <i>yes, no,</i> or <i>unknown</i> </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>facebookURL</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> URL of Facebook profile </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>twitterURL</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> URL of Twitter profile </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>googlePlusURL</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> URL of Google+ profile </td>
+											</tr>
+											<tr>
+												<td width="20%" style="text-align: right; vertical-align:top;"> <b>notes</b> </td>
+												<td width="10%"></td>
+												<td width="70%" style="text-align: left;"> <i>string</i> <br> Any extra notes, such as special requirements to attend </td>
+											</tr>
+										</table>
+									</div>
 									<h1><a href="http://www.hackalist.org/api/1.0/api.json">API 1.0 -></a></h1>
 								</td>
 							</tr>
