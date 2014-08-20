@@ -111,6 +111,24 @@
             "notes": ""
         },
         {
+            "title": "ProLiteracy Hackathon",
+            "url": "http://www.proliteracy.org/literacyhackathon",
+            "startDate": "September 13",
+            "endDate": "September 14",
+	    "year": "2014",
+            "city": "Syracuse, NY",
+            "host": "ProLiteracy",
+            "length": "24",
+            "size": "unknown",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "unknown",
+            "facebookURL": "https://www.facebook.com/ProLitWorld",
+            "twitterURL": "https://twitter.com/ProLitWorld",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
             "title": "HackGT",
             "url": "http://hackgt.com/",
             "startDate": "September 19",
