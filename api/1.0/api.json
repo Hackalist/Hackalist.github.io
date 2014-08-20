@@ -473,24 +473,6 @@
             "notes": ""
         },
         {
-            "title": "YHack",
-            "url": "http://www.yhack.org/",
-            "startDate": "October 31",
-            "endDate": "November 2",
-	    "year": "2014",
-            "city": "New Haven, CN",
-            "host": "Yale University",
-            "length": "36",
-            "size": "1500",
-            "travel": "yes",
-            "prize": "yes",
-            "highSchoolers": "yes",
-            "facebookURL": "https://www.facebook.com/whyhackatyhack",
-            "twitterURL": "https://twitter.com/YaleHack",
-            "googlePlusURL": "",
-            "notes": ""
-        },
-        {
             "title": "StudentHack",
             "url": "http://www.studenthack.com/",
             "startDate": "October 31",
@@ -505,6 +487,24 @@
             "highSchoolers": "yes",
             "facebookURL": "http://www.facebook.com/studenthack",
             "twitterURL": "http://twitter.com/studenthack",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
+            "title": "YHack",
+            "url": "http://www.yhack.org/",
+            "startDate": "October 31",
+            "endDate": "November 2",
+	    "year": "2014",
+            "city": "New Haven, CN",
+            "host": "Yale University",
+            "length": "36",
+            "size": "1500",
+            "travel": "yes",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "facebookURL": "https://www.facebook.com/whyhackatyhack",
+            "twitterURL": "https://twitter.com/YaleHack",
             "googlePlusURL": "",
             "notes": ""
         }
