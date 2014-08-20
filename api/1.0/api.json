@@ -293,6 +293,24 @@
             "notes": ""
         },
         {
+        	"title": "MLH Launch Hack",
+        	"url": "http://launch.mlh.io",
+        	"startDate": "October 3",
+        	"endDate": "October 4",
+        	"year": "2014",
+        	"city": "London, United Kingdom",
+        	"host": "Major League Hacking",
+        	"length": "24",
+        	"size": "unknown",
+        	"travel": "unknown",
+        	"prize": "unknown",
+        	"highSchoolers": "unknown",
+        	"facebookURL": "https://www.facebook.com/MajorLeagueHacking",
+        	"twitterURL": "https://twitter.com/MLHacks",
+        	"googlePlusURL": "",
+        	"notes": ""
+        },
+        {
             "title": "Cal Hacks",
             "url": "http://www.calhacks.io/",
             "startDate": "October 3",
@@ -469,6 +487,24 @@
             "highSchoolers": "yes",
             "facebookURL": "https://www.facebook.com/whyhackatyhack",
             "twitterURL": "https://twitter.com/YaleHack",
+            "googlePlusURL": "",
+            "notes": ""
+        }
+        {
+        	"title": "StudentHack",
+            "url": "http://www.yhack.org/",
+            "startDate": "October 31",
+            "endDate": "November 2",
+	    "year": "2014",
+            "city": "Manchester, UK",
+            "host": "StudentHack",
+            "length": "36",
+            "size": "unknown",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "facebookURL": "http://www.facebook.com/studenthack",
+            "twitterURL": "http://twitter.com/studenthack",
             "googlePlusURL": "",
             "notes": ""
         }
