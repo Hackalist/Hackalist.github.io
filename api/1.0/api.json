@@ -347,24 +347,6 @@
             "notes": ""
         },
         {
-        	"title": "MLH Launch Hack",
-        	"url": "http://launch.mlh.io",
-        	"startDate": "October 4",
-        	"endDate": "October 5",
-        	"year": "2014",
-        	"city": "London, United Kingdom",
-        	"host": "Major League Hacking",
-        	"length": "24",
-        	"size": "unknown",
-        	"travel": "unknown",
-        	"prize": "unknown",
-        	"highSchoolers": "unknown",
-        	"facebookURL": "https://www.facebook.com/MajorLeagueHacking",
-        	"twitterURL": "https://twitter.com/MLHacks",
-        	"googlePlusURL": "",
-        	"notes": ""
-        },
-        {
             "title": "Cal Hacks",
             "url": "http://www.calhacks.io/",
             "startDate": "October 3",
@@ -399,6 +381,24 @@
             "twitterURL": "https://twitter.com/hackmit",
             "googlePlusURL": "",
             "notes": ""
+        },
+        {
+        	"title": "MLH Launch Hack",
+        	"url": "http://launch.mlh.io",
+        	"startDate": "October 4",
+        	"endDate": "October 5",
+        	"year": "2014",
+        	"city": "London, United Kingdom",
+        	"host": "Major League Hacking",
+        	"length": "24",
+        	"size": "unknown",
+        	"travel": "unknown",
+        	"prize": "unknown",
+        	"highSchoolers": "unknown",
+        	"facebookURL": "https://www.facebook.com/MajorLeagueHacking",
+        	"twitterURL": "https://twitter.com/MLHacks",
+        	"googlePlusURL": "",
+        	"notes": ""
         },
         {
             "title": "BattleHack London",
