@@ -1,0 +1,63 @@
+			a:link {color:#34B9E3;}
+			a:visited {color:#34B9E3;}
+			a:hover {color:#E8E8FF;}
+			a:active {color:#34B9E3;}
+			a:link {text-decoration:none;}
+			a:visited {text-decoration:none;}
+			a:hover {text-decoration:none;}
+			a:active {text-decoration:none;}
+			body {
+				background-image:url("http://www.dailybitcoiner.com/Images/Site/Background.png");
+				background-color: #E9EAED;
+				font-family: Calibri, Arial;
+			}
+			#centerwrap { 
+				width: 600px;
+				margin: 0 auto;
+    			}
+			h1 { 
+    				font-size: 2em;
+    				line-height: .7em;
+    				color:#E36C0A;
+			}
+			h2 { 
+    				font-size: 1.2em;
+    				line-height: .6em;
+    				color:#828282;
+			}
+			h3 { 
+    				font-size: .9em;
+    				line-height: 1.3em;
+    				color:#828282;
+			}
+			h4 {
+    				font-size: 2.3em;
+    				line-height: .2em;
+    				color:#000000;
+			}
+			.entry-div-light {
+				width: 90%;
+				padding: 5px;
+				border-radius: 0px;
+				background-color: #FFFFFF;
+				margin: 0 auto;
+			}
+			.entry-div-dark {
+				width: 90%;
+				padding: 5px;
+				border-radius: 0px;
+				background-color: #E1E2E1;
+				margin: 0 auto;
+			}
+			.fill-div {
+				display: block;
+				width: 100%;
+				height: 100%;
+				border-bottom: 1px #FFFFFF solid;
+			}
+			.fill-div:hover {
+				border-bottom: 1px #E1E2E1 solid;
+			}
+			.fill-div:active {
+				border-bottom: 1px #FFFFFF solid;
+			}
