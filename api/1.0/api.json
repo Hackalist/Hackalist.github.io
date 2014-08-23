@@ -328,6 +328,24 @@
         }
     ],
     "october": [
+    	{
+            "title": "Cal Hacks",
+            "url": "http://www.calhacks.io/",
+            "startDate": "October 3",
+            "endDate": "October 5",
+	    "year": "2014",
+            "city": "Berkeley, CA",
+            "host": "UC Berkeley",
+            "length": "36",
+            "size": "1000+",
+            "travel": "yes",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "facebookURL": "https://www.facebook.com/CalHacks",
+            "twitterURL": "https://twitter.com/CalHacks",
+            "googlePlusURL": "",
+            "notes": ""
+        },
         {
             "title": "HackMizzou",
             "url": "http://2014.hackmizzou.com/",
@@ -343,24 +361,6 @@
             "highSchoolers": "yes",
             "facebookURL": "https://www.facebook.com/HackMizzou",
             "twitterURL": "https://twitter.com/hackmizzou",
-            "googlePlusURL": "",
-            "notes": ""
-        },
-        {
-            "title": "Cal Hacks",
-            "url": "http://www.calhacks.io/",
-            "startDate": "October 3",
-            "endDate": "October 5",
-	    "year": "2014",
-            "city": "Berkeley, CA",
-            "host": "UC Berkeley",
-            "length": "36",
-            "size": "1000+",
-            "travel": "yes",
-            "prize": "yes",
-            "highSchoolers": "yes",
-            "facebookURL": "https://www.facebook.com/CalHacks",
-            "twitterURL": "https://twitter.com/CalHacks",
             "googlePlusURL": "",
             "notes": ""
         },
