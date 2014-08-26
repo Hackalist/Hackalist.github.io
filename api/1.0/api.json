@@ -419,6 +419,24 @@
             "notes": ""
         },
         {
+            "title": "FundHack",
+            "url": "http://fundhack.com/",
+            "startDate": "October 10",
+            "endDate": "October 12",
+            "year": "2014",
+            "city": "Irvine, CA",
+            "host": "UC Irvine Antrepreneur Center",
+            "length": "46",
+            "size": "300",
+            "travel": "unknown",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "facebookURL": "https://www.facebook.com/CrowdFundingPays",
+            "twitterURL": "https://twitter.com/crowdfundingpay",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
             "title": "BattleHack London",
             "url": "https://2014.battlehack.org/london",
             "startDate": "October 11",
