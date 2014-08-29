@@ -599,6 +599,24 @@
             "notes": ""
         },
         {
+        	"title": "TeenHacks",
+            "url": "http://teenhacks.org/",
+            "startDate": "October 25",
+            "endDate": "October 26",
+	    	"year": "2014",
+            "city": "Fullerton, CA",
+            "host": "Sunny Hills High School",
+            "length": "24",
+            "size": "250",
+            "travel": "no",
+            "prize": "unknown",
+            "highSchoolers": "yes",
+            "facebookURL": "https://www.facebook.com/teenhacks",
+            "twitterURL": "https://twitter.com/theteenhacks",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
             "title": "HackNC",
             "url": "http://hacknc.us/",
             "startDate": "October 25",
