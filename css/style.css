@@ -1,0 +1,30 @@
+h2
+{
+	font-size: 32px;
+}
+p
+{
+	font-size: 20px;
+}
+.container:first-child
+{
+	margin-top: 20px;
+}
+.img-center
+{
+	display: block;
+	margin: 0 auto;
+}
+.text-subheading
+{
+	font-size: 20px;
+}
+.travel-reimbursement img,.prize-money img,.high-schoolers img
+{
+	margin: 10px;
+	margin-left: 0px;
+}
+.travel-reimbursement p,.prize-money p,.high-schoolers p
+{
+	display: inline;
+}
