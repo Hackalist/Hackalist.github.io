@@ -47,13 +47,13 @@
 						<h2>{{hackathon.title}}</h2>
 					</a>
 					<a href="{{hackathon.facebookURL}}" style="margin-right: 20px;">
-						<img src="images/facebook.png" alt="" width="24px" ng-if="hackathon.facebookURL != null">
+						<img src="images/facebook.png" alt="" width="24px" ng-if="hackathon.facebookURL != ''">
 					</a>
 					<a href="{{hackathon.twitterURL}}">
-						<img src="images/twitter.png" alt="" width="24px" ng-if="hackathon.twitterURL != null">
+						<img src="images/twitter.png" alt="" width="24px" ng-if="hackathon.twitterURL != ''">
 					</a>
 					<a href="{{hackathon.googlePlusURL}}">
-						<img src="images/googleplus.png" alt="" width="24px" ng-if="hackathon.googlePlusURL != null">
+						<img src="images/googleplus.png" alt="" width="24px" ng-if="hackathon.googlePlusURL != ''">
 					</a>
 					<p class="info-line">
 						{{hackathon.startDate}} - {{hackathon.endDate}} in {{hackathon.city}}
