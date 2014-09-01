@@ -45,12 +45,6 @@
 					<a href="{{hackathon.url}}" target="_blank">
 						<h2>{{hackathon.title}}</h2>
 					</a>
-					<a href="{{hackathon.facebookURL}}" style="margin-right: 20px;">
-						<img src="images/facebook.png" alt="" width="24px">
-					</a>
-					<a href="{{hackathon.twitterURL}}">
-						<img src="images/twitter.png" alt="" width="24px">
-					</a>
 					<p class="date-city">
 						{{hackathon.startDate}} - {{hackathon.endDate}} | {{hackathon.city}}
 					</p>
@@ -61,29 +55,30 @@
 						Capacity: {{hackathon.size}}
 					</p>
 					<div class="travel-reimbursement">
-						<img src="images/status_yes.png" alt="" width="32" ng-if="hackathon.travel == 'yes'">
-						<img src="images/status_no.png" alt="" width="32" ng-if="hackathon.travel == 'no'">
-						<img src="images/status_question.png" alt="" width="32" ng-if="hackathon.travel == 'unknown'">
+						<img src="images/status_yes.png" alt="" width="25" ng-if="hackathon.travel == 'yes'">
+						<img src="images/status_no.png" alt="" width="25" ng-if="hackathon.travel == 'no'">
+						<img src="images/status_question.png" alt="" width="25" ng-if="hackathon.travel == 'unknown'">
 						<p>
 							Travel Reimbursement
 						</p>
 					</div>
 					<div class="prize-money">
-						<img src="images/status_yes.png" alt="" width="32" ng-if="hackathon.prize == 'yes'">
-						<img src="images/status_no.png" alt="" width="32" ng-if="hackathon.prize == 'no'">
-						<img src="images/status_question.png" alt="" width="32" ng-if="hackathon.prize == 'unknown'">
+						<img src="images/status_yes.png" alt="" width="25" ng-if="hackathon.prize == 'yes'">
+						<img src="images/status_no.png" alt="" width="25" ng-if="hackathon.prize == 'no'">
+						<img src="images/status_question.png" alt="" width="25" ng-if="hackathon.prize == 'unknown'">
 						<p>
 							Prize Money
 						</p>
 					</div>
 					<div class="high-schoolers">
-						<img src="images/status_yes.png" alt="" width="32" ng-if="hackathon.highSchoolers == 'yes'">
-						<img src="images/status_no.png" alt="" width="32" ng-if="hackathon.highSchoolers == 'no'">
-						<img src="images/status_question.png" alt="" width="32" ng-if="hackathon.highSchoolers == 'unknown'">
+						<img src="images/status_yes.png" alt="" width="25" ng-if="hackathon.highSchoolers == 'yes'">
+						<img src="images/status_no.png" alt="" width="25" ng-if="hackathon.highSchoolers == 'no'">
+						<img src="images/status_question.png" alt="" width="25" ng-if="hackathon.highSchoolers == 'unknown'">
 						<p>
 							High Schoolers
 						</p>
 					</div>
+					<br>
 				</div>
 			</div>
 		</div>
