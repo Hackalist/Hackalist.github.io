@@ -1,0 +1,46 @@
+body
+{
+	background-image:url("http://www.dailybitcoiner.com/Images/Site/Background.png");
+	background-color: #E9EAED;
+	font-family: Calibri, Arial;
+}
+h1
+{
+	font-size: 32px;
+	text-align: center;
+}
+h2
+{
+	font-size: 28px;
+}
+p
+{
+	font-size: 20px;
+}
+.container:first-child
+{
+	margin-top: 20px;
+}
+.img-center
+{
+	display: block;
+	margin: 0 auto;
+}
+.text-subheading
+{
+	font-size: 20px;
+	text-align: center;
+}
+.info-line
+{
+	font-size: 18px;
+}
+.travel-reimbursement img,.prize-money img,.high-schoolers img
+{
+	margin: 10px;
+	margin-left: 0px;
+}
+.travel-reimbursement p,.prize-money p,.high-schoolers p
+{
+	display: inline;
+}
