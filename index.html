@@ -44,7 +44,7 @@
 				</div>
 				<div class="col-lg-6 col-lg-offset-3" ng-repeat="(key, hackathon) in month">
 					<a href="{{hackathon.url}}" target="_blank">
-						<h2>{{hackathon.title}}</h2>
+						<h2>{{hackathon.title | capitalize}}</h2>
 					</a>
 					<a href="{{hackathon.facebookURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
 						<img src="images/facebook.png" alt="" width="24px" ng-if="hackathon.facebookURL != ''">
