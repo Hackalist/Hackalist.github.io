@@ -39,12 +39,12 @@
 		</div>
 		<div class="container" ng-controller="hackathonEvents">
 			<div class="row" ng-repeat="(key, month) in year">
-				<div class="col-lg-6 col-lg-offset-3">
+				<div id="{{key}}" class="col-lg-6 col-lg-offset-3">
 					<h1>{{key}}</h1>
 				</div>
 				<div class="col-lg-6 col-lg-offset-3" ng-repeat="(key, hackathon) in month">
-					<a href="{{hackathon.url}}" target="_blank" ng-controller="MyCtrl">
-						<h2>{{hackathon.title | capitalize}}</h2>
+					<a href="{{hackathon.url}}" target="_blank">
+						<div ng-controller="MyCtrl"><h2>{{hackathon.title | capitalize}}</h2></div>
 					</a>
 					<a href="{{hackathon.facebookURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
 						<img src="images/facebook.png" alt="" width="24px" ng-if="hackathon.facebookURL != ''">
