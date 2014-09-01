@@ -42,7 +42,7 @@
 				<div id="{{key}}" class="col-lg-6 col-lg-offset-3">
 					<h1>{{key}}</h1>
 				</div>
-				<div class="col-lg-6 col-lg-offset-3" ng-repeat="(key, hackathon) in month">
+				<div class="col-lg-6 col-lg-offset-3" ng-repeat="key in keys(Dates)">
 					<a href="{{hackathon.url}}" target="_blank">
 						<h2>{{hackathon.title}}</h2>
 					</a>
