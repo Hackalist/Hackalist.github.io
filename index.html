@@ -62,7 +62,7 @@
 						Hosted by {{hackathon.host}} for {{hackathon.length}} hours
 					</p>
 					<p class="info-line">
-						Capacity: {{hackathon.size}}
+						Capacity: <div class="info-line" ng-if="hackathon.size == 'unknown'">Unknown</div><div class="info-line" ng-if="hackathon.size != 'unknown'">{{hackathon.size}}</div>
 					</p>
 					<div class="travel-reimbursement">
 						<img src="images/status_yes.png" alt="" width="20" ng-if="hackathon.travel == 'yes'">
