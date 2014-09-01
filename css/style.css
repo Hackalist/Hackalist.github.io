@@ -5,27 +5,13 @@ body
 	font-family: Calibri, Arial;
 }
 h1
-{ 
-	font-size: 2em;
-	line-height: .7em;
-	color:#E36C0A;
-}
-h2
 {
 	font-size: 32px;
 	text-align: center;
 }
-h3
-{ 
-	font-size: .9em;
-	line-height: 1.3em;
-	color:#828282;
-}
-h4
+h2
 {
-	font-size: 2.3em;
-	line-height: .2em;
-	color:#000000;
+	font-size: 28px;
 }
 p
 {
