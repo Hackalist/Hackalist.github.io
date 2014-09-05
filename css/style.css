@@ -8,6 +8,7 @@ h1
 {
 	font-size: 32px;
 	text-align: center;
+	line-height: 80%;
 }
 h2
 {
@@ -49,4 +50,6 @@ p
 .travel-reimbursement p,.prize-money p,.high-schoolers p
 {
 	display: inline;
+	font-size: 14px;
+	line-height: 80%;
 }
