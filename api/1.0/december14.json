@@ -19,6 +19,24 @@
       "notes": ""
     },
     {
+      "title": "NeoHacks",
+      "url": "http://neohacks.io/",
+      "startDate": "December 6",
+      "endDate": "December 7",
+      "year": "2014",
+      "city": "Irvine, CA",
+      "host": "NeoHacks",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "NeoHacks is open to high schoolers only, though college mentors are welcome to come and help."
+    },
+    {
       "title": "HackDC",
       "url": "http://hackdc.org/",
       "startDate": "December 13",
