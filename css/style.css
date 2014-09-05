@@ -12,11 +12,6 @@ h1
 h2
 {
 	font-size: 28px;
-	text-transform: lowercase;
-}
-h2:first-letter
-{
-	text-transform: uppercase;
 }
 p
 {
