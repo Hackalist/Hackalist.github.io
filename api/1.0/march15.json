@@ -1,22 +1,4 @@
 {
   "March": [
-    {
-      "title": "HackDuke",
-      "url": "http://www.hackduke.com/",
-      "startDate": "March 29",
-      "endDate": "March 30",
-      "year": "2015",
-      "city": "Durham, NC",
-      "host": "Duke University",
-      "length": "24",
-      "size": "unknown",
-      "travel": "yes",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "facebookURL": "",
-      "twitterURL": "https://twitter.com/hackduke",
-      "googlePlusURL": "",
-      "notes": ""
-    }
   ]
 }
