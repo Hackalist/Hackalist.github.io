@@ -34,10 +34,12 @@ p
 .info-line
 {
 	font-size: 18px;
+	line-height: 80%;
 }
 .info-line-sm
 {
 	font-size: 14px;
+	line-height: 80%;
 }
 .travel-reimbursement img,.prize-money img,.high-schoolers img
 {
