@@ -73,6 +73,24 @@
       "notes": ""
     },
     {
+      "title": "HackDuke",
+      "url": "http://www.hackduke.org/",
+      "startDate": "November 15",
+      "endDate": "November 16",
+      "year": "2014",
+      "city": "Durham, NC",
+      "host": "Duke University",
+      "length": "24",
+      "size": "500",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/events/370051956458772/",
+      "twitterURL": "https://twitter.com/hackduke",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackRPI",
       "url": "http://hack.rpi.edu/",
       "startDate": "November 15",
