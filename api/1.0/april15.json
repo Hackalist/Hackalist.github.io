@@ -1,0 +1,58 @@
+{
+  "april": [
+    {
+      "title": "HackPSU",
+      "url": "http://www.hackpsu.com/",
+      "startDate": "April 4",
+      "endDate": "April 6",
+      "year": "2015",
+      "city": "University Park, PA",
+      "host": "Penn State University",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/HackPSU",
+      "twitterURL": "https://twitter.com/HackPSU",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "hack.uva",
+      "url": "http://hackuva.io/",
+      "startDate": "April 11",
+      "endDate": "April 13",
+      "year": "2015",
+      "city": "Charlottesville, VA",
+      "host": "The University of Virginia",
+      "length": "36",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/events/232863916900879/",
+      "twitterURL": "https://twitter.com/UVaHackers",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "LA Hacks",
+      "url": "http://www.lahacks.com/",
+      "startDate": "April 11",
+      "endDate": "April 13",
+      "year": "2015",
+      "city": "Los Angeles, CA",
+      "host": "UCLA",
+      "length": "36",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/LAHacks",
+      "twitterURL": "https://twitter.com/LAHacks",
+      "googlePlusURL": "",
+      "notes": ""
+    }
+  ]
+}

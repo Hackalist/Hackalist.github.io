@@ -1,0 +1,40 @@
+{
+  "february": [
+    {
+      "title": "Penn Apps XI",
+      "url": "http://2014s.pennapps.com/",
+      "startDate": "February 14",
+      "endDate": "February 16",
+      "year": "2015",
+      "city": "Philadelphia, PA",
+      "host": "University of Pennsylvania",
+      "length": "48",
+      "size": "1200",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/pennapps",
+      "twitterURL": "https://twitter.com/pennapps",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "McHacks",
+      "url": "http://mchacks.io/",
+      "startDate": "February 22",
+      "endDate": "February 23",
+      "year": "2015",
+      "city": "Montreal, QC, Canada",
+      "host": "McGill University",
+      "length": "24",
+      "size": "500+",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/mcgillhacks",
+      "twitterURL": "https://twitter.com/McGillHacks",
+      "googlePlusURL": "",
+      "notes": ""
+    }
+  ]
+}
