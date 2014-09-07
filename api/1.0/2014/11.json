@@ -1,23 +1,5 @@
 {
   "November": [
-     {
-      "title": "McHacks",
-      "url": "http://www.mchacks.io/",
-      "startDate": "November 7",
-      "endDate": "November 9",
-      "year": "2014",
-      "city": "Montreal, Canada",
-      "host": "HackMcGill",
-      "length": "24",
-      "size": "500+",
-      "travel": "yes",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "facebookURL": "https://www.facebook.com/mcgillhacks",
-      "twitterURL": "https://twitter.com/mcgillhacks",
-      "googlePlusURL": "",
-      "notes": ""
-    },
     {
       "title": "HackCC",
       "url": "http://www.hackcc.org/",
@@ -51,6 +33,24 @@
       "highSchoolers": "yes",
       "facebookURL": "https://www.facebook.com/whyhackatyhack",
       "twitterURL": "https://twitter.com/YaleHack",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "McHacks",
+      "url": "http://www.mchacks.io/",
+      "startDate": "November 7",
+      "endDate": "November 9",
+      "year": "2014",
+      "city": "Montreal, Canada",
+      "host": "HackMcGill",
+      "length": "24",
+      "size": "500+",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/mcgillhacks",
+      "twitterURL": "https://twitter.com/mcgillhacks",
       "googlePlusURL": "",
       "notes": ""
     },
