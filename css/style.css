@@ -8,6 +8,7 @@ h1
 {
 	font-size: 32px;
 	text-align: center;
+	line-height: 80%;
 }
 h2
 {
@@ -34,13 +35,22 @@ p
 .info-line
 {
 	font-size: 18px;
+	line-height: 90%;
+}
+.info-line-sm
+{
+	font-size: 14px;
+	line-height: 80%;
 }
 .travel-reimbursement img,.prize-money img,.high-schoolers img
 {
 	margin: 10px;
 	margin-left: 0px;
+	line-height: 80%;
 }
 .travel-reimbursement p,.prize-money p,.high-schoolers p
 {
 	display: inline;
+	font-size: 14px;
+	line-height: 80%;
 }

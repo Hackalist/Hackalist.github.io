@@ -1,0 +1,58 @@
+{
+  "December": [
+    {
+      "title": "Local Hack Day",
+      "url": "http://localhackday.mlh.io/",
+      "startDate": "December 6",
+      "endDate": "December 6",
+      "year": "2014",
+      "city": "Global (see site for list)",
+      "host": "Major League Hacking",
+      "length": "12",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "unknown",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/MajorLeagueHacking",
+      "twitterURL": "https://twitter.com/MLHacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "NeoHacks",
+      "url": "http://neohacks.io/",
+      "startDate": "December 6",
+      "endDate": "December 7",
+      "year": "2014",
+      "city": "Irvine, CA",
+      "host": "NeoHacks",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "NeoHacks is open to high schoolers only, though college mentors are welcome to come and help."
+    },
+    {
+      "title": "HackDC",
+      "url": "http://hackdc.org/",
+      "startDate": "December 13",
+      "endDate": "December 14",
+      "year": "2014",
+      "city": "District of Columbia",
+      "host": "HackDC",
+      "length": "36",
+      "size": "500",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/haxdc",
+      "googlePlusURL": "",
+      "notes": "HackDC is open to high schoolers only, though college mentors are welcome to come and help."
+    }
+  ]
+}

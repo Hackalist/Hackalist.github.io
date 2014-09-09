@@ -1,0 +1,58 @@
+{
+  "January": [
+    {
+      "title": "HackStanford",
+      "url": "http://www.hackstanford.net/",
+      "startDate": "January 9",
+      "endDate": "January 11",
+      "year": "2015",
+      "city": "Stanford, CA",
+      "host": "Stanford University",
+      "length": "36",
+      "size": "800",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/HackStanford",
+      "twitterURL": "https://twitter.com/HackStanford",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "SB Hacks",
+      "url": "http://www.ucsbhacks.com/",
+      "startDate": "January 30",
+      "endDate": "February 1",
+      "year": "2015",
+      "city": "Santa Barbara, CA",
+      "host": "University of California, Santa Barbara",
+      "length": "36",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "UofTHacks",
+      "url": "https://uofthacks.com/",
+      "startDate": "January 30",
+      "endDate": "February 1",
+      "year": "2015",
+      "city": "Toronto, ON, Canada",
+      "host": "University of Toronto",
+      "length": "36",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/UoftHacks",
+      "twitterURL": "https://twitter.com/UofTHacks",
+      "googlePlusURL": "",
+      "notes": ""
+    }
+  ]
+}
