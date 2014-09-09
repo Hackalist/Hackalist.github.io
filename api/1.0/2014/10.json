@@ -36,7 +36,6 @@
       "googlePlusURL": "",
       "notes": ""
     },
-    
     {
       "title": "OHI/O",
       "url": "https://www.ohiohackathon.org/",
@@ -56,24 +55,6 @@
       "notes": ""
     },
     {
-      "title": "MasterCard N>XT",
-      "url": "http://www.nxt.mastercard.ca/",
-      "startDate": "October 4",
-      "endDate": "October 5",
-      "year": "2014",
-      "city": "Unknown",
-      "host": "MasterCard Inc."
-      "length": "24",
-      "size": "Unknown",
-      "travel": "Unknown",
-      "prize": "yes",
-      "highSchoolers": "Unknown",
-      "facebookURL": "http://facebook.com/MasterCardUS",
-      "twitterURL": "http://twitter.com/MasterCard",
-      "googlePlusURL": "http://plus.google.com/+MasterCard",
-      "notes": ""
-    },
-    {
       "title": "HACKMIT",
       "url": "https://www.hackmit.org/",
       "startDate": "October 4",
@@ -89,6 +70,24 @@
       "facebookURL": "https://www.facebook.com/HackMIT",
       "twitterURL": "https://twitter.com/hackmit",
       "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "MasterCard N>XT",
+      "url": "http://www.nxt.mastercard.ca/",
+      "startDate": "October 4",
+      "endDate": "October 5",
+      "year": "2014",
+      "city": "Toledo, ON, Canada",
+      "host": "MasterCard Inc.",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "http://facebook.com/MasterCardUS",
+      "twitterURL": "http://twitter.com/MasterCard",
+      "googlePlusURL": "http://plus.google.com/+MasterCard",
       "notes": ""
     },
     {
