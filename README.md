@@ -21,6 +21,8 @@ API
 =================================
 The Hackalist API is split into separate JSON files for each month of each year, following the file pattern "/api/1.0/YEAR/MONTH.json".
 
+The API is public, so feel free to use it. As always, a link back to Hackalist is always appreciated.
+
 Listings are sorted chronology based on the starting date of the hackathon. If two hackathons start on the same day, they are sorted alphabetically.
 
 ##2014
