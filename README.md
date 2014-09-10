@@ -34,3 +34,29 @@ The Hackalist API is split into separate JSON files for each month of each year,
 * February - http://www.hackalist.org/api/1.0/2015/02.json
 * March - http://www.hackalist.org/api/1.0/2015/03.json
 * April - http://www.hackalist.org/api/1.0/2015/04.json
+
+##Parameters
+* `title`: Name of hackathon
+* `url:` Official URL
+* `startDate:` Starting date in "Month Day" format (e.g. August 30)
+* `endDate:` End date in "Month Day" format (e.g. August 30)
+* `year:` Year
+* `city:` City hackathon is occuring in.
+  * If in U.S., format as "City, State Abbraviation" (e.g. Miami, Florida).
+  * If elsewhere, format as "City, State/Province Abbreviation, Country Name" (e.g. Toronto, ON, Canada).
+* `host:` The host (university, company, etc.)
+* `length:` Length in hours
+* `size:` Number of attendees; if not known, specify "unknown"
+* `travel:` Is travel reimbursed, in either part or full? yes | no | unknown
+* `prize:` Are prizes awarded to winners? yes | no | unknown
+* `highSchoolers:` Are high schoolers allowed to apply or attend? yes | no | unknown
+* `facebookURL:` URL to official Facebook profile
+* `twitterURL:` URL to official Twitter profile
+* `googlePlusURL:` URL to official Google+ profile
+* `notes:` Any additional notes (limits to who can attend, special requirements, etc.)
+
+
+##Notes
+When adding to the list, please keep the following points in mind:
+* Listings are sorted chronology based on the starting date of the hackathon.
+* If two hackathons start on the same day, they are sorted alphabetically.
