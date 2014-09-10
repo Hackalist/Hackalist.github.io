@@ -17,7 +17,7 @@ Site initiated by [Kevin Payravi](http://www.kevinpayravi.com/). Special thanks 
 
 API
 =================================
-The Hackalist API is split into separate JSON files for each month of each year, following the file pattern "/api/1.0/YEAR/MONTH.json".
+The Hackalist API is split into separate JSON files for each month of each year, following the file pattern `/api/1.0/YEAR/MONTH.json`.
 
 The API is public, so feel free to use it. As always, a link back to Hackalist is appreciated.
 
