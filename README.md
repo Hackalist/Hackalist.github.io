@@ -21,6 +21,8 @@ API
 =================================
 The Hackalist API is split into separate JSON files for each month of each year, following the file pattern "/api/1.0/YEAR/MONTH.json".
 
+Listings are sorted chronology based on the starting date of the hackathon. If two hackathons start on the same day, they are sorted alphabetically.
+
 ##2014
 * August - http://www.hackalist.org/api/1.0/2014/08.json
 * September - http://www.hackalist.org/api/1.0/2014/09.json
@@ -52,9 +54,3 @@ The Hackalist API is split into separate JSON files for each month of each year,
 * `twitterURL:` URL to official Twitter profile
 * `googlePlusURL:` URL to official Google+ profile
 * `notes:` Any additional notes (limits to who can attend, special requirements, etc.)
-
-
-##Notes
-When adding to the list, please keep the following points in mind:
-* Listings are sorted chronology based on the starting date of the hackathon.
-* If two hackathons start on the same day, they are sorted alphabetically.
