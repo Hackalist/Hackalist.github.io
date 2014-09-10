@@ -38,16 +38,16 @@ The Hackalist API is split into separate JSON files for each month of each year,
 ##Parameters
 * `title`: Name of hackathon
 * `url:` Official URL
-* `startDate:` Starting date in "Month Day" format (e.g. August 30)
-* `endDate:` End date in "Month Day" format (e.g. August 30)
+* `startDate:` Starting date, formatted as *Month Day* (e.g. August 30)
+* `endDate:` End date, formatted as *Month Day* (e.g. August 30)
 * `year:` Year
-* `city:` City hackathon is occuring in in format City, State/Province Abbreviation, Country (e.g. Miami, FL, United States)
+* `city:` City hackathon is occuring in, formatted as *City, State/Province Abbreviation, Country* (e.g. Miami, FL, United States)
 * `host:` The host (university, company, etc.)
 * `length:` Length in hours
 * `size:` Number of attendees; if not known, specify "unknown"
-* `travel:` Is travel reimbursed, in either part or full? yes | no | unknown
-* `prize:` Are prizes awarded to winners? yes | no | unknown
-* `highSchoolers:` Are high schoolers allowed to apply or attend? yes | no | unknown
+* `travel:` Is travel reimbursed, in either part or full? *yes* | *no* | *unknown*
+* `prize:` Are prizes awarded to winners? *yes* | *no* | *unknown*
+* `highSchoolers:` Are high schoolers allowed to apply or attend? *yes* | *no* | *unknown*
 * `facebookURL:` URL to official Facebook profile
 * `twitterURL:` URL to official Twitter profile
 * `googlePlusURL:` URL to official Google+ profile
