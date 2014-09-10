@@ -18,102 +18,32 @@
 			ga('require', 'displayfeatures');
 			ga('send', 'pageview');
 		</script>
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
-	
-		<style scoped type="text/css" media="screen">
-			a:link {color:#34B9E3;}
-			a:visited {color:#34B9E3;}
-			a:hover {color:#E8E8FF;}
-			a:active {color:#34B9E3;}
-			a:link {text-decoration:none;}
-			a:visited {text-decoration:none;}
-			a:hover {text-decoration:none;}
-			a:active {text-decoration:none;}
-			body {
-				background-image:url("http://www.dailybitcoiner.com/Images/Site/Background.png");
-				background-color: #E9EAED;
-				font-family: Calibri, Arial;
-			}
-			#centerwrap { 
-				width: 600px;
-				margin: 0 auto;
-    			}
-			h1 { 
-    				font-size: 2em;
-    				line-height: .7em;
-    				color:#E36C0A;
-			}
-			h2 { 
-    				font-size: 1.2em;
-    				line-height: .6em;
-    				color:#828282;
-			}
-			h3 { 
-    				font-size: .9em;
-    				line-height: 1.3em;
-    				color:#828282;
-			}
-			h4 {
-    				font-size: 2.3em;
-    				line-height: .2em;
-    				color:#000000;
-			}
-			.entry-div-light {
-				width: 90%;
-				padding: 5px;
-				border-radius: 0px;
-				background-color: #FFFFFF;
-				margin: 0 auto;
-			}
-			.fill-div {
-				display: block;
-				width: 100%;
-				height: 100%;
-				border-bottom: 1px #FFFFFF solid;
-			}
-			.fill-div:hover {
-				border-bottom: 1px #E1E2E1 solid;
-			}
-			.fill-div:active {
-				border-bottom: 1px #FFFFFF solid;
-			}
-		</style>
-
-			<div id="centerwrap" align="center">
-			<a href="http://www.hackalist.org/"><img src="/images/logo.png" width="300" alt="Hackalist"></a>
-			<br>
-			A directory of upcoming hackathons in North America. Open to all students.
-			<br><br>
-			</div>
-			<div id="centerwrap">
-				<div style="padding: 15px; width:500px; margin:0 auto; border-radius:10px; background-color:white;">
-						<table style="width:100%; margin:0 auto; padding:0px;">
-							<tr>
-								<td style="vertical-align:text-top; text-align:center;">
-									<br>
-									<h1>404!</h1>
-									Whoop! You've reached a dead end.
-									<br><br>
-									Head back to our <a href="http://www.hackalist.org/">homepage</a>.
-								</td>
-							</tr>
-						</table>
+		<!-- Ribbon obtained from http://codepo8.github.io/css-fork-on-github-ribbon/ -->
+		<style>#forkongithub a{background:#428BCA;color:#FFFFFF;text-decoration:none;font-family:arial,sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#000000;color:#FFFFFF;}#forkongithub a::before,#forkongithub a::after{content:"";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#FFFFFF;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:600px){#forkongithub{position:fixed;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;z-index:9999;}#forkongithub a{width:200px;position:absolute;top:30px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);box-shadow:4px 4px 10px rgba(0,0,0,0.3);}}</style><span id="forkongithub"><a href="https://github.com/Hackalist/Hackalist.github.io">Contribute @ GitHub</a></span>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 col-lg-offset-4">
+					<br><a href="http://www.hackalist.org/"><img src="images/logo.png" alt="Hackalist" class="img-center"></a><br>	
 				</div>
-
-				<br>
-
-				<table style="margin:0 auto;">
-					<tr>
-						<td style="text-align:center;">
-							<p style="color:#828282;">
-								Site created and managed with love by <a href="http://www.kevinpayravi.com/">Kevin Payravi</a>, 2014
-								<br><br>
-								<a class="coinbase-button" data-code="66acbb0d92cc32dcdae90e92eb1906c2" data-button-style="donation_small" data-custom="https://coinbase.com/merchant_tools#advanced_options" href="https://coinbase.com/checkouts/66acbb0d92cc32dcdae90e92eb1906c2">Donate Bitcoins</a><script data-rocketsrc="https://coinbase.com/assets/button.js" type="text/rocketscript"></script>
-							</p>
-						</td>
-					</tr>
-				</table>
 			</div>
+			<br>
+			<div class="row">
+				<div class="col-lg-6 col-lg-offset-3">
+					<p class="text-subheading">
+						A list of upcoming hackathons around the world. Open to all students, no cost to attend.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="container" ng-controller="hackathonEvents">
+			<div class="row">
+				You've 404'd! Head back to the <a href="http://www.hackalist.org/">Main Page</a>.
+			</div>
+		</div>
 	</body>
+		
 </html>
