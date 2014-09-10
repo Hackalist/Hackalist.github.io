@@ -19,7 +19,7 @@ See the [list of contributors](https://github.com/Hackalist/Hackalist.github.io/
 
 API
 =================================
-The Hackalist API is split into separate JSON files for each month of each year, following the file pattern "/api/1.0/YEAR/MONTH.json":
+The Hackalist API is split into separate JSON files for each month of each year, following the file pattern "/api/1.0/YEAR/MONTH.json".
 
 ##2014
 * August - http://www.hackalist.org/api/1.0/2014/08.json
