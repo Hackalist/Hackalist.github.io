@@ -1,6 +1,6 @@
 ![hackalist-logo](images/logo.png)
 =================================
-Visit our [website](http://hackalist.org) to view the live site.
+Visit our [website](http://www.hackalist.org) to view the live site.
 
 Hackalist is a database of hackathons that has the most up to date information for all your hackathon needs.
 
