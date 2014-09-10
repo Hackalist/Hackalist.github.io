@@ -13,9 +13,7 @@ Authorship
 Site initiated by [Kevin Payravi](http://www.kevinpayravi.com/). Special thanks to:
 * [Aaroh Mankad](https://github.com/aarohmankad) for implementing Bootstrap and automated AngularJS parsing.
 * [Rodrigo Argumedo](https://github.com/rodrigoargumedo) for continued support.
-* All others who have submitted hackathon listings.
-
-See the [list of contributors](https://github.com/Hackalist/Hackalist.github.io/graphs/contributors) for all contributors to the project.
+* [All others](https://github.com/Hackalist/Hackalist.github.io/graphs/contributors) who have submitted hackathon listings.
 
 API
 =================================
