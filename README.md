@@ -41,9 +41,7 @@ The Hackalist API is split into separate JSON files for each month of each year,
 * `startDate:` Starting date in "Month Day" format (e.g. August 30)
 * `endDate:` End date in "Month Day" format (e.g. August 30)
 * `year:` Year
-* `city:` City hackathon is occuring in.
-  * If in U.S., format as "City, State Abbraviation" (e.g. Miami, Florida).
-  * If elsewhere, format as "City, State/Province Abbreviation, Country Name" (e.g. Toronto, ON, Canada).
+* `city:` City hackathon is occuring in in format City, State/Province Abbreviation, Country (e.g. Miami, FL, United States)
 * `host:` The host (university, company, etc.)
 * `length:` Length in hours
 * `size:` Number of attendees; if not known, specify "unknown"
