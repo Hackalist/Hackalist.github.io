@@ -1,24 +1,6 @@
 {
   "January": [
     {
-      "title": "TreeHacks",
-      "url": "http://www.treehacks.com/",
-      "startDate": "February 20",
-      "endDate": "February 22",
-      "year": "2015",
-      "city": "Stanford, CA, United States",
-      "host": "Stanford University",
-      "length": "36",
-      "size": "800",
-      "travel": "yes",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "facebookURL": "https://www.facebook.com/treehacks",
-      "twitterURL": "https://twitter.com/hackwithtrees",
-      "googlePlusURL": "",
-      "notes": ""
-    },
-    {
       "title": "PennApps XI",
       "url": "http://2015s.pennapps.com/",
       "startDate": "January 16",
