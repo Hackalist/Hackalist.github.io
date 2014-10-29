@@ -1,10 +1,10 @@
 {
   "January": [
     {
-      "title": "HackStanford",
-      "url": "http://www.hackstanford.net/",
-      "startDate": "January 9",
-      "endDate": "January 11",
+      "title": "TreeHacks",
+      "url": "http://www.treehacks.com/",
+      "startDate": "February 20",
+      "endDate": "February 22",
       "year": "2015",
       "city": "Stanford, CA, United States",
       "host": "Stanford University",
@@ -13,8 +13,8 @@
       "travel": "yes",
       "prize": "yes",
       "highSchoolers": "yes",
-      "facebookURL": "https://www.facebook.com/HackStanford",
-      "twitterURL": "https://twitter.com/HackStanford",
+      "facebookURL": "https://www.facebook.com/treehacks",
+      "twitterURL": "https://twitter.com/hackwithtrees",
       "googlePlusURL": "",
       "notes": ""
     },
