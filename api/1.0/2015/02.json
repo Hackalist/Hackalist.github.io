@@ -1,24 +1,6 @@
 {
   "February": [
     {
-      "title": "Penn Apps XI",
-      "url": "http://2014s.pennapps.com/",
-      "startDate": "February 14",
-      "endDate": "February 16",
-      "year": "2015",
-      "city": "Philadelphia, PA, United States",
-      "host": "University of Pennsylvania",
-      "length": "48",
-      "size": "1200",
-      "travel": "yes",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "facebookURL": "https://www.facebook.com/pennapps",
-      "twitterURL": "https://twitter.com/pennapps",
-      "googlePlusURL": "",
-      "notes": ""
-    },
-    {
       "title": "TreeHacks",
       "url": "http://www.treehacks.com/",
       "startDate": "February 20",
