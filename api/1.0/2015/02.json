@@ -1,6 +1,24 @@
 {
   "February": [
     {
+      "title": "Hack@Brown",
+      "url": "http://hackatbrown.org/",
+      "startDate": "February 7",
+      "endDate": "February 8",
+      "year": "2015",
+      "city": "Providence, RI, United States",
+      "host": "Brown University",
+      "length": "24",
+      "size": "300+",
+      "travel": "yes",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/hackatbrown",
+      "twitterURL": "https://twitter.com/hackatbrown",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "TreeHacks",
       "url": "http://www.treehacks.com/",
       "startDate": "February 20",
