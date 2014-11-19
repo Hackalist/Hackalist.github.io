@@ -215,6 +215,24 @@
       "twitterURL": "https://twitter.com/NUWildHacks",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "OxHACK",
+      "url": "http://oxhack.co.uk/",
+      "startDate": "November 29",
+      "endDate": "November 30",
+      "year": "2014",
+      "city": "Oxford, England",
+      "host": "Said Business School",
+      "length": "30",
+      "size": "100",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
