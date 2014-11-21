@@ -17,24 +17,6 @@
       "twitterURL": "https://twitter.com/MLHacks",
       "googlePlusURL": "",
       "notes": ""
-    },
-    {
-      "title": "HackDC",
-      "url": "http://hackdc.org/",
-      "startDate": "December 13",
-      "endDate": "December 14",
-      "year": "2014",
-      "city": "District of Columbia, United States",
-      "host": "HackDC",
-      "length": "36",
-      "size": "500",
-      "travel": "unknown",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "facebookURL": "",
-      "twitterURL": "https://twitter.com/haxdc",
-      "googlePlusURL": "",
-      "notes": "HackDC is open to high schoolers only, though college mentors are welcome to come and help."
     }
   ]
 }
