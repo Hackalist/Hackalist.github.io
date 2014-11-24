@@ -53,6 +53,24 @@
       "twitterURL": "https://twitter.com/McGillHacks",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "SD Hacks",
+      "url": "http://mchacks.io/",
+      "startDate": "February 27",
+      "endDate": "March 1",
+      "year": "2015",
+      "city": "San Diego, CA, United States",
+      "host": "University of California, San Diego",
+      "length": "36",
+      "size": "1000+",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown,
+      "facebookURL": "https://www.facebook.com/SDHacks",
+      "twitterURL": "https://twitter.com/SDHacks",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
