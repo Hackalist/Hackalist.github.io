@@ -1,6 +1,24 @@
 {
   "January": [
     {
+      "title": "MHacks V",
+      "url": "http://mhacks.org/",
+      "startDate": "January 16",
+      "endDate": "January 18",
+      "year": "2015",
+      "city": "Ann Arbor, MI, United States",
+      "host": "University of Michigan",
+      "length": "36",
+      "size": "2000",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/MHacksHackathon",
+      "twitterURL": "https://twitter.com/mhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "PennApps XI",
       "url": "http://2015s.pennapps.com/",
       "startDate": "January 16",
