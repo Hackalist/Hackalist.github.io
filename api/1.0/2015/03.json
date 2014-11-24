@@ -1,6 +1,24 @@
 {
   "March": [
     {
+      "title": "VandyHacks",
+      "url": "http://www.vandyhacks.org/",
+      "startDate": "March 20",
+      "endDate": "March 22",
+      "year": "2015",
+      "city": "Nashville, TN, United States",
+      "host": "Vanderbilt University",
+      "length": "48",
+      "size": "400",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/vandyhacks",
+      "twitterURL": "https://twitter.com/vandyhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "SpartaHack",
       "url": "http://www.spartahack.com/",
       "startDate": "March 27",
