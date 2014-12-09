@@ -1,6 +1,24 @@
 {
   "March": [
     {
+      "title": "Hack Arizona",
+      "url": "http://hackarizona.org/",
+      "startDate": "March 6",
+      "endDate": "March 8",
+      "year": "2015",
+      "city": "Tucson, AZ, United States",
+      "host": "University of Arizona",
+      "length": "36",
+      "size": "400+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/hackarizona",
+      "twitterURL": "https://twitter.com/hack_arizona",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "VandyHacks",
       "url": "http://www.vandyhacks.org/",
       "startDate": "March 20",
