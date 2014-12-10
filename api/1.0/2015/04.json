@@ -71,24 +71,6 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
-    },
-    {
-      "title": "VTHacks",
-      "url": "http://vthacks.com/",
-      "startDate": "April 18",
-      "endDate": "April 20",
-      "year": "2015",
-      "city": "Blacksburg, VA, United States",
-      "host": "Virginia Tech",
-      "length": "36",
-      "size": "600+",
-      "travel": "yes",
-      "prize": "yes",
-      "highSchoolers": "no",
-      "facebookURL": "https://www.facebook.com/vthacks",
-      "twitterURL": "https://twitter.com/VT_Hacks",
-      "googlePlusURL": "",
-      "notes": ""
     }
   ]
 }
