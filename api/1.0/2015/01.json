@@ -1,6 +1,24 @@
 {
   "January": [
     {
+      "title": "Dragon Hacks",
+      "url": "http://hack-dragon.com/",
+      "startDate": "January 10",
+      "endDate": "January 11",
+      "year": "2015",
+      "city": "Philadelphia, PA, United States",
+      "host": "Drexel University",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "MHacks V",
       "url": "http://mhacks.org/",
       "startDate": "January 16",
