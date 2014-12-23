@@ -1,6 +1,24 @@
 {
   "February": [
     {
+      "title": "CBBhacks",
+      "url": "http://www.cbbhacks.org/",
+      "startDate": "February 6",
+      "endDate": "February 8",
+      "year": "2015",
+      "city": "Brunswick, ME, United States",
+      "host": "Bowdoin College",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/pages/Bowdoin-ITAC/766404390074997",
+      "twitterURL": "https://twitter.com/BowdoinITAC",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "VTHacks",
       "url": "http://vthacks.com/",
       "startDate": "February 6",
