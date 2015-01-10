@@ -161,6 +161,24 @@
       "twitterURL": "https://twitter.com/SDHacks",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "MakeMIT",
+      "url": "",
+      "startDate": "February 28",
+      "endDate": "February 28",
+      "year": "2015",
+      "city": "Cambridge, MA, United States",
+      "host": "Massachusetts Institute of Technology",
+      "length": "18",
+      "size": "200+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/makemit",
+      "twitterURL": "https://twitter.com/TeamMakeMIT",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
