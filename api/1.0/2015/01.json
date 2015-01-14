@@ -1,6 +1,24 @@
 {
   "January": [
     {
+      "title": "Miami Bitcoin Hackathon",
+      "url": "http://www.miamibitcoinhackathon.com/",
+      "startDate": "January 9",
+      "endDate": "January 11",
+      "year": "2015",
+      "city": "Miami, FL, United States",
+      "host": "Blockchain Beach",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/miamibitcoinhackathon",
+      "twitterURL": "https://twitter.com/miabitcoinhack",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Dragon Hacks",
       "url": "http://hack-dragon.com/",
       "startDate": "January 10",
