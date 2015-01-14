@@ -71,6 +71,24 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "BrickHack",
+      "url": "https://brickhack.io/",
+      "startDate": "April 18",
+      "endDate": "April 18",
+      "year": "2015",
+      "city": "Rochester, NY, United States",
+      "host": "Rochester Institute of Technology",
+      "length": "24",
+      "size": "400",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/brickhackrit",
+      "twitterURL": "https://twitter.com/brickhackrit",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
