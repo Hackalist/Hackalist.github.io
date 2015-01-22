@@ -143,6 +143,24 @@
       "twitterURL": "https://twitter.com/brickhackrit",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "STEMHacks",
+      "url": "http://www.stemhacks.com/",
+      "startDate": "April 25",
+      "endDate": "April 26",
+      "year": "2015",
+      "city": "Downingtown, PA, United States",
+      "host": "STEM Academy",
+      "length": "24",
+      "size": "250",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/stemhacks",
+      "twitterURL": "https://twitter.com/STEMHacks",
+      "googlePlusURL": "",
+      "notes": "This is a highschooler only event!"
     }
   ]
 }
