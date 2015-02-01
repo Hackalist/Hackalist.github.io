@@ -1,6 +1,24 @@
 {
   "April": [
     {
+      "title": "HackHolyoke",
+      "url": "http://www.hackholyoke.org/",
+      "startDate": "April 3",
+      "endDate": "April 4",
+      "year": "2015",
+      "city": "South Hadley, MA, United States",
+      "host": "Holyoke College",
+      "length": "24",
+      "size": "150+",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/pages/HackHolyoke/817850511592894",
+      "twitterURL": "https://twitter.com/hackholyoke",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackPSU",
       "url": "http://www.hackpsu.com/",
       "startDate": "April 4",
