@@ -40,62 +40,6 @@
 			</div>
 		</div>
 		<div class="container" ng-controller="hackathonEvents">
-			<div class="row" ng-repeat="(key, month) in january15">
-				<div id="{{key}}" class="col-lg-6 col-lg-offset-3">
-					<h1>{{key}}</h1>
-				</div>
-				<div class="col-lg-6 col-lg-offset-3" ng-repeat="(key, hackathon) in month">
-					<a href="{{hackathon.url}}" target="_blank">
-						<h2>{{hackathon.title}}</h2>
-					</a>
-					<a href="{{hackathon.facebookURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
-						<img src="images/facebook.png" alt="" width="24px" ng-if="hackathon.facebookURL != ''">
-					</a>
-					<a href="{{hackathon.twitterURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
-						<img src="images/twitter.png" alt="" width="24px" ng-if="hackathon.twitterURL != ''">
-					</a>
-					<a href="{{hackathon.googlePlusURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
-						<img src="images/googleplus.png" alt="" width="24px" ng-if="hackathon.googlePlusURL != ''">
-					</a>
-					<p class="info-line">
-						{{hackathon.startDate}} - {{hackathon.endDate}} in {{hackathon.city}}
-					</p>
-					<p class="info-line-sm">
-						Hosted by {{hackathon.host}} for {{hackathon.length}} hours
-					</p>
-					<p class="info-line-sm" ng-if="hackathon.size == 'unknown'">
-						Capacity: Unknown
-					</p>
-					<p class="info-line-sm" ng-if="hackathon.size != 'unknown'">
-						Capacity: {{hackathon.size}}
-					</p>
-					<div class="travel-reimbursement">
-						<img src="images/status_yes.png" alt="" width="20" ng-if="hackathon.travel == 'yes'">
-						<img src="images/status_no.png" alt="" width="20" ng-if="hackathon.travel == 'no'">
-						<img src="images/status_question.png" alt="" width="20" ng-if="hackathon.travel == 'unknown'">
-						<p class="info-line">
-							Travel Reimbursement
-						</p>
-					</div>
-					<div class="prize-money">
-						<img src="images/status_yes.png" alt="" width="20" ng-if="hackathon.prize == 'yes'">
-						<img src="images/status_no.png" alt="" width="20" ng-if="hackathon.prize == 'no'">
-						<img src="images/status_question.png" alt="" width="20" ng-if="hackathon.prize == 'unknown'">
-						<p class="info-line">
-							Prize Money
-						</p>
-					</div>
-					<div class="high-schoolers">
-						<img src="images/status_yes.png" alt="" width="20" ng-if="hackathon.highSchoolers == 'yes'">
-						<img src="images/status_no.png" alt="" width="20" ng-if="hackathon.highSchoolers == 'no'">
-						<img src="images/status_question.png" alt="" width="20" ng-if="hackathon.highSchoolers == 'unknown'">
-						<p class="info-line">
-							High Schoolers
-						</p>
-					</div>
-					<br>
-				</div>
-			</div>
 			<div class="row" ng-repeat="(key, month) in february15">
 				<div id="{{key}}" class="col-lg-6 col-lg-offset-3">
 					<h1>{{key}}</h1>
