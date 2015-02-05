@@ -13,10 +13,33 @@ h1
 h2
 {
 	font-size: 28px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+}
+a:link
+{
+    	color: #428BCA;
+	text-decoration: none;
+}
+a:visited
+{
+	color: #428BCA;
+}
+a:hover
+{
+	color: #05AADC;
+}
+a:active
+{
+	color: #05AADC;
 }
 p
 {
 	font-size: 20px;
+}
+#listings
+{
+	padding-left: 40px;
 }
 .container:first-child
 {
@@ -34,6 +57,7 @@ p
 }
 .info-line
 {
+	margin-top: 10px;
 	font-size: 18px;
 	line-height: 90%;
 }
@@ -44,13 +68,15 @@ p
 }
 .travel-reimbursement img,.prize-money img,.high-schoolers img
 {
-	margin: 10px;
-	margin-left: 0px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 8px;
 	line-height: 80%;
 }
 .travel-reimbursement p,.prize-money p,.high-schoolers p
 {
-	display: inline;
+	display: inline-block;
+	vertical-align: middle;
 	font-size: 14px;
 	line-height: 80%;
 }

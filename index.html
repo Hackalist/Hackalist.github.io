@@ -18,33 +18,34 @@
 			ga('send', 'pageview');
 		</script>
 		<link rel="shortcut icon" href="images/favicon.ico" />
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/skeleton.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body ng-app="hackalist">
-		<!-- Ribbon obtained from http://codepo8.github.io/css-fork-on-github-ribbon/ -->
-		<style>#forkongithub a{background:#428BCA;color:#FFFFFF;text-decoration:none;font-family:arial,sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#000000;color:#FFFFFF;}#forkongithub a::before,#forkongithub a::after{content:"";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#FFFFFF;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:600px){#forkongithub{position:fixed;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;z-index:9999;}#forkongithub a{width:200px;position:absolute;top:30px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);box-shadow:4px 4px 10px rgba(0,0,0,0.3);}}</style><span id="forkongithub"><a href="https://github.com/Hackalist/Hackalist.github.io">Contribute @ GitHub</a></span>
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-4 col-lg-offset-4">
+				<div class="twelve columns">
 					<br><a href="http://www.hackalist.org/"><img src="images/logo.png" alt="Hackalist" class="img-center"></a><br>	
 				</div>
 			</div>
 			<br>
 			<div class="row">
-				<div class="col-lg-6 col-lg-offset-3">
+				<div class="twelve columns">
 					<p class="text-subheading">
 						A list of upcoming hackathons from around the world. Open to all students, no cost to attend.
+						<br><br>
+						<a class="button" href="https://github.com/Hackalist/Hackalist.github.io">Contribute at GitHub</a>
+						<hr>
 					</p>
 				</div>
 			</div>
 		</div>
 		<div class="container" ng-controller="hackathonEvents">
 			<div class="row" ng-repeat="(key, month) in february15">
-				<div id="{{key}}" class="col-lg-6 col-lg-offset-3">
+				<div id="{{key}}" class="twelve columns">
 					<h1>{{key}}</h1>
 				</div>
-				<div class="col-lg-6 col-lg-offset-3" ng-repeat="(key, hackathon) in month">
+				<div id="listings" class="twelve columns" ng-repeat="(key, hackathon) in month">
 					<a href="{{hackathon.url}}" target="_blank">
 						<h2>{{hackathon.title}}</h2>
 					</a>
@@ -96,11 +97,11 @@
 					<br>
 				</div>
 			</div>
-			<div class="row" ng-repeat="(key, month) in march15">
-				<div id="{{key}}" class="col-lg-6 col-lg-offset-3">
+			<div id="listings" class="row" ng-repeat="(key, month) in march15">
+				<div id="{{key}}" class="twelve columns">
 					<h1>{{key}}</h1>
 				</div>
-				<div class="col-lg-6 col-lg-offset-3" ng-repeat="(key, hackathon) in month">
+				<div class="twelve columns" ng-repeat="(key, hackathon) in month">
 					<a href="{{hackathon.url}}" target="_blank">
 						<h2>{{hackathon.title}}</h2>
 					</a>
@@ -152,11 +153,11 @@
 					<br>
 				</div>
 			</div>
-			<div class="row" ng-repeat="(key, month) in april15">
-				<div id="{{key}}" class="col-lg-6 col-lg-offset-3">
+			<div id="listings" class="row" ng-repeat="(key, month) in april15">
+				<div id="{{key}}" class="twelve columns">
 					<h1>{{key}}</h1>
 				</div>
-				<div class="col-lg-6 col-lg-offset-3" ng-repeat="(key, hackathon) in month">
+				<div class="twelve columns" ng-repeat="(key, hackathon) in month">
 					<a href="{{hackathon.url}}" target="_blank">
 						<h2>{{hackathon.title}}</h2>
 					</a>
