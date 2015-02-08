@@ -156,11 +156,11 @@
       "size": "500",
       "travel": "no",
       "prize": "yes",
-      "highSchoolers": "unknown",
+      "highSchoolers": "yes",
       "facebookURL": "",
       "twitterURL": "",
       "googlePlusURL": "",
-      "notes": ""
+      "notes": "High schoolers accepted with valid .edu email address."
     },
     {
       "title": "BrickHack",
