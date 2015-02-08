@@ -66,14 +66,14 @@ p
 	font-size: 14px;
 	line-height: 80%;
 }
-.travel-reimbursement img,.prize-money img,.high-schoolers img
+.travel-reimbursement img,.prizes img,.high-schoolers img
 {
 	display: inline-block;
 	vertical-align: middle;
 	margin-right: 8px;
 	line-height: 80%;
 }
-.travel-reimbursement p,.prize-money p,.high-schoolers p
+.travel-reimbursement p,.prizes p,.high-schoolers p
 {
 	display: inline-block;
 	vertical-align: middle;
