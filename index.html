@@ -70,6 +70,13 @@
 					<p class="info-line-sm" ng-if="hackathon.size != 'unknown'">
 						Capacity: {{hackathon.size}}
 					</p>
+					<p class="info-line-sm" ng-if="hackathon.notes != ''">
+						Note: {{hackathon.note}}
+					</p>
+					<a href="{{hackathon.facebookURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
+						<img src="images/facebook.png" alt="" width="24px" ng-if="hackathon.facebookURL != ''">
+					</a>
+					
 					<div class="travel-reimbursement">
 						<img src="images/status_yes.png" alt="" width="20" ng-if="hackathon.travel == 'yes'">
 						<img src="images/status_no.png" alt="" width="20" ng-if="hackathon.travel == 'no'">
@@ -126,6 +133,9 @@
 					<p class="info-line-sm" ng-if="hackathon.size != 'unknown'">
 						Capacity: {{hackathon.size}}
 					</p>
+					<p class="info-line-sm" ng-if="hackathon.notes != ''">
+						Note: {{hackathon.note}}
+					</p>
 					<div class="travel-reimbursement">
 						<img src="images/status_yes.png" alt="" width="20" ng-if="hackathon.travel == 'yes'">
 						<img src="images/status_no.png" alt="" width="20" ng-if="hackathon.travel == 'no'">
@@ -181,6 +191,9 @@
 					</p>
 					<p class="info-line-sm" ng-if="hackathon.size != 'unknown'">
 						Capacity: {{hackathon.size}}
+					</p>
+					<p class="info-line-sm" ng-if="hackathon.notes != ''">
+						Note: {{hackathon.note}}
 					</p>
 					<div class="travel-reimbursement">
 						<img src="images/status_yes.png" alt="" width="20" ng-if="hackathon.travel == 'yes'">
