@@ -36,6 +36,9 @@ Listings are sorted chronology based on the starting date of the hackathon. If t
 * February - http://www.hackalist.org/api/1.0/2015/02.json
 * March - http://www.hackalist.org/api/1.0/2015/03.json
 * April - http://www.hackalist.org/api/1.0/2015/04.json
+* May - Not yet created.
+* June - Not year created.
+* July - http://www.hackalist.org/api/1.0/2015/07.json
 
 ##Parameters
 * `title`: Name of hackathon
