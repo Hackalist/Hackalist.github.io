@@ -125,6 +125,24 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "Hack@Smith",
+      "url": "http://www.hackatsmith.org/",
+      "startDate": "March 28",
+      "endDate": "March 29",
+      "year": "2015",
+      "city": "Northampton, MA, United States",
+      "host": "Smith College",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/hackatsmith",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
