@@ -361,6 +361,24 @@
       "notes": ""
     },
     {
+      "title": "HackExeter",
+      "url": "http://www.hackexeter.com/",
+      "startDate": "February 28",
+      "endDate": "March 1",
+      "year": "2015",
+      "city": " Exeter, NH, United States",
+      "host": "Phillips Exeter Academy",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "HackExeter is open to high schoolers only."
+    },
+    {
       "title": "HackTCNJ",
       "url": "http://hacktcnj2015.splashthat.com/",
       "startDate": "February 28",
