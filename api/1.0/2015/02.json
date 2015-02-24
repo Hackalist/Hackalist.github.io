@@ -127,6 +127,24 @@
       "notes": "HSHacks II is open to high schoolers only."
     },
     {
+      "title": "IC Hack",
+      "url": "http://ichack.org/#ichack",
+      "startDate": "February 7",
+      "endDate": "February 8",
+      "year": "2015",
+      "city": "London, England",
+      "host": "GoCardless",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "IDHack",
       "url": "http://idhack.developersfordevelopment.org/",
       "startDate": "February 13",
