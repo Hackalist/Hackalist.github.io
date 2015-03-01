@@ -397,6 +397,24 @@
       "notes": "HackExeter is open to high schoolers only."
     },
     {
+      "title": "HackLondon",
+      "url": "https://hacklondon.org/",
+      "startDate": "February 28",
+      "endDate": "March 1",
+      "year": "2015",
+      "city": "London, England",
+      "host": "KCL Tech, UCL TechSoc and UCLe",
+      "length": "24",
+      "size": "200",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hacklondonuk",
+      "twitterURL": "https://twitter.com/hacklondonuk",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackTCNJ",
       "url": "http://hacktcnj2015.splashthat.com/",
       "startDate": "February 28",
