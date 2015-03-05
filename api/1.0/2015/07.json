@@ -1,6 +1,24 @@
 {
   "July": [
     {
+      "title": "Prime Hack",
+      "url": "https://www.primehack.org/",
+      "startDate": "July 17",
+      "endDate": "July 19",
+      "year": "2015",
+      "city": "Taiwan",
+      "host": "Prime Hack",
+      "length": "36",
+      "size": "750",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/primehackorg",
+      "twitterURL": "https://twitter.com/PrimeHackOrg",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Global Hackathon Seoul",
       "url": "http://seoul.globalhackathon.io/",
       "startDate": "July 29",
