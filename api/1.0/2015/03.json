@@ -37,7 +37,7 @@
       "notes": ""
     },
     {
-      "title": "WarwickHACK 2.0",
+      "title": "WarwickHACK",
       "url": "http://techsoc.uwcs.co.uk/hack",
       "startDate": "March 7",
       "endDate": "March 8",
@@ -64,13 +64,13 @@
       "host": "University of Edinburgh",
       "length": "30",
       "size": "100",
-      "travel": "unknown",
+      "travel": "no",
       "prize": "yes",
-      "highSchoolers": "unknown",
+      "highSchoolers": "no",
       "facebookURL": "",
       "twitterURL": "https://twitter.com/hacktheburgh",
       "googlePlusURL": "",
-      "notes": ""
+      "notes": "Can do coached for travel through MLH"
     },
     {
       "title": "HackBU",
