@@ -37,7 +37,7 @@
       "notes": ""
     },
     {
-      "title": "WarwickHACK",
+      "title": "WarwickHACK 2.0",
       "url": "http://techsoc.uwcs.co.uk/hack",
       "startDate": "March 7",
       "endDate": "March 8",
@@ -162,7 +162,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
-        {
+    {
+      "title": "BrumHack 2.0",
+      "url": "https://www.brumhack.co.uk/",
+      "startDate": "March 28",
+      "endDate": "March 29",
+      "year": "2015",
+      "city": "Birmingham, England",
+      "host": "University of Birmingham",
+      "length": "24",
+      "size": "150",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/events/1608104166079654/",
+      "twitterURL": "https://twitter.com/brumhack",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackPSU",
       "url": "http://www.hackpsu.com/",
       "startDate": "March 28",
