@@ -55,6 +55,24 @@
       "notes": ""
     },
     {
+      "title": "Hack the Burgh",
+      "url": "http://hacktheburgh.com/",
+      "startDate": "March 14",
+      "endDate": "March 15",
+      "year": "2015",
+      "city": "Edinburgh, Scotland",
+      "host": "University of Edinburgh",
+      "length": "30",
+      "size": "100",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/hacktheburgh",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackBU",
       "url": "http://hackathon.hackbu.org/",
       "startDate": "March 20",
