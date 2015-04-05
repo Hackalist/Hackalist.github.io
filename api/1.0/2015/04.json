@@ -14,7 +14,7 @@
       "prize": "yes",
       "highSchoolers": "no",
       "facebookURL": "",
-      "twitterURL": "h",
+      "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
     },
@@ -51,6 +51,24 @@
       "highSchoolers": "unknown",
       "facebookURL": "https://www.facebook.com/bitcmp",
       "twitterURL": "https://twitter.com/bitcmp",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "HackCU",
+      "url": "http://hackcu.org/",
+      "startDate": "April 10",
+      "endDate": "April 12",
+      "year": "2015",
+      "city": "Boulder, CO, United States",
+      "host": "University of Colorado",
+      "length": "36",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/letsHackCU",
+      "twitterURL": "https://twitter.com/HackCU",
       "googlePlusURL": "",
       "notes": ""
     },
