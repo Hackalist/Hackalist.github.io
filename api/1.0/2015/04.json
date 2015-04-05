@@ -91,6 +91,24 @@
       "notes": ""
     },
     {
+      "title": "HackPrinceton",
+      "url": "https://hackprinceton.com/",
+      "startDate": "April 11",
+      "endDate": "April 12",
+      "year": "2015",
+      "city": "Princeton, NJ, United States",
+      "host": "Princeton University",
+      "length": "24",
+      "size": "500",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hackprinceton",
+      "twitterURL": "https://twitter.com/hackprinceton",
+      "googlePlusURL": "",
+      "notes": "High schoolers must be 18 and over to attend."
+    },
+    {
       "title": "HackUMass",
       "url": "http://hackumass.com/",
       "startDate": "April 11",
