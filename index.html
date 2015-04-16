@@ -40,11 +40,18 @@
 						<a href="#april15">April</a> • <a href="#may15">May</a> • <a href="#july15">July</a>
 						<div style="text-align:center;" ng-init="travelToggle = 0; prizeToggle = 0; highSchoolersToggle = 0">
 							<h2>Show only hackathons that...</h2>
-     							<div style="text-align:left; padding-left:30%;">
-								<input id="cbTravelToggle" type="checkbox" class="checkbox" ng-click="travelToggle = travelToggle + 1" /><label for="cbTravelToggle">Offer Travel Reimbursement</label><br>
-								<input id="cbPrizeToggle" type="checkbox" class="checkbox" ng-click="prizeToggle = prizeToggle + 1" /><label for="cbPrizeToggle">Offer Prizes</label><br>
-								<input id="cbHighSchoolersToggle" type="checkbox" class="checkbox" ng-click="highSchoolersToggle = highSchoolersToggle + 1" /><label for="cbHighSchoolersToggle">Accept High Schoolers</label>
-							</div>
+								Offer Travel Reimbursements
+     							<div class="onoffswitch" style="left:45%; text-align:center;">
+									<input id="cbTravelToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="travelToggle = travelToggle + 1" /><label for="cbTravelToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
+								</div>
+								<br>Have Prizes
+								<div class="onoffswitch" style="left:45%; text-align:center;">
+									<input id="cbPrizeToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="prizeToggle = prizeToggle + 1" /><label for="cbPrizeToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
+								</div>
+								<br>Accept High Schoolers
+								<div class="onoffswitch" style="left:45%; text-align:center;">
+									<input id="cbHighSchoolersToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="highSchoolersToggle = highSchoolersToggle + 1" /><label for="cbHighSchoolersToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
+								</div>
 						</div>
 						<hr>
 					</p>
