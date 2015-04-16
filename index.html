@@ -32,26 +32,29 @@
 			<br>
 			<div class="row">
 				<div class="twelve columns">
-					<p style="text-align:center;" class="text-subheading">
+					<p style="text-align:center;">
 						A list of upcoming hackathons from around the world. Open to all students, no cost to attend.
 						<br><br>
 						<a class="button" href="https://github.com/Hackalist/Hackalist.github.io">Contribute at GitHub</a>
-						<br><br>
-						<a href="#april15">April</a> • <a href="#may15">May</a> • <a href="#july15">July</a>
-						<div style="text-align:center;" ng-init="travelToggle = 0; prizeToggle = 0; highSchoolersToggle = 0">
+						<div id="toggleNav" style="text-align:center;" ng-init="travelToggle = 0; prizeToggle = 0; highSchoolersToggle = 0">
 							<h2>Show only hackathons that...</h2>
-								Offer Travel Reimbursements
-     							<div class="onoffswitch" style="left:45%; text-align:center;">
-									<input id="cbTravelToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="travelToggle = travelToggle + 1" /><label for="cbTravelToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
-								</div>
-								<br>Have Prizes
-								<div class="onoffswitch" style="left:45%; text-align:center;">
-									<input id="cbPrizeToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="prizeToggle = prizeToggle + 1" /><label for="cbPrizeToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
-								</div>
-								<br>Accept High Schoolers
-								<div class="onoffswitch" style="left:45%; text-align:center;">
-									<input id="cbHighSchoolersToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="highSchoolersToggle = highSchoolersToggle + 1" /><label for="cbHighSchoolersToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
-								</div>
+							Offer Travel Reimbursements
+     						<div class="onoffswitch" style="left:45%; text-align:center;">
+								<input id="cbTravelToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="travelToggle = travelToggle + 1" /><label for="cbTravelToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
+							</div>
+							<br>Have Prizes
+							<div class="onoffswitch" style="left:45%; text-align:center;">
+								<input id="cbPrizeToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="prizeToggle = prizeToggle + 1" /><label for="cbPrizeToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
+							</div>
+							<br>Accept High Schoolers
+							<div class="onoffswitch" style="left:45%; text-align:center;">
+								<input id="cbHighSchoolersToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="highSchoolersToggle = highSchoolersToggle + 1" /><label for="cbHighSchoolersToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
+							</div>
+						</div>
+						<br>
+						<div id="monthNav" style="text-align:center;">
+							<h2>Month Navigation</h2>
+							<a class="button" href="#april15">April</a> <a class="button" href="#may15">May</a> <a class="button" href="#july15">July</a>
 						</div>
 						<hr>
 					</p>
