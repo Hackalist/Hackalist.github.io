@@ -41,9 +41,9 @@
 						<div style="text-align:center;" ng-init="travelToggle = 0; prizeToggle = 0; highSchoolersToggle = 0">
 							<h2>Show only hackathons that...</h2>
      							<div style="text-align:left; padding-left:30%;">
-								<input type="checkbox" class="checkbox" ng-click="travelToggle = travelToggle + 1">Offer Travel Reimbursement</a><br>
-								<input type="checkbox" class="checkbox" ng-click="prizeToggle = prizeToggle + 1">Offer Prizes</a><br>
-								<input type="checkbox" class="checkbox" ng-click="highSchoolersToggle = highSchoolersToggle + 1">Accept High Schoolers</a>
+								<input id="cbTravelToggle" type="checkbox" class="checkbox" ng-click="travelToggle = travelToggle + 1" /><label for="cbTravelToggle">Offer Travel Reimbursement</label><br>
+								<input id="cbPrizeToggle" type="checkbox" class="checkbox" ng-click="prizeToggle = prizeToggle + 1" /><label for="cbPrizeToggle">Offer Prizes</label><br>
+								<input id="cbHighSchoolersToggle" type="checkbox" class="checkbox" ng-click="highSchoolersToggle = highSchoolersToggle + 1" /><label for="cbHighSchoolersToggle">Accept High Schoolers</label>
 							</div>
 						</div>
 						<hr>
