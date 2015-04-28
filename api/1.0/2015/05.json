@@ -1,6 +1,24 @@
 {
   "May": [
     {
+      "title": "Project 34",
+      "url": "http://www.theproject34.com/",
+      "startDate": "May 2",
+      "endDate": "May 3",
+      "year": "2015",
+      "city": "St. Petersburg, Russia",
+      "host": "The Dali Museum",
+      "length": "34",
+      "size": "144",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "ecomhack 2015",
       "url": "http://www.ecomhack.io/",
       "startDate": "May 9",
