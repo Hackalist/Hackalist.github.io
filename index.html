@@ -54,7 +54,7 @@
 						<br>
 						<div id="monthNav" style="text-align:center;">
 							<h2>Month Navigation</h2>
-							<a class="button" href="#april15">April</a> <a class="button" href="#may15">May</a> <a class="button" href="#june15">June</a> <a class="button" href="#july15">July</a>
+							<a class="button" href="#may15">May</a> <a class="button" href="#june15">June</a> <a class="button" href="#july15">July</a> <a class="button" href="#august15">August</a>
 						</div>
 						<hr>
 					</p>
@@ -186,6 +186,66 @@
 			<div id="listings" class="row" ng-repeat="(key, month) in july15">
 				<div id="{{key}}" class="twelve columns">
 					<a name="july15"></a>
+					<h1>{{key}}</h1>
+				</div>
+				<div class="twelve columns" ng-repeat="(key, hackathon) in month" ng-if="(((hackathon.travel == 'yes') && (travelToggle % 2 != 0)) && ((hackathon.prize == 'yes') && (prizeToggle % 2 != 0)) && ((hackathon.highSchoolers == 'yes') && (highSchoolersToggle % 2 != 0))) || (((hackathon.travel == 'yes') && (travelToggle % 2 != 0)) && ((hackathon.prize == 'yes') && (prizeToggle % 2 != 0)) && ((highSchoolersToggle % 2 == 0))) || (((hackathon.travel == 'yes') && (travelToggle % 2 != 0)) && ((prizeToggle % 2 == 0)) && ((hackathon.highSchoolers == 'yes') && (highSchoolersToggle % 2 != 0))) || (((travelToggle % 2 == 0)) && ((hackathon.prize == 'yes') && (prizeToggle % 2 != 0)) && ((hackathon.highSchoolers == 'yes') && (highSchoolersToggle % 2 != 0))) || (((hackathon.travel == 'yes') && (travelToggle % 2 != 0)) && ((prizeToggle % 2 == 0)) && ((highSchoolersToggle % 2 == 0))) || (((travelToggle % 2 == 0)) && ((prizeToggle % 2 == 0)) && ((hackathon.highSchoolers == 'yes') && (highSchoolersToggle % 2 != 0))) || (((travelToggle % 2 == 0)) && ((hackathon.prize == 'yes') && (prizeToggle % 2 != 0)) && ((highSchoolersToggle % 2 == 0))) || (((travelToggle % 2 == 0)) && ((prizeToggle % 2 == 0)) && ((highSchoolersToggle % 2 == 0)))">
+					<a href="{{hackathon.url}}" target="_blank">
+						<h2>{{hackathon.title}}</h2>
+					</a>
+					<a href="{{hackathon.facebookURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
+						<img src="images/facebook.png" alt="Facebook profile" width="24px" ng-if="hackathon.facebookURL != ''">
+					</a>
+					<a href="{{hackathon.twitterURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
+						<img src="images/twitter.png" alt="Twitter profile" width="24px" ng-if="hackathon.twitterURL != ''">
+					</a>
+					<a href="{{hackathon.googlePlusURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
+						<img src="images/googleplus.png" alt="Google+ profile" width="24px" ng-if="hackathon.googlePlusURL != ''">
+					</a>
+					<p class="info-line">
+						{{hackathon.startDate}} - {{hackathon.endDate}} in {{hackathon.city}}
+					</p>
+					<p class="info-line-sm">
+						Hosted by {{hackathon.host}} for {{hackathon.length}} hours
+					</p>
+					<p class="info-line-sm" ng-if="hackathon.size == 'unknown'">
+						Capacity: Unknown
+					</p>
+					<p class="info-line-sm" ng-if="hackathon.size != 'unknown'">
+						Capacity: {{hackathon.size}}
+					</p>
+					<p class="info-line-sm" ng-if="hackathon.notes != ''">
+						Note: {{hackathon.notes}}
+					</p>
+					<div class="travel-reimbursement">
+						<img src="images/status-yes.png" alt="Travel reimbursement offered!" width="20" ng-if="hackathon.travel == 'yes'">
+						<img src="images/status-no.png" alt="Travel reimbursement not offered" width="20" ng-if="hackathon.travel == 'no'">
+						<img src="images/status-question.png" alt="Unknown" width="20" ng-if="hackathon.travel == 'unknown'">
+						<p class="info-line">
+							Travel Reimbursement
+						</p>
+					</div>
+					<div class="prizes">
+						<img src="images/status-yes.png" alt="Prizes offered!" width="20" ng-if="hackathon.prize == 'yes'">
+						<img src="images/status-no.png" alt="Prizes not offered" width="20" ng-if="hackathon.prize == 'no'">
+						<img src="images/status-question.png" alt="Unknown" width="20" ng-if="hackathon.prize == 'unknown'">
+						<p class="info-line">
+							Prizes
+						</p>
+					</div>
+					<div class="high-schoolers">
+						<img src="images/status-yes.png" alt="High schoolers accepted!" width="20" ng-if="hackathon.highSchoolers == 'yes'">
+						<img src="images/status-no.png" alt="High schoolers not accepted" width="20" ng-if="hackathon.highSchoolers == 'no'">
+						<img src="images/status-question.png" alt="Unknown" width="20" ng-if="hackathon.highSchoolers == 'unknown'">
+						<p class="info-line">
+							High Schoolers
+						</p>
+					</div>
+					<br>
+				</div>
+			</div>
+			<div id="listings" class="row" ng-repeat="(key, month) in august15">
+				<div id="{{key}}" class="twelve columns">
+					<a name="august15"></a>
 					<h1>{{key}}</h1>
 				</div>
 				<div class="twelve columns" ng-repeat="(key, hackathon) in month" ng-if="(((hackathon.travel == 'yes') && (travelToggle % 2 != 0)) && ((hackathon.prize == 'yes') && (prizeToggle % 2 != 0)) && ((hackathon.highSchoolers == 'yes') && (highSchoolersToggle % 2 != 0))) || (((hackathon.travel == 'yes') && (travelToggle % 2 != 0)) && ((hackathon.prize == 'yes') && (prizeToggle % 2 != 0)) && ((highSchoolersToggle % 2 == 0))) || (((hackathon.travel == 'yes') && (travelToggle % 2 != 0)) && ((prizeToggle % 2 == 0)) && ((hackathon.highSchoolers == 'yes') && (highSchoolersToggle % 2 != 0))) || (((travelToggle % 2 == 0)) && ((hackathon.prize == 'yes') && (prizeToggle % 2 != 0)) && ((hackathon.highSchoolers == 'yes') && (highSchoolersToggle % 2 != 0))) || (((hackathon.travel == 'yes') && (travelToggle % 2 != 0)) && ((prizeToggle % 2 == 0)) && ((highSchoolersToggle % 2 == 0))) || (((travelToggle % 2 == 0)) && ((prizeToggle % 2 == 0)) && ((hackathon.highSchoolers == 'yes') && (highSchoolersToggle % 2 != 0))) || (((travelToggle % 2 == 0)) && ((hackathon.prize == 'yes') && (prizeToggle % 2 != 0)) && ((highSchoolersToggle % 2 == 0))) || (((travelToggle % 2 == 0)) && ((prizeToggle % 2 == 0)) && ((highSchoolersToggle % 2 == 0)))">
