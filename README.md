@@ -46,7 +46,7 @@ Listings are sorted chronology based on the starting date of the hackathon. If t
 * `startDate:` Starting date, formatted as *Month Day* (e.g. August 30)
 * `endDate:` End date, formatted as *Month Day* (e.g. August 30)
 * `year:` Year
-* `city:` City hackathon is occuring in, formatted as *City, State/Province Abbreviation, Country* (e.g. Miami, FL, United States)
+* `city:` City hackathon is occuring in, formatted as *City, State/Province Abbreviation, Country* (e.g. Miami, FL, United States). If a hackathon has multiple locations (e.g. CodeDay), list as *Various Locations (Country)*, replacing *Country* with a country name (or *Worldwide*).
 * `host:` The host (university, company, etc.)
 * `length:` Length in hours
 * `size:` Number of attendees; if not known, specify *unknown*
