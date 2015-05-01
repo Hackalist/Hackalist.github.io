@@ -53,6 +53,24 @@
       "twitterURL": "https://twitter.com/revolution_uc",
       "googlePlusURL": "",
       "notes": "Travel reimbursement on a case-by-case basis."
-    }
+    },
+    {
+      "title": "CodeDay Spring 2015",
+      "url": "https://codeday.org/",
+      "startDate": "May 23",
+      "endDate": "May 24",
+      "year": "2015",
+      "city": "Various Location (United States)",
+      "host": "StudentRND",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/CodeDayEvents",
+      "twitterURL": "https://twitter.com/CodeDay",
+      "googlePlusURL": "",
+      "notes": ""
+    },
   ]
 }
