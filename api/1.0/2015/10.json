@@ -1,6 +1,24 @@
 {
   "October": [
     {
+      "title": "SD Hacks",
+      "url": "http://sdhacks.io/",
+      "startDate": "October 2",
+      "endDate": "October 4",
+      "year": "2015",
+      "city": "San Diego, CA, United States",
+      "host": "University of California, San Diego",
+      "length": "36",
+      "size": "1000",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/SDHacks",
+      "twitterURL": "https://twitter.com/sdhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Kent Hack Enough",
       "url": "https://khe.io/",
       "startDate": "October 9",
