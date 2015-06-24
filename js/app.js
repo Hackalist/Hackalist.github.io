@@ -46,4 +46,7 @@ app.controller('hackathonEvents', ['$http', '$scope', function($http, $scope){
   $http.get('../api/1.0/2015/10.json').success(function (data) {
     $scope.october15 = data;
   })
+  $http.get('../api/1.0/2015/11.json').success(function (data) {
+    $scope.november15 = data;
+  })
 }]);
