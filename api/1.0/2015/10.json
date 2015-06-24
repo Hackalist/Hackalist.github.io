@@ -17,6 +17,42 @@
       "twitterURL": "https://twitter.com/kenthackenough",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "DubHacks",
+      "url": "http://15f.dubhacks.co/",
+      "startDate": "October 17",
+      "endDate": "October 18",
+      "year": "2015",
+      "city": "Seattle, WA, United States",
+      "host": "University of Washington",
+      "length": "24",
+      "size": "500",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/uwhacks",
+      "twitterURL": "https://twitter.com/dubhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "Boston Hacks",
+      "url": "https://bostonhacks.io/",
+      "startDate": "October 31",
+      "endDate": "November 1",
+      "year": "2015",
+      "city": "Boston, MA, United States",
+      "host": "Boston University",
+      "length": "24",
+      "size": "500",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/pages/Boston-Hacks/1598825707023977",
+      "twitterURL": "https://twitter.com/boston_hacks",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
