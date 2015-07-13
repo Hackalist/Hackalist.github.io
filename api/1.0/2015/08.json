@@ -1,6 +1,24 @@
 {
   "August": [
     {
+      "title": "Piazza Hackathon",
+      "url": "https://piazza.com/hack",
+      "startDate": "August 8",
+      "endDate": "August 8",
+      "year": "2015",
+      "city": "Palo Alto, CA, United States",
+      "host": "Piazza",
+      "length": "12",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/Piazzza",
+      "twitterURL": "https://twitter.com/piazza",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Hack the Planet",
       "url": "http://hacktheplanet.mlh.io/",
       "startDate": "August 14",
