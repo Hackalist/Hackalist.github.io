@@ -11,7 +11,8 @@ If you have any questions or concerns, please tweet [@KevinPayravi](http://twitt
 Authorship
 =================================
 Site initiated by [Kevin Payravi](http://www.kevinpayravi.com/). Special thanks to:
-* [Aaroh Mankad](https://github.com/aarohmankad) for implementing Bootstrap and automated AngularJS parsing.
+* [Aaroh Mankad](https://github.com/aarohmankad) for implementing automated AngularJS parsing.
+* [Harrison Shoebridge](https://github.com/paked) for improving JavaScript and automated page generation.
 * [Rodrigo Argumedo](https://github.com/rodrigoargumedo) for continued support.
 * [All others](https://github.com/Hackalist/Hackalist.github.io/graphs/contributors) who have submitted hackathon listings.
 
