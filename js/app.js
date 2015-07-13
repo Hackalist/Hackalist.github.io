@@ -3,23 +3,23 @@ var app = angular.module('hackalist', []);
 app.controller('hackathonEvents', ['$http', '$scope', function($http, $scope){
   $scope.hackathons = [];
   $scope.applicable = function(hackathon) {
-    if ($scope.travelToggle == 0 && $scope.prizeToggle == 0 && $scope.highSchoolersToggle == 0) {
+    if (!$scope.travelReimbursements && !$scope.prizes && !$scope.highSchoolers) {
       return true;
     }
 
-    if ($scope.travelToggle != 0 && hackathon.travel == 'yes') {
-      return true;
+    if ($scope.travelReimbursements && hackathon.travel != 'yes') {
+      return false;
     }
 
-    if ($scope.prizeToggle != 0 && hackathon.prize != 'unknown') {
-      return true;
+    if ($scope.prizes && hackathon.prize != 'yes') {
+      return false;
     }
 
-    if ($scope.highSchoolersToggle != 0 && hackathon.highSchoolers == "yes") {
-      return true;
+    if ($scope.highSchoolers && hackathon.highSchoolers != 'yes') {
+      return false;
     }
 
-    return false;
+    return true;
   }
 
   var today = new Date();
