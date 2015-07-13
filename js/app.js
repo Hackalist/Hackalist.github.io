@@ -11,7 +11,7 @@ app.controller('hackathonEvents', ['$http', '$scope', function($http, $scope){
       return false;
     }
 
-    if ($scope.prizes && hackathon.prizes != 'yes') {
+    if ($scope.prizes && hackathon.prize != 'yes') {
       return false;
     }
 
