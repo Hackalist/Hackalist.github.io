@@ -43,6 +43,7 @@ Listings are sorted chronology based on the starting date of the hackathon. If t
 * August - http://www.hackalist.org/api/1.0/2015/08.json
 * September - http://www.hackalist.org/api/1.0/2015/09.json
 * October - http://www.hackalist.org/api/1.0/2015/10.json
+* November - http://www.hackalist.org/api/1.0/2015/11.json
 
 ##Parameters
 * `title`: Name of hackathon
