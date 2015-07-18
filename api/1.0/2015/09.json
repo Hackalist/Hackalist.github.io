@@ -64,13 +64,13 @@
       "host": "Harvard University",
       "length": "36",
       "size": "unknown",
-      "travel": "unknown",
-      "prize": "unknown",
-      "highSchoolers": "unknown",
+      "travel": "yes",
+      "prize": "5000",
+      "highSchoolers": "yes",
       "facebookURL": "https://www.facebook.com/hackingeatingtracking",
       "twitterURL": "https://twitter.com/HackEatTrack",
       "googlePlusURL": "",
-      "notes": ""
+      "notes": "Virtual attendance is allowed!"
     },
     {
       "title": "Hack the North",
