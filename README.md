@@ -16,6 +16,12 @@ Site initiated by [Kevin Payravi](http://www.kevinpayravi.com/). Special thanks 
 * [Rodrigo Argumedo](https://github.com/rodrigoargumedo) for continued support.
 * [All others](https://github.com/Hackalist/Hackalist.github.io/graphs/contributors) who have submitted hackathon listings.
 
+Licensing
+=================================
+Site code is licensed under the [MIT license](https://github.com/Hackalist/Hackalist.github.io/blob/master/LICENSE).
+
+Hackalist also utilizses some design/style elements from [Skeleton](http://getskeleton.com/), a project by Dave Gamache that is also [licensed under the MIT license](https://github.com/dhg/Skeleton/blob/master/master/LICENSE.md).
+
 API
 =================================
 The Hackalist API is split into separate JSON files for each month of each year, following the file pattern `/api/1.0/YEAR/MONTH.json`.
