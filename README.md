@@ -20,7 +20,7 @@ Licensing
 =================================
 Site code is licensed under the [MIT license](https://github.com/Hackalist/Hackalist.github.io/blob/master/LICENSE).
 
-Hackalist also utilizses some design/style elements from [Skeleton](http://getskeleton.com/), a project by Dave Gamache that is also [licensed under the MIT license](https://github.com/dhg/Skeleton/blob/master/master/LICENSE.md).
+Hackalist also utilizses some design/style elements from [Skeleton](http://getskeleton.com/), a project by Dave Gamache that is also [licensed under the MIT license](https://github.com/dhg/Skeleton/blob/master/LICENSE.md).
 
 API
 =================================
