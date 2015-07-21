@@ -1,6 +1,24 @@
 {
   "October": [
     {
+      "title": "HackZürich",
+      "url": "http://hackzurich.com",
+      "startDate": "October 2",
+      "endDate": "October 4",
+      "year": "2015",
+      "city": "Zürich, Switzerland",
+      "host": "Technopark Zürich",
+      "length": "40",
+      "size": "500",
+      "travel": "yes",
+      "prize": "unknown",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/hackzurich",
+      "twitterURL": "https://twitter.com/hackzurich",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "SD Hacks",
       "url": "http://sdhacks.io/",
       "startDate": "October 2",
