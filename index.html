@@ -54,7 +54,12 @@
 						<br>
 						<div id="monthNav" style="text-align:center;">
 						  <h2>Month Navigation</h2>
-						  <a class="button" ng-repeat="month in hackathons" ng-href="#{{month.month}}">{{month.month}}</a>
+						  <div class="row" style="margin-bottom: 1%; margin-left:auto; margin-right: auto; text-align: center;" ng-repeat="hacks in chunkedHackathons">
+							<div class="four columns" ng-repeat="month in hacks">
+							  <a style="width: 90%; margin:auto;"class="button" ng-href="#{{month.month}}">{{month.month}}</a>
+							</div>
+						  </div>
+						
 						</div>
 						<hr>
 					</p>
