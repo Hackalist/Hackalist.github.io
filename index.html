@@ -23,10 +23,11 @@
 
 	</head>
 	<body ng-controller="hackathonEvents">
-		<div class="container" style="padding:20px;">
+
+		<div class="container" style="padding:20px;" >
 			<div class="row">
 				<div class="twelve columns">
-					<br><img src="images/logo.png" alt="Hackalist" class="img-center"><br>	
+					<br> <a href="www.hackalist.org"><img src="images/logo.png" alt="Hackalist" class="img-center"> </a><br>	
 				</div>
 			</div>
 			<br>
@@ -36,7 +37,12 @@
 						A list of upcoming hackathons from around the world. 
 						<br><br>
 						<a class="button" href="https://github.com/Hackalist/Hackalist.github.io">Contribute on GitHub</a>
-						<div id="toggleNav" style="text-align:center;" ng-init="travelReimbursements = false; prizes = false; highSchoolers = false">
+						<div id="githubButtons"><iframe src="https://ghbtns.com/github-btn.html?user=Hackalist&repo=Hackalist.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="130px" height="30px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=Hackalist&repo=Hackalist.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="130px" height="30px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=Hackalist&repo=Hackalist.github.io&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="130px" height="30px"></iframe>
+
+	</div>
+	<div id="toggleNav" style="text-align:center;" ng-init="travelReimbursements = false; prizes = false; highSchoolers = false">
 							<h2>Show only hackathons that...</h2>
 							Offer Travel Reimbursements
 							<div class="onoffswitch" style="left:45%; text-align:center;">
@@ -54,14 +60,20 @@
 						<br>
 						<div id="monthNav" style="text-align:center;">
 						  <h2>Month Navigation</h2>
-						  <div class="row" style="margin-bottom: 1%; margin-left:auto; margin-right: auto; text-align: center;" ng-repeat="hacks in chunkedHackathons">
+					
+						  <div class="row" style="margin-bottom: 1%; margin-left:1%; margin-right: 1%; text-align: center;" ng-repeat="hacks in chunkedHackathons">
+
 							<div class="four columns" ng-repeat="month in hacks">
-							  <a style="width: 90%; margin:auto;"class="button" ng-href="#{{month.month}}">{{month.month}}</a>
+
+
+
+							  <a style="width: 100%; margin:auto;"class="button" ng-href="#{{month.month}}">{{month.month}}</a>
 							</div>
 						  </div>
 						
 						</div>
 						<hr>
+						</hr>
 					</p>
 				</div>
 			</div>
