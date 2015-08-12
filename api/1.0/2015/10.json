@@ -73,6 +73,24 @@
       "notes": ""
     },
     {
+      "title": "AWS re:Invent Hackathon",
+      "url": "http://reinvent.awsevents.com/hackathon.html",
+      "startDate": "October 6",
+      "endDate": "October 6",
+      "year": "2015",
+      "city": "Las Vegas, NV, United States",
+      "host": "Amazon",
+      "length": "40",
+      "size": "500",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/amazonwebservices",
+      "twitterURL": "https://twitter.com/awscloud",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Cal Hacks",
       "url": "http://www.calhacks.io",
       "startDate": "October 9",
