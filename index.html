@@ -62,12 +62,8 @@
 						  <h2>Month Navigation</h2>
 					
 						  <div class="row" style="margin-bottom: 1%; margin-left:1%; margin-right: 1%; text-align: center;" ng-repeat="hacks in chunkedHackathons">
-
-							<div class="four columns" ng-repeat="month in hacks">
-
-
-
-							  <a style="width: 100%; margin:auto;"class="button" ng-href="#{{month.month}}">{{month.month}}</a>
+							<div class="offset-by-one three columns" ng-repeat="month in hacks">
+								<a style="width: 100%; margin:auto;"class="button" ng-href="#{{month.month}}">{{month.month}}</a>
 							</div>
 						  </div>
 						
