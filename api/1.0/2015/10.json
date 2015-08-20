@@ -73,6 +73,24 @@
       "notes": ""
     },
     {
+      "title": "HackDartmouth II",
+      "url": "http://hackdartmouth.io/",
+      "startDate": "October 3",
+      "endDate": "October 4",
+      "year": "2015",
+      "city": "Hanover, NH, United States",
+      "host": "Dartmouth College",
+      "length": "24",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hackDartmouth",
+      "twitterURL": "https://twitter.com/hackdartmouth",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "AWS re:Invent Hackathon",
       "url": "http://reinvent.awsevents.com/hackathon.html",
       "startDate": "October 6",
