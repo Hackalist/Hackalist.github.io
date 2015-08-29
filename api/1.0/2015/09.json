@@ -215,6 +215,24 @@
       "twitterURL": "https://twitter.com/mythicapps",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "HackGenY London",
+      "url": "http://www.hackgeny.com/london/",
+      "startDate": "September 26",
+      "endDate": "September 27",
+      "year": "2015",
+      "city": "London, UK",
+      "host": "WeWork Moorgate",
+      "length": "24",
+      "size": "600",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hackgeny",
+      "twitterURL": "https://twitter.com/hackgeny",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
