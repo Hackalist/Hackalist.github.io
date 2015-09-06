@@ -1,6 +1,24 @@
 {
   "August": [
     {
+      "title": "TunaHack",
+      "url": "http://tunahack.mx/",
+      "startDate": "August 7",
+      "endDate": "August 9",
+      "year": "2015",
+      "city": "San Luis Potosí, S.L.P., Mexico",
+      "host": "Piazza",
+      "length": "48",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/comunidadcodigo",
+      "twitterURL": "https://twitter.com/comunidadcodigo",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Piazza Hackathon",
       "url": "https://piazza.com/hack",
       "startDate": "August 8",
