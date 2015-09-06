@@ -91,6 +91,24 @@
       "notes": ""
     },
     {
+      "title": "HackRU IX",
+      "url": "http://hackru.org/",
+      "startDate": "October 3",
+      "endDate": "October 4",
+      "year": "2015",
+      "city": "New Brunswick, NJ, United States",
+      "host": "Rutgers University",
+      "length": "24",
+      "size": "1000+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/theHackRU",
+      "twitterURL": "https://twitter.com/thehackru",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "AWS re:Invent Hackathon",
       "url": "http://reinvent.awsevents.com/hackathon.html",
       "startDate": "October 6",
@@ -217,6 +235,24 @@
       "notes": ""
     },
     {
+      "title": "Desert Hacks",
+      "url": "http://deserthacks.org/",
+      "startDate": "October 23",
+      "endDate": "October 25",
+      "year": "2015",
+      "city": "Tempe, AZ, United States",
+      "host": "Arizona State University",
+      "length": "36",
+      "size": "500+",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/deserthacks",
+      "twitterURL": "https://twitter.com/deserthacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackingEDU",
       "url": "http://hackingedu.co/",
       "startDate": "October 23",
@@ -232,6 +268,24 @@
       "facebookURL": "https://www.facebook.com/hackingedusf",
       "twitterURL": "https://twitter.com/hackingedusf",
       "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "HackUMass",
+      "url": "http://hackumass.com/",
+      "startDate": "October 23",
+      "endDate": "October 25",
+      "year": "2015",
+      "city": "Amherst, MA, United States",
+      "host": "University of Massachusetts Amherst",
+      "length": "36",
+      "size": "500+",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hackUMass",
+      "twitterURL": "https://twitter.com/hackumass",
+      "googlePlusURL": "https://plus.google.com/108473055507651283001/posts",
       "notes": ""
     },
     {
