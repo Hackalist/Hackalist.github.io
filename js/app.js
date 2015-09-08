@@ -24,7 +24,7 @@ app.controller('hackathonEvents', ['$http', '$scope', function($http, $scope){
 
   var today = new Date();
 
-  var month = today.getMonth();
+  var month = today.getMonth() + 1;
   var year = today.getFullYear();
 
   function getData(month, year) {
