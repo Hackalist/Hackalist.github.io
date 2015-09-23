@@ -127,6 +127,24 @@
       "notes": ""
     },
     {
+      "title": "Technica",
+      "url": "http://gotechnica.org/",
+      "startDate": "November 7",
+      "endDate": "November 8",
+      "year": "2015",
+      "city": "College Park, MD, United States",
+      "host": "University of Maryland",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/profile.php?id=100009917836969",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Technica is an all-ladies hackathon."
+    },
+    {
       "title": "HackNJIT",
       "url": "http://hacknjit.org/",
       "startDate": "November 8",
@@ -269,24 +287,6 @@
       "twitterURL": "https://twitter.com/hackwestern",
       "googlePlusURL": "",
       "notes": ""
-    },
-    {
-      "title": "Technica",
-      "url": "http://gotechnica.org/",
-      "startDate": "November 7",
-      "endDate": "November 8",
-      "year": "2015",
-      "city": "College Park, MD, United States",
-      "host": "University of Maryland",
-      "length": "24",
-      "size": "unknown",
-      "travel": "unknown",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "facebookURL": "https://www.facebook.com/profile.php?id=100009917836969",
-      "twitterURL": "",
-      "googlePlusURL": "",
-      "notes": "Technica is an all-ladies hackathon."
     }
   ]
 }
