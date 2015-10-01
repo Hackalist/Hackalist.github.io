@@ -109,6 +109,24 @@
       "notes": ""
     },
     {
+      "title": "FuseHack",
+      "url": "http://www.fusehack.com/",
+      "startDate": "November 7",
+      "endDate": "November 8",
+      "year": "2015",
+      "city": "Amsterdam, Netherlands",
+      "host": "B. Amsterdam",
+      "length": "36",
+      "size": "250",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackDuke",
       "url": "http://www.hackduke.org/",
       "startDate": "November 7",
@@ -285,6 +303,24 @@
       "highSchoolers": "yes",
       "facebookURL": "https://www.facebook.com/hackwestern",
       "twitterURL": "https://twitter.com/hackwestern",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "HackNotts",
+      "url": "http://hacknotts.com/",
+      "startDate": "November 28",
+      "endDate": "November 29",
+      "year": "2015",
+      "city": "Nottingham, United Kingdom",
+      "host": "School of Computer Science",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/hacksocnotts",
       "googlePlusURL": "",
       "notes": ""
     }
