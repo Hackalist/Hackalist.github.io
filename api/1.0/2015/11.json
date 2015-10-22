@@ -216,8 +216,8 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	{
-	  "title": "HackPrinceton",
+    {
+      "title": "HackPrinceton",
       "url": "https://hackprinceton.com/",
       "startDate": "November 13",
       "endDate": "November 15",
@@ -233,7 +233,7 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
-	},
+    },
     {
       "title": "HackRPI 2015",
       "url": "http://www.hackrpi.com/",
@@ -367,13 +367,13 @@
       "endDate": "November 29",
       "year": "2015",
       "city": "Nottingham, United Kingdom",
-      "host": "School of Computer Science",
+      "host": "The University of Nottingham",
       "length": "24",
-      "size": "unknown",
+      "size": "230",
       "travel": "unknown",
-      "prize": "unknown",
+      "prize": "yes",
       "highSchoolers": "unknown",
-      "facebookURL": "",
+      "facebookURL": "https://www.facebook.com/groups/hacksocnotts/",
       "twitterURL": "https://twitter.com/hacksocnotts",
       "googlePlusURL": "",
       "notes": ""
