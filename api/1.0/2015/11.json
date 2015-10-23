@@ -211,8 +211,8 @@
       "travel": "no",
       "prize": "yes",
       "highSchoolers": "no",
-      "facebookURL": "",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/hackNJIT",
+      "twitterURL": "https://twitter.com/hacknjit",
       "googlePlusURL": "",
       "notes": ""
     },
@@ -229,8 +229,8 @@
       "travel": "unknown",
       "prize": "unknown",
       "highSchoolers": "unknown",
-      "facebookURL": "",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/hackharvard",
+      "twitterURL": "https://twitter.com/hack_harvard",
       "googlePlusURL": "",
       "notes": ""
     },
@@ -247,8 +247,8 @@
       "travel": "unknown",
       "prize": "unknown",
       "highSchoolers": "no",
-      "facebookURL": "",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/hackprinceton",
+      "twitterURL": "https://twitter.com/HackPrinceton",
       "googlePlusURL": "",
       "notes": ""
     },
@@ -373,8 +373,8 @@
       "travel": "no",
       "prize": "yes",
       "highSchoolers": "no",
-      "facebookURL": "",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/UHCodeRED",
+      "twitterURL": "https://twitter.com/uh_codered",
       "googlePlusURL": "",
       "notes": ""
     },
