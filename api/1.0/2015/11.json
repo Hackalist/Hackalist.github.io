@@ -180,6 +180,24 @@
       "googlePlusURL": "",
       "notes": ""
     },
+	{
+      "title": "HackHERE",
+      "url": "http://hackhere.org/",
+      "startDate": "November 7",
+      "endDate": "November 8",
+      "year": "2015",
+      "city": "Chicago, IL, United States",
+      "host": "Illinois Institute of Technology",
+      "length": "24",
+      "size": "100",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/events/1668120530134491/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "teams must use HERE APIs"	
+	},
     {
       "title": "Technica",
       "url": "http://gotechnica.org/",
