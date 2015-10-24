@@ -180,7 +180,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	{
+    {
       "title": "HackHERE",
       "url": "http://hackhere.org/",
       "startDate": "November 7",
@@ -196,8 +196,8 @@
       "facebookURL": "https://www.facebook.com/events/1668120530134491/",
       "twitterURL": "",
       "googlePlusURL": "",
-      "notes": "teams must use HERE APIs"	
-	},
+      "notes": "Teams must use the Here Maps API."	
+    },
     {
       "title": "Technica",
       "url": "http://gotechnica.org/",
