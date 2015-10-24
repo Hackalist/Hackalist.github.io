@@ -1,6 +1,24 @@
 {
   "November": [
     {
+      "title": "AT&T Mobile App Hackathon",
+      "url": "http://www.eventbrite.com/e/att-mobile-app-hackathon-new-york-city-tickets-18849801263?aff=erelexporg",
+      "startDate": "November 6",
+      "endDate": "November 7",
+      "year": "2015",
+      "city": "New York, NY, United States",
+      "host": "University of California Riverside",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/ATTDeveloper",
+      "twitterURL": "https://twitter.com/attdeveloper",
+      "googlePlusURL": "",
+      "notes": "must register for event on eventbrite url"
+    },
+    {
       "title": "Citrus Hack",
       "url": "https://citrushack.com/#/main",
       "startDate": "November 6",
@@ -103,8 +121,8 @@
       "travel": "unknown",
       "prize": "yes",
       "highSchoolers": "unknown",
-      "facebookURL": "",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/astonhack",
+      "twitterURL": "https://twitter.com/astonhack",
       "googlePlusURL": "",
       "notes": ""
     },
@@ -175,8 +193,8 @@
       "travel": "unknown",
       "prize": "yes",
       "highSchoolers": "yes",
-      "facebookURL": "https://www.facebook.com/profile.php?id=100009917836969",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/gotechnica",
+      "twitterURL": "https://twitter.com/gotechnica",
       "googlePlusURL": "",
       "notes": "Technica is an all-ladies hackathon."
     },
@@ -193,8 +211,8 @@
       "travel": "no",
       "prize": "yes",
       "highSchoolers": "no",
-      "facebookURL": "",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/hackNJIT",
+      "twitterURL": "https://twitter.com/hacknjit",
       "googlePlusURL": "",
       "notes": ""
     },
@@ -211,8 +229,8 @@
       "travel": "unknown",
       "prize": "unknown",
       "highSchoolers": "unknown",
-      "facebookURL": "",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/hackharvard",
+      "twitterURL": "https://twitter.com/hack_harvard",
       "googlePlusURL": "",
       "notes": ""
     },
@@ -229,8 +247,26 @@
       "travel": "unknown",
       "prize": "unknown",
       "highSchoolers": "no",
-      "facebookURL": "",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/hackprinceton",
+      "twitterURL": "https://twitter.com/HackPrinceton",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "AppHack",
+      "url": "http://cs.appstate.edu/apphack",
+      "startDate": "November 14", 
+      "endDate": "November 15",
+      "year": "2015",
+      "city": "Boone, North Carolina", 
+      "host": "Appalachian State University",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown", 
+      "highSchoolers": "unknown", 
+      "facebookURL": "https://www.facebook.com/asucs",
+      "twitterURL": "https://twitter.com/appstatecompsci",
       "googlePlusURL": "",
       "notes": ""
     },
@@ -270,8 +306,8 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	{
-	  "title": "Codestellation",
+    {
+      "title": "Codestellation",
       "url": "http://codestellation.io/",
       "startDate": "November 14",
       "endDate": "November 15",
@@ -287,7 +323,7 @@
       "twitterURL": "https://twitter.com/codestellation",
       "googlePlusURL": "",
       "notes": ""
-	},
+    },
     {
       "title": "ecomhack Personal Commerce",
       "url": "http://newyork.ecomhack.io/",
@@ -307,6 +343,24 @@
       "notes": ""
     },
     {
+      "title": "HackUCI",
+      "url": "http://hackuci.com/",
+      "startDate": "November 20",
+      "endDate": "November 22",
+      "year": "2015",
+      "city": "Santa Ana, CA, United States",
+      "host": "University of California Irvine",
+      "length": "36",
+      "size": "400+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hackUCIrvine",
+      "twitterURL": "https://twitter.com/HackUCI",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "CodeRED",
       "url": "http://uhcode.red/",
       "startDate": "November 21",
@@ -319,8 +373,8 @@
       "travel": "no",
       "prize": "yes",
       "highSchoolers": "no",
-      "facebookURL": "",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/UHCodeRED",
+      "twitterURL": "https://twitter.com/uh_codered",
       "googlePlusURL": "",
       "notes": ""
     },
