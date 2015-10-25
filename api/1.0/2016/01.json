@@ -1,0 +1,22 @@
+{
+  "January": [
+    {
+      "title": "DeltaHacks II",
+      "url": "http://www.deltahacks.com", 
+      "startDate": "January 15",
+      "endDate": "January 17",
+      "year": "2016", 
+      "city": "Hamilton, Ontario, Canada",
+      "host": "McMaster University",
+      "length": "36",
+      "size": "500",
+      "travel": "yes",
+      "prize": "unknown",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/deltaHacksio",
+      "twitterURL": "https://twitter.com/deltahacks",
+      "googlePlusURL": "",
+      "notes": "travel reimbursements provided on case by case basis"	
+    }
+  ]
+}
