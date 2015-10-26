@@ -379,6 +379,24 @@
       "notes": ""
     },
     {
+      "title": "HackTrain",
+      "url": "http://hacktrain.com/",
+      "startDate": "November 20",
+      "endDate": "November 22",
+      "year": "2015",
+      "city": "London, United Kingdom",
+      "host": "HackTrain",
+      "length": "72",
+      "size": "40",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://facebook.com/TheHackTrain",
+      "twitterURL": "https://twitter.com/TheHackTrain",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackUCI",
       "url": "http://hackuci.com/",
       "startDate": "November 20",
