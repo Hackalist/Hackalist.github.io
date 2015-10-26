@@ -307,6 +307,24 @@
       "notes": ""
     },
     {
+      "title": "BathHack",
+      "url": "http://www.bathhack.com/",
+      "startDate": "November 14", 
+      "endDate": "November 15",
+      "year": "2015",
+      "city": "Bath, United Kingdom", 
+      "host": "University of Bath",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes", 
+      "highSchoolers": "unknown", 
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackRPI 2015",
       "url": "http://www.hackrpi.com/",
       "startDate": "November 14",
