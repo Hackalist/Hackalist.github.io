@@ -1,4 +1,22 @@
 {
   "December": [
+    {
+      "title": "HackKings",
+      "url": "http://hackkings.org/",
+      "startDate": "December 12",
+      "endDate": "December 13",
+      "year": "2015",
+      "city": "London, United Kingdom",
+      "host": "King's College London",
+      "length": "24",
+      "size": "150",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/events/1639211732988133/",
+      "twitterURL": "http://twitter.com/hackkingsuk",
+      "googlePlusURL": "",
+      "notes": ""
+    }
   ]
 }
