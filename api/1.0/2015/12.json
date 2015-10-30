@@ -17,6 +17,24 @@
       "twitterURL": "http://twitter.com/hackkingsuk",
       "googlePlusURL": "",
       "notes": ""
+    },
+       {
+      "title": "TechCrunch Disrupt London Hackathon 2015",
+      "url": "http://techcrunch.com/event-info/disrupt-london-2015/hackathon/",
+      "startDate": "December 5",
+      "endDate": "December 6",
+      "year": "2015",
+      "city": "London, United Kingdom",
+      "host": "TechCrunch",
+      "length": "24",
+      "size": "100+",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/events/1130025180356702/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
