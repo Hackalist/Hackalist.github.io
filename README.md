@@ -1,8 +1,6 @@
 ![hackalist-logo](images/logo.png)
 =================================
-Visit our [website](http://www.hackalist.org) to view the live site.
-
-Hackalist is a database of hackathons that has the most up to date information for all your hackathon needs.
+Hackalist is a database of hackathons that has the most up to date information for all your hackathon needs. Visit our [website](http://www.hackalist.org) to view the live site.
 
 Feel free to submit [Pull Requests](http://github.com/Hackalist/Hackalist.github.io/pulls) and/or [Issues](http://github.com/Hackalist/Hackalist.github.io/issues).
 
@@ -24,34 +22,16 @@ Hackalist also utilizses some design/style elements from [Skeleton](http://getsk
 
 API
 =================================
-The Hackalist API is split into separate JSON files for each month of each year, following the file pattern `/api/1.0/YEAR/MONTH.json`.
+The [Hackalist API](https://github.com/Hackalist/Hackalist.github.io/tree/master/api/1.0) is split into separate JSON files for each month of each year, following the file pattern `/api/1.0/YEAR/MONTH.json`.
 
-The API is public, so feel free to use it. As always, a link back to Hackalist is appreciated.
+The API is public, so feel free to use it for your own projects. As always, a link back to Hackalist is appreciated.
 
-Listings are sorted chronology based on the starting date of the hackathon. If two hackathons start on the same day, they are sorted alphabetically.
+## Contributing
+Hackathon listings are sorted chronology based on the starting date of the hackathon. If two hackathons start on the same day, they are sorted alphabetically.
 
-##2014
-* August - http://www.hackalist.org/api/1.0/2014/08.json
-* September - http://www.hackalist.org/api/1.0/2014/09.json
-* October - http://www.hackalist.org/api/1.0/2014/10.json
-* November - http://www.hackalist.org/api/1.0/2014/11.json
-* December - http://www.hackalist.org/api/1.0/2014/12.json
+Please ensure your JSON syntax is correct before submitting. An easy way to check your JSON synax is through [JSONLint](http://jsonlint.com/).
 
-
-##2015
-* January - http://www.hackalist.org/api/1.0/2015/01.json
-* February - http://www.hackalist.org/api/1.0/2015/02.json
-* March - http://www.hackalist.org/api/1.0/2015/03.json
-* April - http://www.hackalist.org/api/1.0/2015/04.json
-* May - http://www.hackalist.org/api/1.0/2015/05.json
-* June - http://www.hackalist.org/api/1.0/2015/06.json
-* July - http://www.hackalist.org/api/1.0/2015/07.json
-* August - http://www.hackalist.org/api/1.0/2015/08.json
-* September - http://www.hackalist.org/api/1.0/2015/09.json
-* October - http://www.hackalist.org/api/1.0/2015/10.json
-* November - http://www.hackalist.org/api/1.0/2015/11.json
-
-##Parameters
+## JSON Parameters
 * `title`: Name of hackathon
 * `url:` Official URL
 * `startDate:` Starting date, formatted as *Month Day* (e.g. August 30)
