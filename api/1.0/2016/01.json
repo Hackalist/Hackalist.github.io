@@ -16,7 +16,25 @@
       "facebookURL": "https://www.facebook.com/deltaHacksio",
       "twitterURL": "https://twitter.com/deltahacks",
       "googlePlusURL": "",
-      "notes": "travel reimbursements provided on case by case basis"	
+      "notes": "travel reimbursements provided on case by case basis" 
+    },
+    {
+      "title": "HackRice",
+      "url": "http://hack.rice.edu/", 
+      "startDate": "January 15",
+      "endDate": "January 17",
+      "year": "2016", 
+      "city": "Houston, TX, United States",
+      "host": "Rice University",
+      "length": "36",
+      "size": "300+",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/hackrice/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Must be over 18. Rice Alumni not eligible for prizes."
     },
     {
       "title": "Hack Cambridge",
