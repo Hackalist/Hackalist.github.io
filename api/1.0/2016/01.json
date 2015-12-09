@@ -1,0 +1,58 @@
+{
+  "January": [
+    {
+      "title": "DeltaHacks II",
+      "url": "http://www.deltahacks.com", 
+      "startDate": "January 15",
+      "endDate": "January 17",
+      "year": "2016", 
+      "city": "Hamilton, Ontario, Canada",
+      "host": "McMaster University",
+      "length": "36",
+      "size": "500",
+      "travel": "yes",
+      "prize": "unknown",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/deltaHacksio",
+      "twitterURL": "https://twitter.com/deltahacks",
+      "googlePlusURL": "",
+      "notes": "travel reimbursements provided on case by case basis" 
+    },
+    {
+      "title": "HackRice",
+      "url": "http://hack.rice.edu/", 
+      "startDate": "January 15",
+      "endDate": "January 17",
+      "year": "2016", 
+      "city": "Houston, TX, United States",
+      "host": "Rice University",
+      "length": "36",
+      "size": "300+",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/hackrice/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Must be over 18. Rice Alumni not eligible for prizes."
+    },
+    {
+      "title": "Hack Cambridge",
+      "url": "http://www.hackcambridge.com/", 
+      "startDate": "January 30",
+      "endDate": "January 31",
+      "year": "2016", 
+      "city": "Hamilton, Ontario, Canada",
+      "host": "Cambridge University",
+      "length": "24",
+      "size": "400",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://facebook.com/hackcambridge",
+      "twitterURL": "https://twitter.com/@hack_cambridge",
+      "googlePlusURL": "",
+      "notes": "Must be over 18."
+    }
+  ]
+}
