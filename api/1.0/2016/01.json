@@ -16,7 +16,25 @@
       "facebookURL": "http://www.facebook.com/knighthacks",
       "twitterURL": "http://twitter.com/knighthacks",
       "googlePlusURL": "",
-      "notes": "bus transportation will be organized" 
+      "notes": "Bus transportation will be organized." 
+    },
+	{
+      "title": "Quack Hack",
+      "url": "http://www.quackhack.io", 
+      "startDate": "January 15",
+      "endDate": "January 17",
+      "year": "2016", 
+      "city": "Eugene, OR, United States",
+      "host": "University of Oregon",
+      "length": "40+",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/QuackHack-The-Gaming-Hackathon-927372077342639/?ref=hl",
+      "twitterURL": "https://twitter.com/quackhack",
+      "googlePlusURL": "",
+      "notes": "Hackathon focus is on games." 
     },
 	{
       "title": "DeltaHacks II",
