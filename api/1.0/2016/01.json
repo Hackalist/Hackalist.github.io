@@ -1,6 +1,24 @@
 {
   "January": [
     {
+      "title": "Knight Hacks",
+      "url": "http://knighthacks.org/", 
+      "startDate": "January 15",
+      "endDate": "January 16",
+      "year": "2016", 
+      "city": "Orlando, FL, United States",
+      "host": "University of Central Florida",
+      "length": "24",
+      "size": "150",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "no",
+      "facebookURL": "http://www.facebook.com/knighthacks",
+      "twitterURL": "http://twitter.com/knighthacks",
+      "googlePlusURL": "",
+      "notes": "bus transportation will be organized" 
+    },
+	{
       "title": "DeltaHacks II",
       "url": "http://www.deltahacks.com", 
       "startDate": "January 15",
