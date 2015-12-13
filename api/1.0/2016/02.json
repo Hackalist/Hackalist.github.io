@@ -1,0 +1,22 @@
+{
+  "February": [
+    {
+      "title": "TreeHacks",
+      "url": "https://www.treehacks.com", 
+      "startDate": "February 12",
+      "endDate": "February 14",
+      "year": "2016", 
+      "city": "Stanford, CA, United States",
+      "host": "Stanford University",
+      "length": "36",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/treehacks",
+      "twitterURL": "https://www.twitter.com/hackwithtrees",
+      "googlePlusURL": "",
+      "notes": "" 
+    }
+  ]
+}
