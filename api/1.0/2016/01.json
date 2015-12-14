@@ -73,6 +73,24 @@
       "notes": "Hackathon focus is on games." 
     },
     {
+      "title": "Hack Arizona",
+      "url": "http://hackarizona.org/", 
+      "startDate": "January 22",
+      "endDate": "January 24",
+      "year": "2016", 
+      "city": "Tucson, AZ, United States",
+      "host": "University of Arizona",
+      "length": "36",
+      "size": "800+",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/hackarizona",
+      "twitterURL": "https://twitter.com/hack_arizona",
+      "googlePlusURL": "",
+      "notes": "" 
+    },
+    {
       "title": "Hack Cambridge",
       "url": "http://www.hackcambridge.com/", 
       "startDate": "January 30",
