@@ -1,6 +1,37 @@
+// Variables
+$padding-width: 20px;
+$bg-color: #ffffff;
+$header-width-mobile: 10px;
+
 .nav {
-    height: 100%;
-    padding: 30px 0;
-    background-color: #e3e3e3;
-    box-shadow: 0 10px 30px #696969;
+  height: 100%;
+  padding: 10px 0;
+  background-color: $bg-color;
+  box-shadow: 0 10px 30px #696969;
+  padding-right: $padding-width;
+  padding-left: $padding-width;
+  margin-right: auto;
+  margin-left: auto;
+  .main-header {
+    margin-left: $header-width-mobile;
+    margin-right: $header-width-mobile;
+    .brand {
+      width: 8%;
+    }
+    .form {
+      display: inline-block;
+      float: right;
+      padding: 10px 0;
+    }
+    .search {
+      border-radius: 5px;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .main-header {
+    margin-right: 0;
+    margin-left: 0;
+  }
 }
