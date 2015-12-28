@@ -1,6 +1,24 @@
 {
   "March": [
     {
+      "title": "BrickHack",
+      "url": "https://brickhack.io/",
+      "startDate": "March 5",
+      "endDate": "March 6",
+      "year": "2016",
+      "city": "Rochester, New York, United States",
+      "host": "codeRIT",
+      "length": "36",
+      "size": "500",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/brickhackrit",
+      "twitterURL": "https://twitter.com/brickhackrit",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "START Hack",
       "url": "http://starthack.ch",
       "startDate": "March 11",
