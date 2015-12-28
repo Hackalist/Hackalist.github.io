@@ -2,7 +2,7 @@
   height: 100%;
   padding: 10px 0;
   background-color: #ffffff;
-  box-shadow: 0 10px 30px #696969;
+  box-shadow: 0 10px 30px rgba(152, 152, 152, 0.55);
   padding-right: 20px;
   padding-left: 20px;
   margin-right: auto;
@@ -17,11 +17,7 @@
       float: right;
       padding: 10px 0; }
     .nav .main-header .search {
-      border-radius: 5px; }
-
-@media (min-width: 768px) {
-  .main-header {
-    margin-right: 0;
-    margin-left: 0; } }
+      border-radius: 5px;
+      background-color: #ffffff; }
 
 /*# sourceMappingURL=new.css.map */

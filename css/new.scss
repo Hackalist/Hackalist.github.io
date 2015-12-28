@@ -2,12 +2,14 @@
 $padding-width: 20px;
 $bg-color: #ffffff;
 $header-width-mobile: 10px;
+$text-color: #000000;
+$box-shadow: 0 10px 30px rgba(152, 152, 152, 0.55);
 
 .nav {
   height: 100%;
   padding: 10px 0;
   background-color: $bg-color;
-  box-shadow: 0 10px 30px #696969;
+  box-shadow: $box-shadow;
   padding-right: $padding-width;
   padding-left: $padding-width;
   margin-right: auto;
@@ -25,13 +27,8 @@ $header-width-mobile: 10px;
     }
     .search {
       border-radius: 5px;
+      background-color: #ffffff;
+      
     }
-  }
-}
-
-@media (min-width: 768px) {
-  .main-header {
-    margin-right: 0;
-    margin-left: 0;
   }
 }
