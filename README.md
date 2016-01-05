@@ -20,6 +20,10 @@ Site code is licensed under the [MIT license](https://github.com/Hackalist/Hacka
 
 Hackalist also utilizses some design/style elements from [Skeleton](http://getskeleton.com/), a project by Dave Gamache that is also [licensed under the MIT license](https://github.com/dhg/Skeleton/blob/master/LICENSE.md).
 
+Projects Using Hackalist's API
+=================================
+* [Mapathon - Mapping Hackathons](http://mding5692.github.io/mapathon/prototype.html) by [Michael Ding](https://github.com/mding5692)
+
 API
 =================================
 The [Hackalist API](https://github.com/Hackalist/Hackalist.github.io/tree/master/api/1.0) is split into separate JSON files for each month of each year, following the file pattern `/api/1.0/YEAR/MONTH.json`.
