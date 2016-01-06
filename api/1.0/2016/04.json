@@ -1,0 +1,22 @@
+{
+  "April": [
+    {
+      "title": "HackDFW",
+      "url": "http://hackdfw.com/",
+      "startDate": "April 16",
+      "endDate": "April 17",
+      "year": "2016",
+      "city": "Dallas, TX, United States",
+      "host": "DFW",
+      "length": "24",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/HackDFW/",
+      "twitterURL": "https://twitter.com/hackdfw",
+      "googlePlusURL": "",
+      "notes": ""
+    }
+  ]
+}
