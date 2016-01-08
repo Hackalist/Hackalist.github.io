@@ -36,6 +36,24 @@
       "googlePlusURL": "",
       "notes": "" 
     },
+    {
+      "title": "SteelHacks",
+      "url": "http://steelhacks.com/", 
+      "startDate": "February 19",
+      "endDate": "February 21",
+      "year": "2016", 
+      "city": "Pittsburgh, PA, United States",
+      "host": "University of Pittsburgh",
+      "length": "36",
+      "size": "250",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/steelhacks",
+      "twitterURL": "https://twitter.com/Steelhacks",
+      "googlePlusURL": "",
+      "notes": "" 
+    },
 	{
       "title": "HackISU",
       "url": "http://hackisu.com/", 
