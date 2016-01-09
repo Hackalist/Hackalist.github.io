@@ -1,5 +1,23 @@
 {
-  "January": [
+ "January": [
+    {
+      "title": "HealthTech Hackathon",
+      "url": "https://www.eventbrite.com/e/healthtech-hackathon-tickets-20267378274",
+      "startDate": "January 16",
+      "endDate": "January 17",
+      "year": "2016",
+      "city": "Columbus, OH, United States",
+      "host": "CoverMyMeds",
+      "length": "28",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/events/1012434482152589/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Hackathon focus is on health technology. Running simultaneously in Columbus, Ohio and Cherkasy, Ukraine"
+    },
     {
       "title": "DeltaHacks II",
       "url": "http://www.deltahacks.com", 
