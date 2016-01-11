@@ -17,6 +17,42 @@
       "twitterURL": "https://twitter.com/hackdfw",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "SIX Hackathon",
+      "url": "http://www.six-group.com/about/en/site/hackathon.html",
+      "startDate": "March 4",
+      "endDate": "March 6",
+      "year": "2016",
+      "city": "Zurich, Switzerland",
+      "host": "SIX Group",
+      "length": "42",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/sixhackathon/",
+      "twitterURL": "https://twitter.com/SIXhackathon",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "SIX Hackathon",
+      "url": "http://www.six-group.com/about/en/site/hackathon.html",
+      "startDate": "March 4",
+      "endDate": "March 6",
+      "year": "2016",
+      "city": "London, England",
+      "host": "SIX Group",
+      "length": "42",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/sixhackathon/",
+      "twitterURL": "https://twitter.com/SIXhackathon",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
