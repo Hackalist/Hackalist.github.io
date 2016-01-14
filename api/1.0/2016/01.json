@@ -73,6 +73,24 @@
       "notes": "Bus transportation will be organized." 
     },
     {
+      "title": "Valley Hackathon",
+      "url": "https://valleyhackathon.com/events/valley-hackathon-2016",
+      "startDate": "January 15",
+      "endDate": "January 16",
+      "year": "2016",
+      "city": "Modesto, CA, United States",
+      "host": "ModSpace",
+      "length": "24",
+      "size": "60+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/valleyhackathon",
+      "googlePlusURL": "",
+      "notes": "Food not guaranteed for those who register in-person at the event"
+    },
+    {
       "title": "Quack Hack",
       "url": "http://www.quackhack.io", 
       "startDate": "January 15",
