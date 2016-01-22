@@ -161,6 +161,24 @@
       "twitterURL": "https://twitter.com/hacktcnj",
       "googlePlusURL": "",
       "notes": "" 
+    },
+    	{
+      "title": "HackLondon",
+      "url": "https://hacklondon.org",
+      "startDate": "February 27",
+      "endDate": "February 28",
+      "year": "2016", 
+      "city": "London, United Kingdom",
+      "host": "King's College London and University College London",
+      "length": "24",
+      "size": "250",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/hacklondonuk",
+      "twitterURL": "https://twitter.com/hacklondonuk",
+      "googlePlusURL": "",
+      "notes": "" 
     }
   ]
 }
