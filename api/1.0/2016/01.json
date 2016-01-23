@@ -108,7 +108,7 @@
       "googlePlusURL": "",
       "notes": "Hackathon focus is on games." 
     },
-	{
+    {
       "title": "DragonHacks",
       "url": "http://dragonhacks.io/", 
       "startDate": "January 16",
@@ -144,7 +144,25 @@
       "googlePlusURL": "",
       "notes": "" 
     },
-	{
+    {
+      "title": "HackBeanpot",
+      "url": "http://hackbeanpot.com/", 
+      "startDate": "January 22",
+      "endDate": "January 24",
+      "year": "2016", 
+      "city": "Cambridge, MA, United States",
+      "host": "HackBeanpot Inc. and the Campbridge Innovation Center",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hackbeanpot",
+      "twitterURL": "https://twitter.com/hackbeanpot",
+      "googlePlusURL": "",
+      "notes": "" 
+    },
+    {
       "title": "IrishHacks",
       "url": "http://irishhacks.org/", 
       "startDate": "January 22",
