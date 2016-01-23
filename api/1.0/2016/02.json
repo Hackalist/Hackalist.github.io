@@ -72,7 +72,7 @@
       "googlePlusURL": "",
       "notes": "" 
     },
-	{
+    {
       "title": "HackISU",
       "url": "http://hackisu.com/", 
       "startDate": "February 19",
@@ -90,7 +90,7 @@
       "googlePlusURL": "",
       "notes": "" 
     },
-	{
+    {
       "title": "MHacks 7",
       "url": "http://mhacks.org/", 
       "startDate": "February 19",
@@ -108,7 +108,7 @@
       "googlePlusURL": "",
       "notes": "" 
     },
-	{
+    {
       "title": "Hacktech",
       "url": "http://hacktech.io/", 
       "startDate": "February 26",
@@ -126,7 +126,7 @@
       "googlePlusURL": "",
       "notes": "" 
     },
-	{
+    {
       "title": "SpartaHack",
       "url": "https://www.spartahack.com/",
       "startDate": "February 26",
@@ -144,25 +144,7 @@
       "googlePlusURL": "",
       "notes": "" 
     },
-	{
-      "title": "HackTCNJ",
-      "url": "http://hacktcnj.com/",
-      "startDate": "February 27",
-      "endDate": "February 28",
-      "year": "2016", 
-      "city": "Ewing, NJ, United States",
-      "host": "The College of New Jersey / TCNJ ACM",
-      "length": "24",
-      "size": "unknown",
-      "travel": "unknown",
-      "prize": "unknown",
-      "highSchoolers": "unknown",
-      "facebookURL": "",
-      "twitterURL": "https://twitter.com/hacktcnj",
-      "googlePlusURL": "",
-      "notes": "" 
-    },
-    	{
+    {
       "title": "HackLondon",
       "url": "https://hacklondon.org",
       "startDate": "February 27",
@@ -177,6 +159,24 @@
       "highSchoolers": "no",
       "facebookURL": "https://www.facebook.com/hacklondonuk",
       "twitterURL": "https://twitter.com/hacklondonuk",
+      "googlePlusURL": "",
+      "notes": "" 
+    },
+    {
+      "title": "HackTCNJ",
+      "url": "http://hacktcnj.com/",
+      "startDate": "February 27",
+      "endDate": "February 28",
+      "year": "2016", 
+      "city": "Ewing, NJ, United States",
+      "host": "The College of New Jersey / TCNJ ACM",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/hacktcnj",
       "googlePlusURL": "",
       "notes": "" 
     }
