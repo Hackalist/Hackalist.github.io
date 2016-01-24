@@ -35,6 +35,24 @@
       "twitterURL": "https://twitter.com/START_Hack",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "Hawkathon",
+      "url": "https://hawkathon.org/",
+      "startDate": "March 25",
+      "endDate": "March 26",
+      "year": "2016",
+      "city": "Lowell, MA, United States",
+      "host": "University of Massachusetts-Lowell",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/hawkathon/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
