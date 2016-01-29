@@ -1,6 +1,24 @@
 {
   "April": [
     {
+      "title": "WearHacks Paris",
+      "url": "http://www.wearhacks.com/",
+      "startDate": "April 15",
+      "endDate": "April 17",
+      "year": "2016",
+      "city": "Paris, France",
+      "host": "WearHacks and École 42",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/wearhacks",
+      "twitterURL": "https://twitter.com/WearHacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackDFW",
       "url": "http://hackdfw.com/",
       "startDate": "April 16",
@@ -15,6 +33,24 @@
       "highSchoolers": "yes",
       "facebookURL": "https://www.facebook.com/HackDFW/",
       "twitterURL": "https://twitter.com/hackdfw",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+	{
+      "title": "WearHacks Rome",
+      "url": "http://www.wearhacks.com/",
+      "startDate": "April 22",
+      "endDate": "April 24",
+      "year": "2016",
+      "city": "Rome, Italy",
+      "host": "WearHacks",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/wearhacks",
+      "twitterURL": "https://twitter.com/WearHacks",
       "googlePlusURL": "",
       "notes": ""
     }

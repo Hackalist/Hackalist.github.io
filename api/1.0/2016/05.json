@@ -1,6 +1,24 @@
 {
   "May": [
     {
+      "title": "WearHacks Rome",
+      "url": "http://www.wearhacks.com/",
+      "startDate": "May 13",
+      "endDate": "May 15",
+      "year": "2016",
+      "city": "Tunis, Tunisia",
+      "host": "WearHacks",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/wearhacks",
+      "twitterURL": "https://twitter.com/WearHacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "hackMHS",
       "url": "http://hackmhs.com/",
       "startDate": "May 21",
