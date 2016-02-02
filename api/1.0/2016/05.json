@@ -1,7 +1,7 @@
 {
   "May": [
     {
-      "title": "WearHacks Rome",
+      "title": "WearHacks Tunis",
       "url": "http://www.wearhacks.com/",
       "startDate": "May 13",
       "endDate": "May 15",
@@ -10,9 +10,9 @@
       "host": "WearHacks",
       "length": "36",
       "size": "unknown",
-      "travel": "unknown",
+      "travel": "no",
       "prize": "yes",
-      "highSchoolers": "unknown",
+      "highSchoolers": "yes",
       "facebookURL": "https://www.facebook.com/wearhacks",
       "twitterURL": "https://twitter.com/WearHacks",
       "googlePlusURL": "",
