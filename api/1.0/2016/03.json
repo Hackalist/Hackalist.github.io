@@ -1,6 +1,24 @@
 {
   "March": [
     {
+      "title": "HackfestISM",
+      "url": "http://www.hackfestism.org/",
+      "startDate": "March 4",
+      "endDate": "March 6",
+      "year": "2016",
+      "city": "ISM Dhanbad, Dhanbad, India",
+      "host": "ISM Dhanbad",
+      "length": "36",
+      "size": "400+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/hackfestism",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Teams will be limited to 5 people."
+    },
+    {
       "title": "BrickHack",
       "url": "https://brickhack.io/",
       "startDate": "March 5",
