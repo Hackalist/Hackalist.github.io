@@ -13,10 +13,10 @@
       "travel": "yes",
       "prize": "yes",
       "highSchoolers": "unknown",
-      "facebookURL": "https://www.facebook.com/events/786782858134730/",
-      "twitterURL": "",
+      "facebookURL": "https://www.facebook.com/hackysu",
+      "twitterURL": "https://twitter.com/HackYSU",
       "googlePlusURL": "",
-      "notes": "Max team size 2"
+      "notes": ""
     },
     {
       "title": "Output vs Output",
@@ -31,10 +31,10 @@
       "travel": "unknown",
       "prize": "yes",
       "highSchoolers": "unknown",
-      "facebookURL": "https://www.facebook.com/hackysu",
-      "twitterURL": "https://twitter.com/HackYSU",
+      "facebookURL": "https://www.facebook.com/events/786782858134730/",
+      "twitterURL": "",
       "googlePlusURL": "",
-      "notes": ""
+      "notes": "Max team size 2"
     },
     {
       "title": "HackCWRU",
