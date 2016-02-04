@@ -1,11 +1,11 @@
-![hackalist-logo](images/logo.png)
+![hackalist-logo](images/logo.png) 
+![https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square](https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square)![http://issuestats.com/github/hackalist/hackalist.github.io/badge/issue?style=flat-square](http://issuestats.com/github/hackalist/hackalist.github.io/badge/issue?style=flat-square)
 =================================
 Hackalist is a database of hackathons that has the most up to date information for all your hackathon needs. Visit our [website](http://www.hackalist.org) to view the live site.
 
 Feel free to submit [Pull Requests](http://github.com/Hackalist/Hackalist.github.io/pulls) and/or [Issues](http://github.com/Hackalist/Hackalist.github.io/issues).
 
 If you have any questions or concerns, please tweet [@KevinPayravi](http://twitter.com/KevinPayravi).
-
 Authorship
 =================================
 Site initiated by [Kevin Payravi](http://www.kevinpayravi.com/). Special thanks to:
