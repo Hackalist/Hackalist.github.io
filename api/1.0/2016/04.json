@@ -1,6 +1,24 @@
 {
   "April": [
     {
+      "title": "Hack in the North",
+      "url": "http://www.hackinthenorth.com/",
+      "startDate": "April 2",
+      "endDate": "April 4",
+      "year": "2016",
+      "city": "Allahabad, India",
+      "host": "IIIT Allahabad",
+      "length": "36",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/HackInTheNorth/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "WearHacks Paris",
       "url": "http://www.wearhacks.com/",
       "startDate": "April 15",
