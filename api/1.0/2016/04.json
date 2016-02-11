@@ -1,6 +1,22 @@
 {
   "April": [
     {
+      "title": "tribeHacks",
+      "url": "http://www.tribeHacks.com/",
+      "startDate": "April 1",
+      "endDate": "April 3",
+      "year": "2016",
+      "city": "Williamsburg, VA",
+      "host": "tribeHacks",
+      "length": "36",
+      "size": "200",
+      "travel": "maybe",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/tribeHacks",
+      "notes": ""
+    },
+    {
       "title": "Hack in the North",
       "url": "http://www.hackinthenorth.com/",
       "startDate": "April 2",
@@ -54,7 +70,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	{
+    {
       "title": "WearHacks Rome",
       "url": "http://www.wearhacks.com/",
       "startDate": "April 22",
