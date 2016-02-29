@@ -70,7 +70,7 @@ app.controller('hackathonEvents', ['$http', '$scope', function($http, $scope){
 }]);
 
 function urlString(month, year) {
-  return '/api/1.0/' + year + '/' + monthString(month) + '.json';
+  return 'api/1.0/' + year + '/' + monthString(month) + '.json';
 }
 
 function monthString(n) {
@@ -85,4 +85,3 @@ function chunk(arr, size) {
 
   return newArr;
 }
-

@@ -1,5 +1,23 @@
 {
-  "January": [
+ "January": [
+    {
+      "title": "HealthTech Hackathon",
+      "url": "https://www.eventbrite.com/e/healthtech-hackathon-tickets-20267378274",
+      "startDate": "January 16",
+      "endDate": "January 17",
+      "year": "2016",
+      "city": "Columbus, OH, United States",
+      "host": "CoverMyMeds",
+      "length": "28",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/events/1012434482152589/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Hackathon focus is on health technology. Running simultaneously in Columbus, Ohio and Cherkasy, Ukraine"
+    },
     {
       "title": "DeltaHacks II",
       "url": "http://www.deltahacks.com", 
@@ -55,6 +73,24 @@
       "notes": "Bus transportation will be organized." 
     },
     {
+      "title": "Valley Hackathon",
+      "url": "https://valleyhackathon.com/events/valley-hackathon-2016",
+      "startDate": "January 15",
+      "endDate": "January 16",
+      "year": "2016",
+      "city": "Modesto, CA, United States",
+      "host": "ModSpace",
+      "length": "24",
+      "size": "60+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/valleyhackathon",
+      "googlePlusURL": "",
+      "notes": "Food not guaranteed for those who register in-person at the event"
+    },
+    {
       "title": "Quack Hack",
       "url": "http://www.quackhack.io", 
       "startDate": "January 15",
@@ -72,13 +108,13 @@
       "googlePlusURL": "",
       "notes": "Hackathon focus is on games." 
     },
-	{
+    {
       "title": "DragonHacks",
       "url": "http://dragonhacks.io/", 
       "startDate": "January 16",
       "endDate": "January 17",
       "year": "2016", 
-      "city": "Sacramento, CA, United States",
+      "city": "Philadelphia, PA, United States",
       "host": "Drexel University",
       "length": "24",
       "size": "810",
@@ -108,7 +144,25 @@
       "googlePlusURL": "",
       "notes": "" 
     },
-	{
+    {
+      "title": "HackBeanpot",
+      "url": "http://hackbeanpot.com/", 
+      "startDate": "January 22",
+      "endDate": "January 24",
+      "year": "2016", 
+      "city": "Cambridge, MA, United States",
+      "host": "HackBeanpot Inc. and the Campbridge Innovation Center",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hackbeanpot",
+      "twitterURL": "https://twitter.com/hackbeanpot",
+      "googlePlusURL": "",
+      "notes": "" 
+    },
+    {
       "title": "IrishHacks",
       "url": "http://irishhacks.org/", 
       "startDate": "January 22",
@@ -169,7 +223,7 @@
       "endDate": "January 31",
       "year": "2016", 
       "city": "Kent, OH, United States",
-      "host": "University of Florida",
+      "host": "Kent State University",
       "length": "36",
       "size": "100+",
       "travel": "yes",
