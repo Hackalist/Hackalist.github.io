@@ -179,6 +179,24 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "HackGSU",
+      "url": "https://hackgsu.org/",
+      "startDate": "March 25",
+      "endDate": "March 27",
+      "year": "2016",
+      "city": "Atlanta, GA, United States",
+      "host": "Georgia State University",
+      "length": "48",
+      "size": "500+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/events/936572959745025/",
+      "twitterURL": "https://twitter.com/HackGSU",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
