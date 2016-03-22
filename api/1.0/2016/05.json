@@ -1,6 +1,24 @@
 {
   "May": [
     {
+      "title": "HackDavis",
+      "url": "http://hackdavis.io/",
+      "startDate": "May 7",
+      "endDate": "May 8",
+      "year": "2016",
+      "city": "Davis, CA, United States",
+      "host": "UC Davis",
+      "length": "24",
+      "size": "350+",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/HackDavis",
+      "twitterURL": "https://twitter.com/HackDavis2016",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "WearHacks Tunis",
       "url": "http://www.wearhacks.com/",
       "startDate": "May 13",
@@ -32,9 +50,27 @@
       "prize": "yes",
       "highSchoolers": "yes",
       "facebookURL": "https://www.facebook.com/hackMHS",
-      "twitterURL": "",
+      "twitterURL": "https://twitter.com/hackmhs",
       "googlePlusURL": "",
-      "notes": ""
+      "notes": "hackMHS is only open to high schoolers and middle schoolers over 13 years of age. College students are welcome to help out."
+    },
+	{
+      "title": "Massey Hacks II",
+      "url": "https://masseyhacks.ca/",
+      "startDate": "May 21",
+      "endDate": "May 22",
+      "year": "2016",
+      "city": "Windsor, ON, Canada",
+      "host": "Vincent Massey Secondary School",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/events/1673647522918268/",
+      "twitterURL": "https://twitter.com/masseyhacks",
+      "googlePlusURL": "",
+      "notes": "Massey Hacks is only open to high schoolers."
     }
   ]
 }
