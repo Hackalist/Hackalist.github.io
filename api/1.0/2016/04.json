@@ -73,7 +73,7 @@
     {
       "title": "Reimagine Waste",
       "url": "http://www.reimaginewaste.in/",
-      "startDate": April 2",
+      "startDate": "April 2",
       "endDate": "April 3",
       "year": "2016",
       "city": "Bangalore, KA, India",
@@ -143,24 +143,6 @@
       "notes": ""
     },
     {
-      "title": "QueensHack",
-      "url": "https://queenshack.nyc/",
-      "startDate": "April 23",
-      "endDate": "April 24",
-      "year": "2016",
-      "city": "Queens, NY, United States",
-      "host": "QueensHack",
-      "length": "24",
-      "size": "120",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "facebookURL": "https://www.facebook.com/QueensHack/",
-      "twitterURL": "https://twitter.com/QueensHackNYC",
-      "googlePlusURL": "https://plus.google.com/u/0/115499333284941372071",
-      "notes": ""
-    },
-    {
       "title": "WearHacks Rome",
       "url": "http://www.wearhacks.com/",
       "startDate": "April 22",
@@ -176,6 +158,24 @@
       "facebookURL": "https://www.facebook.com/wearhacks",
       "twitterURL": "https://twitter.com/WearHacks",
       "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "QueensHack",
+      "url": "https://queenshack.nyc/",
+      "startDate": "April 23",
+      "endDate": "April 24",
+      "year": "2016",
+      "city": "Queens, NY, United States",
+      "host": "QueensHack",
+      "length": "24",
+      "size": "120",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/QueensHack/",
+      "twitterURL": "https://twitter.com/QueensHackNYC",
+      "googlePlusURL": "https://plus.google.com/u/0/115499333284941372071",
       "notes": ""
     }
   ]
