@@ -126,7 +126,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	{
+    {
       "title": "WearHacks Kitchener-Waterloo",
       "url": "http://waterloo.wearhacks.com/",
       "startDate": "March 18",
@@ -197,6 +197,24 @@
       "twitterURL": "https://twitter.com/HackGSU",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "Reimagine Waste",
+      "url": "http://www.reimaginewaste.in/",
+      "startDate": "March 26",
+      "endDate": "March 27",
+      "year": "2016",
+      "city": "Bangalore, KA, India",
+      "host": "Indian Institute of Science",
+      "length": "34",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/Reimagine-Waste-Hackathon-228992774110041/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "This hackathon continues on April 2, 2016."
     }
   ]
 }
