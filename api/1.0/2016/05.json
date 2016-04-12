@@ -71,6 +71,24 @@
       "twitterURL": "https://twitter.com/masseyhacks",
       "googlePlusURL": "",
       "notes": "Massey Hacks is only open to high schoolers."
+    },
+    {
+      "title": "GeoHackHSV Hackathon",
+      "url": "http://geohackhsv.com/",
+      "startDate": "May 2",
+      "endDate": "May 3",
+      "year": "2016",
+      "city": "Huntsville, AL, United States",
+      "host": "National Geospatial-Intelligence Agency (NGA), GEOHuntsville, and AEgis Technologies",
+      "length": "36",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
