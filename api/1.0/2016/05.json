@@ -73,6 +73,24 @@
       "notes": "Massey Hacks is only open to high schoolers."
     },
     {
+      "title": "StuyHacks",
+      "url": "http://stuyhacks.com/",
+      "startDate": "May 28",
+      "endDate": "May 29",
+      "year": "2016",
+      "city": "New York, NY, United States",
+      "host": "ThoughtWorks",
+      "length": "24",
+      "size": "150+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/stuyhacks",
+      "twitterURL": "https://twitter.com/stuyhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "GeoHackHSV Hackathon",
       "url": "http://geohackhsv.com/",
       "startDate": "May 2",
