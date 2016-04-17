@@ -450,6 +450,24 @@
       "notes": "This is a meme-based hackathon."
     },
 	{
+      "title": "HackBajío",
+      "url": "http://hackbajio.com/",
+      "startDate": "April 22",
+      "endDate": "April 24",
+      "year": "2016",
+      "city": "El Desagüe, GUA, Mexico",
+      "host": "Monterrey Institute of Technology and Higher Education",
+      "length": "48",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/HackBajio",
+      "twitterURL": "https://twitter.com/hackbajio",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+	{
       "title": "SB Hacks II",
       "url": "http://sbhacks.com/",
       "startDate": "April 22",
@@ -538,6 +556,24 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": "Community college students get preferential admission."
+    },
+	{
+      "title": "Hack K-State",
+      "url": "http://hack.cis.ksu.edu/",
+      "startDate": "April 29",
+      "endDate": "May 1",
+      "year": "2016",
+      "city": "Manhattan, KS, United States",
+      "host": "Kansas State University ",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/groups/641739752643775/",
+      "twitterURL": "https://twitter.com/ksuacm",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
