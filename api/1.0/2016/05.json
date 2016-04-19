@@ -107,6 +107,24 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "#0FeetAway Hackathon",
+      "url": "https://www.hackerearth.com/sprints/0FeetAway-Hackathon/",
+      "startDate": "May 7",
+      "endDate": "May 9",
+      "year": "2016",
+      "city": "Online",
+      "host": "HackerEarth",
+      "length": "53",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
