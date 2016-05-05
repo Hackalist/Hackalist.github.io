@@ -125,6 +125,24 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
-    }
+    },
+      {
+       "title": "Spacer Hackathon",
+       "url": "http://spacer.im/events/spacer-hackathon",
+       "startDate": "May 28",
+       "endDate": "May 29",
+       "year": "2016",
+       "city": "Dnepropetrovsk, Ukraine",
+       "host": "Spacer",
+       "length": "24",
+       "size": "unknown",
+       "travel": "unknown",
+       "prize": "yes",
+       "highSchoolers": "yes",
+       "facebookURL": "https://www.facebook.com/Spacer-1645313999073499/",
+       "twitterURL": "https://twitter.com/spacer_im",
+       "googlePlusURL": "",
+       "notes": "Spacer Hackathon is the event where people who are excited about space and astronomy technologies can get together to hack big and small. "
+     }
   ]
 }
