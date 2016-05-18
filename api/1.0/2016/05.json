@@ -1,5 +1,23 @@
 {
   "May": [
+	{
+      "title": "Proximity Hackathon",
+      "url": "https://proximi.io/hackathon/",
+      "startDate": "May 16",
+      "endDate": "June 30",
+      "year": "2016",
+      "city": "Various Locations (Worldwide)",
+      "host": "Proximi.io Proximity Platform",
+      "length": "1104",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/proximi.io/",
+      "twitterURL": "https://twitter.com/Proximiio",
+      "googlePlusURL": "",
+      "notes": "Proximi.io and Ionic are challenging all the developers all around the world to get their hands on the Proximi.io Proximity Platform and the Ionic framework, and combine those two to create the most out-of-the-box proximity experience. We're giving out 2 prices of 1000 €! One for the audience favourite, and another one to the judges’ favourite."
+    },
     {
       "title": "HackDavis",
       "url": "http://hackdavis.io/",
