@@ -1,3 +1,22 @@
 {
-  "July": []
+  "July": [
+  {
+      "title": "Tech Retreat",
+      "url": "http://techretreat.ca/",
+      "startDate": "July 9",
+      "endDate": "July 10",
+      "year": "2016",
+      "city": "Waterloo, ON, Canada",
+      "host": "Tech Retreat",
+      "length": "24",
+      "size": "",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/kwtechretreat",
+      "twitterURL": "https://twitter.com/TechRetreat",
+      "googlePlusURL": "",
+      "notes": "High School Only"
+    }
+	]
 }
