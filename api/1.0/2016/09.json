@@ -54,5 +54,23 @@
       "googlePlusURL": "",
       "notes": ""
     }
+    {
+      "title": "HackGT",
+      "url": "http://hackgt.com/",
+      "startDate": "September 23",
+      "endDate": "September 25",
+      "year": "2016",
+      "city": "Atlanta, GA, United States",
+      "host": "HackGT",
+      "length": "36",
+      "size": "1000",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/HackGT",
+      "twitterURL": "https://twitter.com/thehackgt",
+      "googlePlusURL": "",
+      "notes": ""
+    }
     ]
 }
