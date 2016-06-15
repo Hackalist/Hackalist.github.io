@@ -1,0 +1,40 @@
+{
+  "December": [
+    {
+      "title": "TechCrunch Disrupt London Hackathon 2015",
+      "url": "http://techcrunch.com/event-info/disrupt-london-2015/hackathon/",
+      "startDate": "December 5",
+      "endDate": "December 6",
+      "year": "2015",
+      "city": "London, United Kingdom",
+      "host": "TechCrunch",
+      "length": "24",
+      "size": "100+",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/events/1130025180356702/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "HackKings",
+      "url": "http://hackkings.org/",
+      "startDate": "December 12",
+      "endDate": "December 13",
+      "year": "2015",
+      "city": "London, United Kingdom",
+      "host": "King's College London",
+      "length": "24",
+      "size": "150",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/events/1639211732988133/",
+      "twitterURL": "http://twitter.com/hackkingsuk",
+      "googlePlusURL": "",
+      "notes": "Travel will reimbursed up to £15 to select hackers outside UK. See: http://hackkings.org/travel.html"
+    }
+  ]
+}

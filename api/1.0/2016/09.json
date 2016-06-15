@@ -1,0 +1,58 @@
+{
+  "September": [
+    {
+      "title": "PennApps XIV",
+      "url": "http://2016f.pennapps.com/",
+      "startDate": "September 9",
+      "endDate": "September 11",
+      "year": "2016",
+      "city": "Philadelphia, PA, United States",
+      "host": "PennApps",
+      "length": "36",
+      "size": "",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/pennapps",
+      "twitterURL": "https://twitter.com/pennapps",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "SM Hacks",
+      "url": "http://www.smhacks.com/",
+      "startDate": "September 17",
+      "endDate": "September 18",
+      "year": "2016",
+      "city": "San Mateo, CA, United States",
+      "host": "SM Hacks",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "Hack the North",
+      "url": "https://hackthenorth.com/",
+      "startDate": "September 16",
+      "endDate": "September 18",
+      "year": "2016",
+      "city": "Waterloo, ON, Canada",
+      "host": "Hack the North",
+      "length": "36",
+      "size": "1000",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hackthenorth",
+      "twitterURL": "https://twitter.com/hackthenorth",
+      "googlePlusURL": "",
+      "notes": ""
+    }
+    ]
+}

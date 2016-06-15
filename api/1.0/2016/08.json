@@ -1,0 +1,22 @@
+{
+  "August": [
+    {
+      "title": "/hack",
+      "url": "https://www.hackerearth.com/hack/",
+      "startDate": "August 27",
+      "endDate": "August 28",
+      "year": "2016",
+      "city": "San Francisco, CA, United States",
+      "host": "HackerEarth",
+      "length": "24",
+      "size": "500",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/HackerEarth",
+      "twitterURL": "https://twitter.com/HackerEarth/",
+      "googlePlusURL": "https://plus.google.com/+Hackerearth",
+      "notes": ""
+    }
+  ]
+}
