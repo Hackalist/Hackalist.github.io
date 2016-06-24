@@ -217,6 +217,24 @@
       "notes": "" 
     },
 	{
+      "title": "CBBhacks",
+      "url": "http://www.cbbhacks.org/",
+      "startDate": "January 29",
+      "endDate": "January 31",
+      "year": "2016",
+      "city": "Brunswick, ME, United States",
+      "host": "Bowdoin College",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/Bowdoin-ITAC-766404390074997/",
+      "twitterURL": "https://twitter.com/CBBhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+	{
       "title": "Fashion / Tech Hackathon",
       "url": "http://www.fashiontechhackathon.com/", 
       "startDate": "January 29",
@@ -258,7 +276,7 @@
       "startDate": "January 30",
       "endDate": "January 31",
       "year": "2016", 
-      "city": "Hamilton, Ontario, Canada",
+      "city": "Hamilton, ON, Canada",
       "host": "Cambridge University",
       "length": "24",
       "size": "400",
@@ -267,6 +285,24 @@
       "highSchoolers": "no",
       "facebookURL": "https://facebook.com/hackcambridge",
       "twitterURL": "https://twitter.com/@hack_cambridge",
+      "googlePlusURL": "",
+      "notes": "Must be over 18."
+    },
+	{
+      "title": "Los Altos Hacks",
+      "url": "http://www.losaltoshacks.com/", 
+      "startDate": "January 30",
+      "endDate": "January 31",
+      "year": "2016", 
+      "city": "Mountain View, CA, United States",
+      "host": "Microsoft SV",
+      "length": "24",
+      "size": "176",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/losaltoshacks/",
+      "twitterURL": "https://twitter.com/losaltoshacks",
       "googlePlusURL": "",
       "notes": "Must be over 18."
     }
