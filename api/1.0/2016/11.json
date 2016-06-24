@@ -17,6 +17,24 @@
       "twitterURL": "https://twitter.com/ArchHacks/",
       "googlePlusURL": "",
       "notes": ""
+    },
+	{
+      "title": "HackOHI/O",
+      "url": "hack.osu.edu/2016",
+      "startDate": "November 19",
+      "endDate": "November 20",
+      "year": "2016",
+      "city": "Columbus, OH, United States",
+      "host": "OHI/O and The Ohio State University",
+      "length": "24",
+      "size": "700+",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/hackohio",
+      "twitterURL": "https://twitter.com/hackohio",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
