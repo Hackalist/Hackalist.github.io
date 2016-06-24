@@ -17,6 +17,24 @@
       "twitterURL": "https://twitter.com/connectedlab",
       "googlePlusURL": "",
       "notes": ""
+    },
+	{
+      "title": "Cycle Hack Berlin",
+      "url": "http://cyclehackberlin.de/",
+      "startDate": "June 24",
+      "endDate": "June 26",
+      "year": "2016",
+      "city": "Berlin, Germany",
+      "host": "Cycle Hack",
+      "length": "48",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "facebookURL": "https://www.facebook.com/cyclehackberlin/",
+      "twitterURL": "https://twitter.com/cyclehackber",
+      "googlePlusURL": "",
+      "notes": "A cycle hack aims to improve cycling infrastructure. Global participation is welcome."
     }
   ]
 }
