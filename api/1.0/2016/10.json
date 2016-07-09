@@ -36,6 +36,24 @@
       "twitterURL": "https://twitter.com/globalhackevent",
       "googlePlusURL": "",
       "notes": "$1 million in total cash prizes. Civic-focused challenge."
-    }
+    },
+    {
+      "title": "HackHarvard",
+      "url": "http://hackharvard.io/",
+      "startDate": "October 21",
+      "endDate": "October 23",
+      "year": "2016",
+      "city": "Cambridge, MA, United States",
+      "host": "Harvard College",
+      "length": "36",
+      "size": "450",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/hackharvard/",
+      "twitterURL": "https://twitter.com/hack_harvard",
+      "googlePlusURL": "",
+      "notes": "Classic vs. Future. HackHarvard16: Hack the Past"
+    }    
   ]
 }
