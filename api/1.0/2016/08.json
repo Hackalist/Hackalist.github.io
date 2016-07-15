@@ -1,6 +1,24 @@
 {
   "August": [
     {
+      "title": "HackCortona",
+      "url": "http://hackcortona.com",
+      "startDate": "August 6",
+      "endDate": "August 7",
+      "year": "2016",
+      "city": "Cortona, Italy",
+      "host": "HackCortona",
+      "length": "24",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/hackcortona",
+      "twitterURL": "https://twitter.com/hackcortona",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "/hack",
       "url": "https://www.hackerearth.com/hack/",
       "startDate": "August 27",
