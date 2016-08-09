@@ -35,6 +35,24 @@
       "twitterURL": "https://twitter.com/HackerEarth/",
       "googlePlusURL": "https://plus.google.com/+Hackerearth",
       "notes": ""
+    },
+	{
+      "title": "HackMTY",
+      "url": "http://hackmty.com/",
+      "startDate": "August 27",
+      "endDate": "August 28",
+      "year": "2016",
+      "city": "Monterrey, NL, Mexico",
+      "host": "Tecnológico de Monterrey",
+      "length": "24",
+      "size": "400",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/HackMTY/",
+      "twitterURL": "https://twitter.com/hackmty",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
