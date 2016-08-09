@@ -19,6 +19,24 @@
       "notes": "The team for this year's ArchHacks is the HealthTech industry."
     },
 	{
+      "title": "Cal Hacks 3.0",
+      "url": "http://www.calhacks.io/6",
+      "startDate": "November 11",
+      "endDate": "November 13",
+      "year": "2016",
+      "city": "Piedmont Ave Berkeley, CA, United States",
+      "host": "California Memorial Stadium",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "facebookURL": "https://www.facebook.com/CalHacks",
+      "twitterURL": "https://twitter.com/calhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+	{
       "title": "HackOHI/O",
       "url": "http://hack.osu.edu/2016",
       "startDate": "November 19",
