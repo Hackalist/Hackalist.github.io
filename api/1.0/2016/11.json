@@ -60,7 +60,7 @@
       "startDate": "November 11",
       "endDate": "November 13",
       "year": "2016",
-      "city": "Piedmont Ave Berkeley, CA, United States",
+      "city": "Berkeley, CA, United States",
       "host": "UC Berkeley",
       "length": "36",
       "size": "unknown",
@@ -87,6 +87,24 @@
       "highSchoolers": "unknown",
       "facebookURL": "https://www.facebook.com/hackohio",
       "twitterURL": "https://twitter.com/hackohio",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+	{
+      "title": "Junction 2016",
+      "url": "http://hackjunction.com/",
+      "startDate": "November 25",
+      "endDate": "November 27",
+      "year": "2016",
+      "city": "Helsinki, Finland",
+      "host": "Aalto Entrepreneurship Society",
+      "length": "48",
+      "size": "1000+",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hackjunction",
+      "twitterURL": "https://twitter.com/hackjunction",
       "googlePlusURL": "",
       "notes": ""
     }
