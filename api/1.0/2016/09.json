@@ -117,14 +117,14 @@
       "city": "Baltimore, MD, United States",
       "host": "Johns Hopkins University",
       "length": "36",
-      "size": "200",
+      "size": "500",
       "travel": "yes",
       "prize": "yes",
-      "highSchoolers": "no",
+      "highSchoolers": "yes",
       "facebookURL": "https://www.facebook.com/medhacks/",
       "twitterURL": "https://twitter.com/MedHacks",
       "googlePlusURL": "",
-      "notes": ""
+      "notes": "Open to Engineers, Coders, Health Professionals, Designers, Entrepreneurs, and Patients."
     },
 	{
       "title": "HackCooper",
