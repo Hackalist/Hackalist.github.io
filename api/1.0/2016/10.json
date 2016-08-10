@@ -20,7 +20,7 @@
       "notes": "This year's theme is hacking for social good and supporting women in tech."
     },
 	{
-      "title": "HackUMass IV",
+      "title": "Hack UMass IV",
       "url": "http://hackumass.com/",
       "startDate": "October 7",
       "endDate": "October 9",
@@ -29,13 +29,13 @@
       "host": "University of Massachusetts Amherst",
       "length": "36",
       "size": "600",
-      "travel": "unknown",
+      "travel": "yes",
       "prize": "yes",
       "highSchoolers": "yes",
       "facebookURL": "https://www.facebook.com/hackUMass",
       "twitterURL": "https://twitter.com/hackumass",
       "googlePlusURL": "",
-      "notes": "HackUMass is focusing on Software, Hardware, and 3-D Printing Projects."
+      "notes": "HackUMass is focusing on software, hardware, and 3-D printing projects."
     },
 	{
       "title": "Kent Hack Enough",
