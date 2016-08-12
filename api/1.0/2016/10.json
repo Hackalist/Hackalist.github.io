@@ -55,6 +55,24 @@
       "googlePlusURL": "",
       "notes": ""
     },
+    	{
+      "title": "HackWestern",
+      "url": "http://www.hackwestern.com/",
+      "startDate": "October 14",
+      "endDate": "October 16",
+      "year": "2016",
+      "city": "London, ON, Canada",
+      "host": "Western University",
+      "length": "36",
+      "size": "500+",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/hackwestern/",
+      "twitterURL": "https://twitter.com/hackwestern",
+      "googlePlusURL": "",
+      "notes": ""
+    },
 	{
       "title": "QuackCon",
       "url": "http://www.quackcon.com/",
