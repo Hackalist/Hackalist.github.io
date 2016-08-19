@@ -1,5 +1,5 @@
 {
- "October": 
+ "October":
  [
     {
       "title": "WHACK",
@@ -55,6 +55,24 @@
       "googlePlusURL": "",
       "notes": ""
     },
+    {
+        "title": "MHacks 8",
+        "url": "https://mhacks.org/",
+        "startDate": "October 7",
+        "endDate": "October 9",
+        "year": "2016",
+        "city": "Ann Arbor, MI, United States",
+        "host": "University of Michigan",
+        "length": "36",
+        "size": "600",
+        "travel": "yes",
+        "prize": "no",
+        "highSchoolers": "yes",
+        "facebookURL": "https://www.facebook.com/MHacksHackathon/",
+        "twitterURL": "https://twitter.com/mhacks",
+        "googlePlusURL": "",
+        "notes": ""
+      },
     	{
       "title": "HackWestern",
       "url": "http://www.hackwestern.com/",
@@ -162,6 +180,6 @@
       "twitterURL": "https://twitter.com/hack_harvard",
       "googlePlusURL": "",
       "notes": "Classic vs. Future. HackHarvard16: Hack the Past"
-    }    
+    }
   ]
 }
