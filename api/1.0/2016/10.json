@@ -153,6 +153,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+	{
+      "title": "HackSheffield",
+      "url": "https://www.hacksheffield.co/",
+      "startDate": "October 15",
+      "endDate": "October 16",
+      "year": "2016",
+      "city": "Sheffield, United Kingdom",
+      "host": "University of Sheffield",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HackSheffield",
+      "twitterURL": "https://twitter.com/hack_sheffield",
+      "googlePlusURL": "",
+      "notes": ""
+    },
     {
       "title": "GlobalHack VI",
       "url": "http://globalhack.org/globalhack-vi/",
@@ -190,6 +209,44 @@
       "twitterURL": "https://twitter.com/hack_harvard",
       "googlePlusURL": "",
       "notes": "Classic vs. Future. HackHarvard16: Hack the Past"
+    },
+	{
+      "title": "YCP Hacks",
+      "url": "http://www.ycphacks.io/",
+      "startDate": "October 21",
+      "endDate": "October 23",
+      "year": "2016",
+      "city": "York, PA, United States",
+      "host": "Yorktowne Hotel",
+      "length": "36",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+	{
+      "title": "BrumHack",
+      "url": "https://www.brumhack.co.uk/",
+      "startDate": "October 29",
+      "endDate": "October 30",
+      "year": "2016",
+      "city": "Birmungham, United Kingdom",
+      "host": "University of Birmingham",
+      "length": "24",
+      "size": "150",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
