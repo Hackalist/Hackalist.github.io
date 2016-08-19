@@ -50,6 +50,7 @@ Please ensure your JSON syntax is correct before submitting. An easy way to chec
 * `travel:` Is travel reimbursed, in either part or full? *yes* | *no* | *unknown*
 * `prize:` Are prizes awarded to winners? *yes* | *no* | *unknown*
 * `highSchoolers:` Are high schoolers allowed to apply or attend? *yes* | *no* | *unknown*
+* `cost:` Cost of the event *free* | *$10* | *€10* | *etc.*
 * `facebookURL:` URL to official Facebook profile
 * `twitterURL:` URL to official Twitter profile
 * `googlePlusURL:` URL to official Google+ profile

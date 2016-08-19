@@ -56,6 +56,10 @@
 							<div class="onoffswitch" style="left:45%; text-align:center;">
 								<input id="cbHighSchoolersToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="highSchoolers = !highSchoolers" /><label for="cbHighSchoolersToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
 							</div>
+							<br>Are Free
+							<div class="onoffswitch" style="left:45%; text-align:center;">
+								<input id="cbCostToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="cost = !cost" /><label for="cbCostToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
+							</div>
 						</div>
 						<br>
 						<div id="monthNav" style="text-align:center;">
@@ -103,6 +107,12 @@
 					</p>
 					<p class="info-line-sm" ng-if="hackathon.size != 'unknown'">
 						Capacity: {{hackathon.size}}
+					</p>
+					<p class="info-line-sm" ng-if="hackathon.cost == 'free'">
+						Cost: Free
+					</p>
+					<p class="info-line-sm" ng-if="hackathon.cost != 'free'">
+						Cost: {{hackathon.cost}}
 					</p>
 					<p class="info-line-sm" ng-if="hackathon.notes != ''">
 						Note: {{hackathon.notes}}

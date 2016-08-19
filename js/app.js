@@ -3,7 +3,7 @@ var app = angular.module('hackalist', []);
 app.controller('hackathonEvents', ['$http', '$scope', function($http, $scope){
   $scope.hackathons = [];
   $scope.applicable = function(hackathon) {
-    if (!$scope.travelReimbursements && !$scope.prizes && !$scope.highSchoolers) {
+    if (!$scope.travelReimbursements && !$scope.prizes && !$scope.highSchoolers && !$scope.cost) {
       return true;
     }
 
@@ -16,6 +16,10 @@ app.controller('hackathonEvents', ['$http', '$scope', function($http, $scope){
     }
 
     if ($scope.highSchoolers && hackathon.highSchoolers != 'yes') {
+      return false;
+    }
+
+    if ($scope.cost && hackathon.cost != 'free') {
       return false;
     }
 
