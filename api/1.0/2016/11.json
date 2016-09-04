@@ -57,6 +57,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+    	{
+      "title": "HackSI",
+      "url": "http://hacksi.me/",
+      "startDate": "November 5",
+      "endDate": "November 6",
+      "year": "2016",
+      "city": "Carbondale, IL, United States",
+      "host": "Southern Illinois University",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HackSouthernIllinois",
+      "twitterURL": "https://twitter.com/hacksi",
+      "googlePlusURL": "https://plus.google.com/communities/108109882393061170322",
+      "notes": "Two 12hr Sessions, 8am-8pm. Walk-ins Welcome. No Overnight Stay."
+    },
 	{
       "title": "Cal Hacks 3.0",
       "url": "http://www.calhacks.io/",
