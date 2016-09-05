@@ -172,6 +172,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+        {
+      "title": "EOD appathon",
+      "url": "http://www.appathon.energic-od.eu/",
+      "startDate": "October 21",
+      "endDate": "October 22",
+      "year": "2016",
+      "city": "Venice, IT, Italy",
+      "host": "Regione del Veneto, Palazzo Linetti Cannaregio 99, Venezia",
+      "length": "46",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/Energic-OD-Project-510067492502420/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Challenge is about API and reuse of geographic data provided by EOD virtualhub"
+    },
     {
       "title": "GlobalHack VI",
       "url": "http://globalhack.org/globalhack-vi/",
