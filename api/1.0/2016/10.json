@@ -134,6 +134,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+  {
+    	"title": "TVCOG Cleantech Hackathon",
+    	"url": "http://hackathon.tvcog.net/cleantech-hackathon/",
+    	"startDate": "October 15",
+    	"endDate": "October 16",
+    	"year": "2016",
+    	"city": "Troy, NY, United States",
+    	"host": "Tech Valley Center of Gravity",
+    	"length": "32",
+    	"size": "unknown",
+    	"travel": "no",
+    	"prize": "yes",
+    	"highSchoolers": "no",
+    	"cost": "free",
+    	"facebookURL": "https://www.facebook.com/groups/capitaldistrictindustrialclub/",
+    	"twitterURL": "https://twitter.com/tvcog",
+    	"googlePlusURL": "",
+      "notes": "$5000 in Cash Prizes, mentors from NYSERDA, Mational Grid and Regional Clean Tech Companies."
+    },
 	{
       "title": "Codestellation",
       "url": "http://www.codestellation.io/",
@@ -191,7 +210,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
-        {
+    {
       "title": "EOD appathon",
       "url": "http://www.appathon.energic-od.eu/",
       "startDate": "October 21",
