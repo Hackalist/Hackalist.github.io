@@ -230,6 +230,25 @@
       "notes": "Challenge is about API and reuse of geographic data provided by EOD virtualhub"
     },
     {
+      "title": "Citrus Hack",
+      "url": "http://www.citrushack.com/#/main",
+      "startDate": "October 21",
+      "endDate": "October 23",
+      "year": "2016",
+      "city": "Riverside, CA, United States",
+      "host": "University of California, Riverside",
+      "length": "36",
+      "size": "400",
+      "travel": "no",
+      "prize": "unknown",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://facebook.com/CitrusHack/",
+      "twitterURL": "https://twitter.com/citrushack",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "GlobalHack VI",
       "url": "http://globalhack.org/globalhack-vi/",
       "startDate": "October 21",
