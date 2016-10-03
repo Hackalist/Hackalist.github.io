@@ -96,6 +96,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+	 {
+      "title": "RiverHack 2016",
+      "url": "https://www.meetup.com/Oxford-Hackspace/events/234412301/",
+      "startDate": "October 14",
+      "endDate": "October 15",
+      "year": "2016",
+      "city": "Oxford, UK",
+      "host": "Oxford Hackspace, Oxford Centre for Innovation",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "no",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Come and hack with us to solve river / water quality problems with loads of interesting new data"
+    },
     {
       "title": "Hack Western",
       "url": "https://hackwestern.com/",
