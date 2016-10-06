@@ -494,6 +494,25 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
-    }
+    },
+    {
+        "title": "DigitalOcean Cloud Hack",
+        "url": "http://www.venturesity.com/challenge/id/323",
+        "startDate": "October 15",
+        "endDate": "October 16",
+        "year": "2016",
+        "city": "Mumbai, India",
+        "host": "DigitalOcean",
+        "length": "24",
+        "size": "unknown",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/venturesity",
+        "twitterURL": "",
+        "googlePlusURL": "",
+        "notes": ""
+      }
   ]
 }
