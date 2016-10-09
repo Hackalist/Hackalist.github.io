@@ -35,7 +35,7 @@ The API is public, so feel free to use it for your own projects. As always, a li
 ## Contributing
 Hackathon listings are sorted chronology based on the starting date of the hackathon. If two hackathons start on the same day, they are sorted alphabetically.
 
-Please ensure your JSON syntax is correct before submitting to this repo. An easy way to check your JSON synax is through [JSONLint](http://jsonlint.com/).
+Please ensure your JSON syntax is correct before submitting. An easy way to check your JSON synax is through [JSONLint](http://jsonlint.com/).
 
 ## JSON Parameters
 * `title`: Name of hackathon
