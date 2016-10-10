@@ -76,26 +76,7 @@
       "googlePlusURL": "https://plus.google.com/communities/108109882393061170322",
       "notes": "Two 12hr Sessions, 8am-8pm. Walk-ins Welcome. No Overnight Stay."
     },
-      {
-      "title": "  India Solar Hackathon",
-      "url": "http://indiasolarhackathon.devpost.com/",
-      "startDate": "November 11",
-      "endDate": "November 12",
-      "year": "2016",
-      "city": "New Delhi, India",
-      "host": "New Energy Nexus",
-      "length": "24",
-      "size": "unknown",
-      "travel": "unknown",
-      "prize": "yes",
-      "highSchoolers": "no",
-      "cost": "free",
-      "facebookURL": "",
-      "twitterURL": "",
-      "googlePlusURL": "",
-      "notes": ""
-    },
-	{
+     	{
       "title": "Cal Hacks 3.0",
       "url": "http://www.calhacks.io/",
       "startDate": "November 11",
@@ -111,6 +92,25 @@
       "cost": "free",
       "facebookURL": "https://www.facebook.com/CalHacks",
       "twitterURL": "https://twitter.com/calhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+     {
+      "title": "Expedition: Hackathon",
+      "url": "http://expeditionhacks.com/nyc/",
+      "startDate": "November 12",
+      "endDate": "November 13",
+      "year": "2016",
+      "city": "New York City, United States",
+      "host": "AngelHack & Blue Compass",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "$10",
+      "facebookURL": "",
+      "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
     },
