@@ -551,6 +551,25 @@
         "twitterURL": "",
         "googlePlusURL": "",
         "notes": ""
+      },
+      {
+        "title": "LNMHacks",
+        "url": "http://www.lnmhacks.com/",
+        "startDate": "October 21",
+        "endDate": "October 22",
+        "year": "2016",
+        "city": "Jaipur, India",
+        "host": "LNMIIT",
+        "length": "24",
+        "size": "unknown",
+        "travel": "unknown",
+        "prize": "yes",
+        "highSchoolers": "unknown",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/lnmhacks",
+        "twitterURL": "https://twitter.com/LNMHacks",
+        "googlePlusURL": "",
+        "notes": "LNMIIT’s headline hackathon run by students. Prizes worth INR 100K."
       }
   ]
 }
