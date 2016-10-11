@@ -172,6 +172,25 @@
        "googlePlusURL": "",
        "notes": "A student hackathon in which we invite students from across the midwest to partake in a weekend of code, community, and self-improvement."
    },
+    {
+      "title": "Hack4Heritage",
+      "url": "http://www.hack4heritage.se/",
+      "startDate": "October 14",
+      "endDate": "October 16",
+      "year": "2016",
+      "city": "Stockholm, Sweden",
+      "host": "Digisam and Stockholm City Archive",
+      "length": "36",
+      "size": "150",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
 	 {
       "title": "RiverHack 2016",
       "url": "https://www.meetup.com/Oxford-Hackspace/events/234412301/",
