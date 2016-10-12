@@ -76,6 +76,25 @@
       "googlePlusURL": "https://plus.google.com/communities/108109882393061170322",
       "notes": "Two 12hr Sessions, 8am-8pm. Walk-ins Welcome. No Overnight Stay."
     },
+   	{
+      "title": "health++",
+      "url": "http://healthplusplus.stanford.edu",
+      "startDate": "November 5",
+      "endDate": "November 6",
+      "year": "2016",
+      "city": "Stanford, CA, United States",
+      "host": "Stanford University",
+      "length": "24",
+      "size": "300",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/StanfordHealthPlusPlus/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Stanford's inaugural health hackathon."
+    },
       {
       "title": "  India Solar Hackathon",
       "url": "http://indiasolarhackathon.devpost.com/",
