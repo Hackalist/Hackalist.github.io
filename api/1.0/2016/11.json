@@ -96,7 +96,26 @@
       "notes": "Stanford's inaugural health hackathon."
     },
       {
-      "title": "  India Solar Hackathon",
+      "title": "New Era Hackathon",
+      "url": "http://newerahackathon.com/apply.html",
+      "startDate": "November 11",
+      "endDate": "November 12",
+      "year": "2016",
+      "city": "Buffalo, New York, United States",
+      "host": "InteractiveX & University of Buffalo",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+     {
+      "title": "India Solar Hackathon",
       "url": "http://indiasolarhackathon.devpost.com/",
       "startDate": "November 11",
       "endDate": "November 12",
