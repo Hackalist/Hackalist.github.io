@@ -210,6 +210,25 @@
       "notes": ""
     },
 	{
+      "title": "HackDuke: Code for Good",
+      "url": "https://www.hackduke.org/",
+      "startDate": "November 19",
+      "endDate": "November 20",
+      "year": "2016",
+      "city": "Durham, NC",
+      "host": "Duke University",
+      "length": "24",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackduke",
+      "twitterURL": "https://twitter.com/hackduke",
+      "googlePlusURL": "",
+      "notes": "Focus on social good.  Prizes are donations to charities and causes."
+    },
+	{
       "title": "Junction 2016",
       "url": "http://hackjunction.com/",
       "startDate": "November 25",
