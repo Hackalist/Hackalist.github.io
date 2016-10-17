@@ -210,6 +210,25 @@
       "notes": ""
     },
 	{
+      "title": "WildHacks",
+      "url": "http://wildhacks.org/",
+      "startDate": "November 18",
+      "endDate": "November 20",
+      "year": "2016",
+      "city": "Evanston, IL, United States",
+      "host": "Northwestern University",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/NUWildHacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+	{
       "title": "HackOHI/O",
       "url": "http://hack.osu.edu/2016",
       "startDate": "November 19",

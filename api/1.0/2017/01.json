@@ -1,0 +1,42 @@
+{
+ "January": [
+    {
+      "title": "Uncommon Hacks",
+      "url": "http://uncommonhacks.com/",
+      "startDate": "January 14",
+      "endDate": "January 15",
+      "year": "2016",
+      "city": "Chicago, IL, United States",
+      "host": "unknown",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/uncommonhacks",
+      "twitterURL": "https://twitter.com/uncommonhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+	{
+      "title": "MinneHack",
+      "url": "http://minnehack.io/",
+      "startDate": "January 28",
+      "endDate": "January 29",
+      "year": "2016",
+      "city": "Minneapolis, MN, United States",
+      "host": "University of Minnesota",
+      "length": "24",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/acmuofmn",
+      "twitterURL": "https://twitter.com/acmuofmn",
+      "googlePlusURL": "",
+      "notes": ""
+    }
+  ]
+}
