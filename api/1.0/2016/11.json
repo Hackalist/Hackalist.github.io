@@ -95,6 +95,25 @@
       "googlePlusURL": "",
       "notes": "Stanford's inaugural health hackathon."
     },
+	{
+      "title": "UB Hacking",
+      "url": "http://ubhacking.com/",
+      "startDate": "November 5",
+      "endDate": "November 6",
+      "year": "2016",
+      "city": "Amherst, New York, United States",
+      "host": "University of Buffalo",
+      "length": "24",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/UBHacking",
+      "twitterURL": "https://twitter.com/ubhacking",
+      "googlePlusURL": "",
+      "notes": ""
+    },
       {
       "title": "New Era Hackathon",
       "url": "http://newerahackathon.com/apply.html",
