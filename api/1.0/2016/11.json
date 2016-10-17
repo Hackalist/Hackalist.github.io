@@ -210,6 +210,25 @@
       "notes": ""
     },
 	{
+      "title": "HackRPI",
+      "url": "https://hackrpi.com/",
+      "startDate": "November 12",
+      "endDate": "November 13",
+      "year": "2016",
+      "city": "Troy, NY, United States",
+      "host": "Rensselaer Polytechnic Institute",
+      "length": "24",
+      "size": "500",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackrpi",
+      "twitterURL": "https://twitter.com/goHackRPI",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+	{
       "title": "WildHacks",
       "url": "http://wildhacks.org/",
       "startDate": "November 18",
