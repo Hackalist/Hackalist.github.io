@@ -571,7 +571,26 @@
       "googlePlusURL": "",
       "notes": "The Carolina Hackathon"
     },
-	{
+    {
+      "title": "hackMarist",
+      "url": "https://hackmarist.com/",
+      "startDate": "October 28",
+      "endDate": "October 30",
+      "year": "2016",
+      "city": "Poughkeepsie, NY, United States",
+      "host": "Marist College",
+      "length": "36",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/1117381341651118/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "BrumHack",
       "url": "https://www.brumhack.co.uk/",
       "startDate": "October 29",
