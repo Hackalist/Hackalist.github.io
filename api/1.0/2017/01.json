@@ -56,6 +56,7 @@
       "twitterURL": "https://twitter.com/ConUHacks",
       "googlePlusURL": "",
       "notes": ""
+<<<<<<< HEAD
 	 },
 	  {
       "title": "Hackatown",
@@ -97,5 +98,8 @@
 			 
 	 }
 	 
+=======
+	 }
+>>>>>>> fc1e826c9394141155c11a9991d57725d98663ac
   ]
 }
