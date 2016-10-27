@@ -1,0 +1,23 @@
+{ 
+      "March": [
+            {
+                  "title": "WiseHacks",
+                  "url": "http://wisehacks.swcenter.edu",
+                  "startDate": "March 25",
+                  "endDate": "March 26",
+                  "year": "2017",
+                  "city": "Abingdon, Va",
+                  "host": "UVa-Wise Abingdon",
+                  "length": "24",
+                  "size": "unknown",
+                  "travel": "unknown",
+                  "prize": "yes",
+                  "highSchoolers": "Yes, if over 18",
+                  "cost": "free",
+                  "facebookURL": "",
+                  "twitterURL": "",
+                  "googlePlusURL": "",
+                  "notes": ""
+            }
+      ]
+}

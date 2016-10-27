@@ -75,6 +75,25 @@
       "twitterURL": "https://twitter.com/DerbyHacks17",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "WicHacks",
+      "url": "http://wic-hacks.rit.edu",
+      "startDate": "February 25",
+      "endDate": "February 26",
+      "year": "2017",
+      "city": "Rochester, NY",
+      "host": "Rochester Institute of Technology",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "unknown",
+      "highSchoolers": "yes, if 16+",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/wic.hacks.rit/",
+      "twitterURL": "https://twitter.com/wichacks",
+      "googlePlusURL": "",
+      "notes": "Female only"
     }
   ]
 }
