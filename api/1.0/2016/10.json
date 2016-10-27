@@ -40,6 +40,25 @@
       "notes": "Mini-hackathon using the new Sage Pay API integration, Sage Pay Pi."
     },
     {
+      "title": "HackUPC",
+      "url": "https://hackupc.com/",
+      "startDate": "October 7",
+      "endDate": "October 9",
+      "year": "2016",
+      "city": "Barcelona, Spain",
+      "host": "Polytechnic University of Catalonia",
+      "length": "36",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "uknown",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackupc",
+      "twitterURL": "https://twitter.com/hackupc",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Zoohackathon",
       "url": "http://www.zoohackathon.com/london/",
       "startDate": "October 7",
