@@ -18,6 +18,25 @@
                   "twitterURL": "",
                   "googlePlusURL": "",
                   "notes": ""
+            },
+            {
+                  "title": "HSHacks",
+                  "url": "http://hshacks.com",
+                  "startDate": "March 25",
+                  "endDate": "March 26",
+                  "year": "2017",
+                  "city": "Bay Area",
+                  "host": "unknown",
+                  "length": "24",
+                  "size": "1000",
+                  "travel": "no",
+                  "prize": "yes",
+                  "highSchoolers": "yes",
+                  "cost": "free",
+                  "facebookURL": "https://www.facebook.com/highschoolhacks/",
+                  "twitterURL": "https://twitter.com/highschoolhacks",
+                  "googlePlusURL": "",
+                  "notes": ""
             }
       ]
 }
