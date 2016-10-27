@@ -284,7 +284,7 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
-    }, 
+    },
 	{
       "title": "HackOHI/O",
       "url": "http://hack.osu.edu/2016",
@@ -436,6 +436,45 @@
       "twitterURL": "https://twitter.com/rsc_hack",
       "googlePlusURL": "",
       "notes": ""
-    }
+    },
+    {
+      "title": "GreatUniHack",
+      "url": "http://2016f.greatunihack.com/",
+      "startDate": "November 12",
+      "endDate": "November 13",
+      "year": "2016",
+      "city": "Manchester, UK",
+      "host": "Manchester Metropolitan University",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/GreatUniHack/",
+      "twitterURL": "https://twitter.com/GreatUniHack",
+      "googlePlusURL": "https://plus.google.com/108342676820546140672/",
+      "notes": "All enrolled students over 18 can attend, and those within a year of graduation"
+    },
+    {
+      "title": "OxfordHack",
+      "url": "http://www.oxfordhack.com/",
+      "startDate": "November 19",
+      "endDate": "November 20",
+      "year": "2016",
+      "city": "Oxford, UK",
+      "host": "University of Oxford",
+      "length": "24",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/OxfordHack/",
+      "twitterURL": "https://twitter.com/oxfordhackathon",
+      "googlePlusURL": "",
+      "notes": "Limited number of travel reimbursement available"
+    },
+
   ]
 }
