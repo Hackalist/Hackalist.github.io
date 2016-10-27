@@ -417,6 +417,25 @@
       "twitterURL": "https://twitter.com/hacksocnotts",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "Ready, Steady, Code",
+      "url": "http://rsc.hr/",
+      "startDate": "November 26",
+      "endDate": "November 27",
+      "year": "2016",
+      "city": "Varaždin, Croatia",
+      "host": "Varaždin",
+      "length": "24",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/ReadySteadyCode/",
+      "twitterURL": "https://twitter.com/rsc_hack",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
