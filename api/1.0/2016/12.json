@@ -57,6 +57,27 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+
+      "title": "Hack the Holidays 2",
+      "url": "https://hacktheholidays.io/",
+      "startDate": "December 17",
+      "endDate": "December 18",
+      "year": "2016",
+      "city": "Peterborough, United Kingdom",
+      "host": "Future Business Centre",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "unknown",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hacktheholidays",
+      "twitterURL": "https://twitter.com/hacktheholidays",
+      "googlePlusURL": "",
+      "notes": ""
     }
+    
   ]
 }
