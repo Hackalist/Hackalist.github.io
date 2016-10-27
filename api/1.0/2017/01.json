@@ -56,44 +56,6 @@
       "twitterURL": "https://twitter.com/ConUHacks",
       "googlePlusURL": "",
       "notes": ""
-	 },
-	  {
-      "title": "Hackatown",
-      "url": "https://hackatown.io/",
-      "startDate": "February 4",
-      "endDate": "February 5",
-      "year": "2017",
-      "city": "Montreal, Qc, Canada",
-      "host": "Polytechnique Montreal",
-      "length": "24",
-      "size": "300",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/events/1126366717436818/",
-      "twitterURL": "",
-      "googlePlusURL": "",
-      "notes": ""
-		},
-	 {
-      "title": "Desert Hacks",
-      "url": "http://www.deserthacks.org/",
-      "startDate": "February 11",
-      "endDate": "February 12",
-      "year": "2017",
-      "city": "Phoenix, Arizona, United States",
-      "host": "Arizona State University",
-      "length": "24",
-      "size": "350",
-      "travel": "unknown",
-      "prize": "unknown",
-      "highSchoolers": "no",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/DesertHacks/",
-      "twitterURL": "https://twitter.com/DesertHacks",
-      "googlePlusURL": "",
-      "notes": ""
 	 }
  ]
 }
