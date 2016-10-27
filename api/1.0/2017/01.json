@@ -56,26 +56,6 @@
       "twitterURL": "https://twitter.com/ConUHacks",
       "googlePlusURL": "",
       "notes": ""
-	 },
-	  {
-      "title": "Hackatown",
-      "url": "https://hackatown.io/",
-      "startDate": "February 4",
-      "endDate": "February 5",
-      "year": "2017",
-      "city": "Montreal, Qc, Canada",
-      "host": "Polytechnique Montreal",
-      "length": "24",
-      "size": "300",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/events/1126366717436818/",
-      "twitterURL": "",
-      "googlePlusURL": "",
-      "notes": ""
-		}
-	 
+	 }
   ]
 }
