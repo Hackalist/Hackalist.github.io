@@ -18,6 +18,26 @@
       "twitterURL": "https://twitter.com/MLHacks",
       "googlePlusURL": "",
       "notes": "Local Hack Day has locations all over the world; check the website for one near you."
+    },
+    {
+      "title": "Lehigh Hacks",
+      "url": "http://www.lehighhacks.com/",
+      "startDate": "December 2",
+      "endDate": "December 3",
+      "year": "2016",
+      "city": "Bethlehem",
+      "host": "Lehigh University",
+      "length": "36",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/LehighHacks",
+      "twitterURL": "https://twitter.com/LehighHacks",
+      "googlePlusURL": "",
+      "notes": ""
+      
     }
   ]
 }
