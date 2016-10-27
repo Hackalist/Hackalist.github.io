@@ -38,6 +38,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+    {
+      "title": "BrickHack",
+      "url": "https://brickhack.io",
+      "startDate": "February 11",
+      "endDate": "February 12",
+      "year": "2017",
+      "city": "Rochester, NY",
+      "host": "unknown",
+      "length": "24",
+      "size": "400",
+      "travel": "yes, but depends on interest",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "cost": "unknown",
+      "facebookURL": "https://www.facebook.com/brickhackrit",
+      "twitterURL": "https://twitter.com/brickhackrit",
+      "googlePlusURL": "",
+      "notes": ""
+    },
 	{
       "title": "HackCentral",
       "url": "http://hackcentral.ca/",
@@ -94,25 +113,6 @@
       "twitterURL": "https://twitter.com/wichacks",
       "googlePlusURL": "",
       "notes": "Female only"
-    },
-    {
-      "title": "BrickHack",
-      "url": "https://brickhack.io",
-      "startDate": "February 11",
-      "endDate": "February 12",
-      "year": "2017",
-      "city": "Rochester, NY",
-      "host": "unknown",
-      "length": "24",
-      "size": "400",
-      "travel": "yes, but depends on interest",
-      "prize": "unknown",
-      "highSchoolers": "unknown",
-      "cost": "unknown",
-      "facebookURL": "https://www.facebook.com/brickhackrit",
-      "twitterURL": "https://twitter.com/brickhackrit",
-      "googlePlusURL": "",
-      "notes": ""
     }
   ]
 }
