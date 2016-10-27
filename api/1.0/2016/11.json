@@ -342,6 +342,25 @@
       "googlePlusURL": "",
       "notes": "Focus on social good.  Prizes are donations to charities and causes."
     },
+    {
+      "title": "Ultrahack 2016",
+      "url": "https://ultrahack.org/Ultrahack2016",
+      "startDate": "November 25",
+      "endDate": "November 27",
+      "year": "2016",
+      "city": "Helsinki,Uusimaa",
+      "host": "Duke University",
+      "length": "48",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
 	{
       "title": "Junction 2016",
       "url": "http://hackjunction.com/",
