@@ -37,6 +37,45 @@
       "twitterURL": "https://twitter.com/acmuofmn",
       "googlePlusURL": "",
       "notes": ""
-    }
+    },
+	 {
+      "title": "ConUHacks",
+      "url": "http://conuhacks.io/",
+      "startDate": "January 21",
+      "endDate": "January 22",
+      "year": "2017",
+      "city": "Montreal, Qc, Canada",
+      "host": "Concordia University",
+      "length": "24",
+      "size": "500",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/conuhacks/",
+      "twitterURL": "https://twitter.com/ConUHacks",
+      "googlePlusURL": "",
+      "notes": ""
+	 },
+	  {
+      "title": "Hackatown",
+      "url": "https://hackatown.io/",
+      "startDate": "February 4",
+      "endDate": "February 5",
+      "year": "2017",
+      "city": "Montreal, Qc, Canada",
+      "host": "Polytechnique Montreal",
+      "length": "24",
+      "size": "300",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/1126366717436818/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+		}
+	 
   ]
 }
