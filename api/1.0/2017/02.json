@@ -1,5 +1,24 @@
 {
  "February": [
+	{
+      "title": "hack@brown",
+      "url": "http://2017.hackatbrown.org/",
+      "startDate": "February 4",
+      "endDate": "February 5",
+      "year": "2017",
+      "city": "Providence, RI",
+      "host": "Rhode Island",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackatbrown",
+      "twitterURL": "https://twitter.com/hackatbrown",
+      "googlePlusURL": "",
+      "notes": ""
+    },
     {
       "title": "Hackatown 2017",
       "url": "https://hackatown.io/",
