@@ -38,6 +38,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+    {
+        "title": "McHacks",
+        "url": "https://mchacks.io/",
+        "startDate": "January 28",
+        "endDate": "January 29",
+        "year": "2017",
+        "city": "Montreal, QC, CAnada",
+        "host": "McGill University",
+        "length": "24",
+        "size": "unknown",
+        "travel": "yes",
+        "prize": "no",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/mcgillhacks",
+        "twitterURL": "https://twitter.com/hack_mcgill",
+        "googlePlusURL": "",
+        "notes": ""
+      },
 	{
       "title": "MinneHack",
       "url": "http://minnehack.io/",
