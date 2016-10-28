@@ -475,6 +475,25 @@
       "notes": "This is a meme-based hackathon."
     },
 	{
+	"title": "Ninja Hacks",
+	"url": "http://ninjahacks.co/",
+	"startDate": "April 16",
+	"endDate": "April 17",
+	"year": "2016",
+	"city": "Limassol, Cyprus",
+	"host": "Independatly Organized",
+	"length": "24",
+	"size": "32",
+	"travel": "no",
+	"prize": "yes",
+	"highSchoolers": "yes",
+	"cost": "free",
+	"facebookURL": "https://www.facebook.com/nijahackscy",
+	"twitterURL": "",
+	"googlePlusURL": "",
+	"notes": ""
+    },
+	{
       "title": "HackBajío",
       "url": "http://hackbajio.com/",
       "startDate": "April 22",
