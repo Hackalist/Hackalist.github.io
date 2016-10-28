@@ -38,6 +38,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+      {
+      "title": "BrickHack",
+      "url": "https://brickhack.io/",
+      "startDate": "February 11",
+      "endDate": "February 12",
+      "year": "2017",
+      "city": "Rochester, NY, United States",
+      "host": "RIT",
+      "length": "24",
+      "size": "350",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/brickhackrit",
+      "twitterURL": "https://twitter.com/brickhackrit",
+      "googlePlusURL": "",
+      "notes": ""
+    },
 	{
       "title": "HackCentral",
       "url": "http://hackcentral.ca/",
