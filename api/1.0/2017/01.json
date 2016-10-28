@@ -19,6 +19,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+        {
+      "title": "SwampHacks",
+      "url": "http://2017.swamphacks.com/",
+      "startDate": "January 20",
+      "endDate": "January 22",
+      "year": "2017",
+      "city": "Gainsville, FL, United States",
+      "host": "University of Florida",
+      "length": "36",
+      "size": "400",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "unknown",
+      "twitterURL": "https://twitter.com/swamphacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
 	{
       "title": "MinneHack",
       "url": "http://minnehack.io/",
