@@ -684,6 +684,25 @@
         "twitterURL": "https://twitter.com/HackTX",
         "googlePlusURL": "",
         "notes": "HackTX only accepts current students (undergraduates, graduates, or high school students at least 18 years old)."
+      },
+      {
+        "title": "Invent:YU Israel",
+        "url": "https://inventyu.com/",
+        "startDate": "October 29",
+        "endDate": "October 30",
+        "year": "2016",
+        "city": "New York, NY, United States",
+        "host": "Yeshiva University",
+        "length": "24",
+        "size": "unknown",
+        "travel": "unknown",
+        "prize": "unknown",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "",
+        "twitterURL": "",
+        "googlePlusURL": "",
+        "notes": ""
       }
   ]
 }
