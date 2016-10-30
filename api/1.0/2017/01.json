@@ -94,6 +94,25 @@
       "twitterURL": "https://twitter.com/ConUHacks",
       "googlePlusURL": "",
       "notes": ""
-	 }
+	},
+	 {
+      "title": "UofT Hacks",
+      "url": "https://uofthacks.com",
+      "startDate": "January 20",
+      "endDate": "January 22",
+      "year": "2017",
+      "city": "Toronto, ON, Canada",
+      "host": "University of Toronto",
+      "length": "48",
+      "size": "500",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "cost": "unknown",
+      "facebookURL": "https://www.facebook.com/UoftHacks/",
+      "twitterURL": "https://twitter.com/uofthacks",
+      "googlePlusURL": "",
+      "notes": ""
+    }
  ]
 }
