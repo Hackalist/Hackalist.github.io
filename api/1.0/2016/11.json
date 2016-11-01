@@ -342,6 +342,25 @@
       "notes": ""
     },
     {
+      "title": "Bothack Berlin",
+      "url": "http://bothack.berlin",
+      "startDate": "November 18",
+      "endDate": "November 20",
+      "year": "2016",
+      "city": "Berlin, Germany",
+      "host": "Hackerstolz, Torben, Lucie und die gelbe Gefahr GmbH",
+      "length": "48",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "no",
+      "cost": "15 EUR",
+      "facebookURL": "https://www.facebook.com/events/1381051358588837/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Data Transparency Lab Hack Day",
       "url": "https://datatransparencylab.github.io/dtlhackday16/",
       "startDate": "November 19",
@@ -474,7 +493,26 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	{
+    {
+      "title": "MiSK Hackathon: Medical Internet of Things",
+      "url": "http://hub.miskhackathon.com/",
+      "startDate": "November 25",
+      "endDate": "November 27",
+      "year": "2016",
+      "city": "London, UK",
+      "host": "Misk Foundation",
+      "length": "48",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "$10,000",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/1095524563859308/",
+      "twitterURL": "https://twitter.com/misktech",
+      "googlePlusURL": "",
+      "notes": "Hosted in London and Riyadh at the same time"
+    },
+    {
       "title": "HackKing v3.0",
       "url": "http://hackkings.org/",
       "startDate": "November 26",
@@ -493,7 +531,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	{
+    {
       "title": "HackNotts",
       "url": "http://2016.hacknotts.com/",
       "startDate": "November 26",
