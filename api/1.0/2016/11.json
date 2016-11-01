@@ -457,6 +457,25 @@
       "notes": "All enrolled students over 18 can attend, and those within a year of graduation"
     },
     {
+      "title": "Bothack Berlin",
+      "url": "http://bothack.berlin",
+      "startDate": "November 18",
+      "endDate": "November 20",
+      "year": "2016",
+      "city": "Berlin, Germany",
+      "host": "Hackerstolz, Torben, Lucie und die gelbe Gefahr GmbH",
+      "length": "48",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "no",
+      "cost": "15 EUR",
+      "facebookURL": "https://www.facebook.com/events/1381051358588837/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    }
+    {
       "title": "OxfordHack",
       "url": "http://www.oxfordhack.com/",
       "startDate": "November 19",
@@ -474,6 +493,25 @@
       "twitterURL": "https://twitter.com/oxfordhackathon",
       "googlePlusURL": "",
       "notes": "Limited number of travel reimbursement available"
+    },
+    {
+      "title": "MiSK Hackathon: Medical Internet of Things",
+      "url": "http://hub.miskhackathon.com/",
+      "startDate": "November 25",
+      "endDate": "November 27",
+      "year": "2016",
+      "city": "London, UK",
+      "host": "Misk Foundation",
+      "length": "48",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "$10,000",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/1095524563859308/",
+      "twitterURL": "https://twitter.com/misktech",
+      "googlePlusURL": "",
+      "notes": "Hosted in London and Riyadh at the same time"
     }
   ]
 }
