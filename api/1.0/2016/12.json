@@ -37,7 +37,26 @@
       "twitterURL": "https://twitter.com/LehighHacks",
       "googlePlusURL": "",
       "notes": ""
-      
+
+    },
+    {
+      "title": "Disrupt London Hackathon",
+      "url": "https://techcrunch.com/event-info/disrupt-london-2016/disrupt-london-hackathon-2016/",
+      "startDate": "December 3",
+      "endDate": "December 4",
+      "year": "2016",
+      "city": "London, UK",
+      "host": "TechCrunch",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/techcrunch",
+      "twitterURL": "https://twitter.com/techcrunch",
+      "googlePlusURL": "https://plus.google.com/+TechCrunch",
+      "notes": ""
     },
     {
       "title": "Hack Society 2016",
@@ -78,6 +97,6 @@
       "googlePlusURL": "",
       "notes": ""
     }
-    
+
   ]
 }
