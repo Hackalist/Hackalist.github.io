@@ -190,7 +190,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	{
+    {
       "title": "SteelHacks",
       "url": "http://steelhacks.com/",
       "startDate": "February 19",
@@ -208,6 +208,25 @@
       "twitterURL": "https://twitter.com/Steelhacks",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "Pioneer's Makerthon",
+      "url": "http://www.tryst-iitd.com/events.php",
+      "startDate": "February 20",
+      "endDate": "February 21",
+      "year": "2016",
+      "city": "New Delhi, India",
+      "host": "IIT Delhi",
+      "length": "36",
+      "size": "5",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "A minimum of 2 and a maximum of 4 students to be part of a team"
     },
     {
       "title": "SVHacks",
@@ -247,26 +266,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
-    {
-      "title": "Pioneer's Makerthon",
-      "url": "http://www.tryst-iitd.com/events.php",
-      "startDate": "February 20",
-      "endDate": "February 21",
-      "year": "2016",
-      "city": "New Delhi, India",
-      "host": "IIT Delhi",
-      "length": "36",
-      "size": "5",
-      "travel": "unknown",
-      "prize": "yes",
-      "highSchoolers": "unknown",
-      "cost": "free",
-      "facebookURL": "",
-      "twitterURL": "",
-      "googlePlusURL": "",
-      "notes": "A minimum of 2 and a maximum of 4 students to be part of a team"
-    },
-    {
+        {
       "title": "LAUNCH Hackathon",
       "url": "http://www.launchhackathon.com/",
       "startDate": "February 26",
