@@ -38,7 +38,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
- 	 	{
+    {
       "title": "UofT Hacks",
       "url": "https://uofthacks.com",
       "startDate": "January 20",
@@ -57,7 +57,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
- 	 	{
+    {
       "title": "SB Hacks",
       "url": "http://www.sbhacks.com/",
       "startDate": "January 20",
@@ -94,7 +94,7 @@
       "twitterURL": "https://twitter.com/ConUHacks",
       "googlePlusURL": "",
       "notes": ""
-	  },
+    },
     {
         "title": "McHacks",
         "url": "https://mchacks.io/",
@@ -114,7 +114,7 @@
         "googlePlusURL": "",
         "notes": ""
     },
-	  {
+    {
       "title": "MinneHack",
       "url": "http://minnehack.io/",
       "startDate": "January 28",
