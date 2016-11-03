@@ -1,6 +1,25 @@
 {
   "November": [
     {
+      "title": "Borderless Block Party",
+      "url": "https://ccn.devpost.com/",
+      "startDate": "November 1",
+      "endDate": "November 30",
+      "year": "2015",
+      "city": "Worldwide",
+      "host": "College Cryptocurrency Network",
+      "length": "",
+      "size": "50-100",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/cryptohacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "AT&T Mobile App Hackathon",
       "url": "http://www.eventbrite.com/e/att-mobile-app-hackathon-new-york-city-tickets-18849801263?aff=erelexporg",
       "startDate": "November 6",
@@ -529,25 +548,6 @@
       "cost": "free",
       "facebookURL": "https://www.facebook.com/hackwestern",
       "twitterURL": "https://twitter.com/hackwestern",
-      "googlePlusURL": "",
-      "notes": ""
-    },
-    {
-      "title": "Borderless Block Party",
-      "url": "https://ccn.devpost.com/",
-      "startDate": "November 1",
-      "endDate": "November 30",
-      "year": "2015",
-      "city": "Worldwide",
-      "host": "College Cryptocurrency Network",
-      "length": "",
-      "size": "50-100",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "",
-      "twitterURL": "https://twitter.com/cryptohacks",
       "googlePlusURL": "",
       "notes": ""
     },

@@ -1,25 +1,6 @@
 {
   "December": [
     {
-      "title": "Local Hack Day",
-      "url": "https://localhackday.mlh.io/",
-      "startDate": "December 3",
-      "endDate": "December 3",
-      "year": "2016",
-      "city": "Everywhere",
-      "host": "Major League Hacking",
-      "length": "12",
-      "size": "unknown",
-      "travel": "unknown",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/MajorLeagueHacking",
-      "twitterURL": "https://twitter.com/MLHacks",
-      "googlePlusURL": "",
-      "notes": "Local Hack Day has locations all over the world; check the website for one near you."
-    },
-    {
       "title": "Lehigh Hacks",
       "url": "http://www.lehighhacks.com/",
       "startDate": "December 2",
@@ -37,7 +18,25 @@
       "twitterURL": "https://twitter.com/LehighHacks",
       "googlePlusURL": "",
       "notes": ""
-
+    },
+    {
+      "title": "Local Hack Day",
+      "url": "https://localhackday.mlh.io/",
+      "startDate": "December 3",
+      "endDate": "December 3",
+      "year": "2016",
+      "city": "Everywhere",
+      "host": "Major League Hacking",
+      "length": "12",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/MajorLeagueHacking",
+      "twitterURL": "https://twitter.com/MLHacks",
+      "googlePlusURL": "",
+      "notes": "Local Hack Day has locations all over the world; check the website for one near you."
     },
     {
       "title": "Disrupt London Hackathon",
