@@ -1,5 +1,5 @@
 ![hackalist-logo](images/logo.png)
-![https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square](https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square)
+![https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square](https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square) [![Build Status](https://travis-ci.org/Hackalist/Hackalist.github.io.svg?branch=master)](https://travis-ci.org/Hackalist/Hackalist.github.io)
 =================================
 Hackalist is a database of hackathons that has the most up to date information for all your hackathon needs. Visit our [website](http://www.hackalist.org) to view the live site.
 
