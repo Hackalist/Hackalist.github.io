@@ -170,6 +170,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+	  {
+			"title": "HackTheU",
+      "url": "http://hacktheu.com/",
+      "startDate": "November 11",
+      "endDate": "November 12",
+      "year": "2016",
+      "city": "Salt Lake City, UT",
+      "host": "Lassonde Studios",
+      "length": "24",
+      "size": "400",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+	  },
       {
       "title": "New Era Hackathon",
       "url": "http://newerahackathon.com/apply.html",
