@@ -19,7 +19,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
-        {
+    {
       "title": "SwampHacks",
       "url": "http://2017.swamphacks.com/",
       "startDate": "January 20",
@@ -38,7 +38,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
- 	 	 {
+    {
       "title": "UofT Hacks",
       "url": "https://uofthacks.com",
       "startDate": "January 20",
@@ -54,6 +54,25 @@
       "cost": "unknown",
       "facebookURL": "https://www.facebook.com/UoftHacks/",
       "twitterURL": "https://twitter.com/uofthacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "SB Hacks",
+      "url": "http://www.sbhacks.com/",
+      "startDate": "January 20",
+      "endDate": "January 22",
+      "year": "2017",
+      "city": "Santa Barbara, CA, United States",
+      "host": "University of California, Santa Barbara",
+      "length": "36",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
     },
@@ -75,8 +94,8 @@
       "twitterURL": "https://twitter.com/ConUHacks",
       "googlePlusURL": "",
       "notes": ""
-	},
-   {
+    },
+    {
         "title": "McHacks",
         "url": "https://mchacks.io/",
         "startDate": "January 28",
@@ -94,8 +113,8 @@
         "twitterURL": "https://twitter.com/hack_mcgill",
         "googlePlusURL": "",
         "notes": ""
-      },
-	{
+    },
+    {
       "title": "MinneHack",
       "url": "http://minnehack.io/",
       "startDate": "January 28",
