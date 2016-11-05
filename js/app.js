@@ -4,7 +4,7 @@ app.controller('hackathonEvents', ['$http', '$scope', function($http, $scope){
   $scope.hackathons = [];
   $scope.applicable = function(hackathon) {
     if (!$scope.travelReimbursements && !$scope.prizes && !$scope.highSchoolers && !$scope.cost &&
-        !$scope.imageURL) {
+        !$scope.logoURL) {
       return true;
     }
 
@@ -24,10 +24,10 @@ app.controller('hackathonEvents', ['$http', '$scope', function($http, $scope){
       return false;
     }
 
-    if ($scope.imageURL && hackathon.imageURL != '') {
+    if ($scope.logoURL && hackathon.logoURL != '') {
       return "";
     }
-
+    
     return true;
   }
 
