@@ -84,6 +84,7 @@
 				<a name="{{month.month}}"></a>
 				<h1>{{month.month}}</h1>
 				<div ng-repeat="hackathon in month.hacks | filter:applicable">
+					<img src="{{hackathon.imageURL}}" ng-if="hackathon.imageURL != ''" width="200" height="200">
 					<a ng-href="{{hackathon.url}}" target="_blank">
 						<h2>{{hackathon.title}}</h2>
 					</a>
