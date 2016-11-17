@@ -20,6 +20,25 @@
                   "notes": ""
             },
             {
+                  "title": "#SIXHackathon2017",
+                  "url": "http://www.six-group.com/about/en/site/hackathon.html",
+                  "startDate": "March 10",
+                  "endDate": "March 12",
+                  "year": "2017",
+                  "city": "Zurich, CH",
+                  "host": "SIX-Group",
+                  "length": "48",
+                  "size": "200",
+                  "travel": "yes",
+                  "prize": "yes",
+                  "highSchoolers": "no",
+                  "cost": "free",
+                  "facebookURL": "https://www.facebook.com/sixhackathon/",
+                  "twitterURL": "https://twitter.com/sixgroup",
+                  "googlePlusURL": "",
+                  "notes": ""
+            },
+            {
                   "title": "WiseHacks",
                   "url": "http://wisehacks.swcenter.edu",
                   "startDate": "March 25",
