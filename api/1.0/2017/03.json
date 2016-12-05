@@ -1,6 +1,25 @@
 { 
       "March": [
              {
+                  "title": "FloridaTechHacks",
+                  "url": "http://www.floridatechhacks.com/",
+                  "startDate": "March 4",
+                  "endDate": "March 5",
+                  "year": "2017",
+                  "city": "Melbourne, Florida, United States",
+                  "host": "Florida Institute of Technology",
+                  "length": "24",
+                  "size": "unknown",
+                  "travel": "unknown",
+                  "prize": "unknown",
+                  "highSchoolers": "unknown",
+                  "cost": "free",
+                  "facebookURL": "https://www.facebook.com/floridatechhacks/",
+                  "twitterURL": "https://twitter.com/fthacks",
+                  "googlePlusURL": "",
+                  "notes": "Taking place on the first and second floors of the Evans Library"
+             },
+             {
                   "title": "Hack In The North",
                   "url": "http://www.hackinthenorth.com/",
                   "startDate": "March 07",
