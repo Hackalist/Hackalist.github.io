@@ -1,6 +1,25 @@
 { 
       "March": [
              {
+                  "title": "Hacktech",
+                  "url": "http://www.hacktech.io/",
+                  "startDate": "March 3",
+                  "endDate": "March 5",
+                  "year": "2017",
+                  "city": "Pasadena, CA",
+                  "host": "California Institute of Technology",
+                  "length": "36",
+                  "size": "600",
+                  "travel": "case-by-case",
+                  "prize": "yes",
+                  "highSchoolers": "yes",
+                  "cost": "free",
+                  "facebookURL": "https://www.facebook.com/thehacktech/",
+                  "twitterURL": "https://twitter.com/thehacktech",
+                  "googlePlusURL": "",
+                  "notes": "Join us for a great time at the Rose Bowl Stadium!"
+             },
+             {
                   "title": "FloridaTechHacks",
                   "url": "http://www.floridatechhacks.com/",
                   "startDate": "March 4",
