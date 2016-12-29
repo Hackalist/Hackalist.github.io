@@ -38,6 +38,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+	 {
+      "title": "ProfHacks 2017",
+      "url": "http://profhacks.com/",
+      "startDate": "February 4",
+      "endDate": "February 5",
+      "year": "2017",
+      "city": "Glassboro, NJ",
+      "host": "Rowan University",
+      "length": "24",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/RowanProfHacks/",
+      "twitterURL": "https://twitter.com/RowanProfHacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
 	{
       "title": "Desert Hacks 2016",
       "url": "http://www.deserthacks.org/",
