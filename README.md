@@ -55,3 +55,4 @@ Please ensure your JSON syntax is correct before submitting. An easy way to chec
 * `twitterURL:` URL to official Twitter profile
 * `googlePlusURL:` URL to official Google+ profile
 * `notes:` Any additional notes (limits to who can attend, special requirements, etc.)
+testing
