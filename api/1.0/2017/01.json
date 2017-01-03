@@ -1,6 +1,25 @@
 {
  "January": [
     {
+      "title": "SM Hacks",
+      "url": "http://www.smhacks.com",
+      "startDate": "January 14",
+      "endDate": "January 15",
+      "year": "2017",
+      "city": "Redwood City, CA, United States",
+      "host": "Informatica",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "unknown",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/sanmateohacks",
+      "twitterURL": "https://twitter.com/sanmateohacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Uncommon Hacks",
       "url": "http://uncommonhacks.com/",
       "startDate": "January 14",
