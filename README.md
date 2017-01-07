@@ -1,11 +1,12 @@
 ![hackalist-logo](images/logo.png)
 ![https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square](https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square) [![Build Status](https://travis-ci.org/Hackalist/Hackalist.github.io.svg?branch=master)](https://travis-ci.org/Hackalist/Hackalist.github.io)
 =================================
-Hackalist is a database of hackathons that has the most up to date information for all your hackathon needs. Visit our [website](http://www.hackalist.org) to view the live site.
+Hackalist is a community-driven database of hackathons that has the most up to date information for all your hackathon needs. Visit our [website](http://www.hackalist.org) to view the live site.
 
-Feel free to submit [Pull Requests](http://github.com/Hackalist/Hackalist.github.io/pulls) and/or [Issues](http://github.com/Hackalist/Hackalist.github.io/issues).
+Feel free to submit [Pull Requests](http://github.com/Hackalist/Hackalist.github.io/pulls) and/or [Issues](http://github.com/Hackalist/Hackalist.github.io/issues). Issues can include a request to add a hackathon, bug reports, feature requests, or questions.
 
-If you have any questions or concerns, please tweet [@KevinPayravi](http://twitter.com/KevinPayravi).
+If you have any questions or concerns, please open an issue (with the `help wanted` label) or tweet [@KevinPayravi](http://twitter.com/KevinPayravi).
+
 Authorship
 =================================
 Site initiated by [Kevin Payravi](http://www.kevinpayravi.com/). Special thanks to:
