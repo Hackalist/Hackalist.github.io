@@ -55,3 +55,26 @@ Please ensure your JSON syntax is correct before submitting. An easy way to chec
 * `twitterURL:` URL to official Twitter profile
 * `googlePlusURL:` URL to official Google+ profile
 * `notes:` Any additional notes (limits to who can attend, special requirements, etc.)
+
+## Listing Example
+```
+{
+      "title": "Best Hackathon",
+      "url": "http://besthackathon.com/",
+      "startDate": "January 20",
+      "endDate": "January 21",
+      "year": "2016",
+      "city": "New York, NY, United States",
+      "host": "Best University",
+      "length": "36",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/besthackathon",
+      "twitterURL": "https://twitter.com/besthackathon",
+      "googlePlusURL": "",
+      "notes": ""`
+    }
+```
