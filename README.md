@@ -29,11 +29,15 @@ Projects Using Hackalist's API
 
 API
 =================================
-The [Hackalist API](https://github.com/Hackalist/Hackalist.github.io/tree/master/api/1.0) is split into separate JSON files for each month of each year, following the file pattern `/api/1.0/YEAR/MONTH.json`.
+The [Hackalist API](https://github.com/Hackalist/Hackalist.github.io/tree/master/api/1.0) is composed of JSON files organized by year and month. The file system is: `/api/1.0/YEAR/MONTH.json`.
 
-The API is public, so feel free to use it for your own projects. As always, a link back to Hackalist is appreciated.
+The API is public, so feel free to use it for your own projects. As always, a link back to Hackalist is appreciated!
 
 ## Contributing
+Hackalist is made possible by dozens of contributors who add hackathon listings to our JSON database. The project accepts hackathons from all around the world as long as they are open to a general populace (hackathons restricted to college students, high schoolers, or large geographic areas are great; hackathons restricted to specific companies, colleges, or cities are too narrow to be listed).
+
+We encourage anyone to create [Pull Requests](http://github.com/Hackalist/Hackalist.github.io/pulls) to submit their favorite hackathons, as well as hackathons they find through search engines and other hackathon directories (such as [Major League Hacking's listings](https://mlh.io/)). If you don't want to make a Pull Request, you may open an [Issue](https://github.com/Hackalist/Hackalist.github.io/issues) to request the addition of a particular hackathon.
+
 Hackathon listings are sorted chronology based on the starting date of the hackathon. If two hackathons start on the same day, they are sorted alphabetically.
 
 Please ensure your JSON syntax is correct before submitting. An easy way to check your JSON synax is through [JSONLint](http://jsonlint.com/).
