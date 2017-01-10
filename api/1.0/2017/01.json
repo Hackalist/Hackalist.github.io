@@ -95,6 +95,25 @@
       "googlePlusURL": "",
       "notes": ""
     },
+  {
+  "title": "DeltaHacks",
+  "url": "http://deltahacks.com/",
+  "startDate": "January 28",
+  "endDate": "January 29",
+  "year": "2017",
+  "city": "Hamilton, ON",
+  "host": "Major League Hacking",
+  "length": "24",
+  "size": "unknown",
+  "travel": "no",
+  "prize": "yes",
+  "highSchoolers": "no",
+  "cost": "free",
+  "facebookURL": "https://www.facebook.com/events/1822473818034103/",
+  "twitterURL": "https://twitter.com/deltahacks?lang=en",
+  "googlePlusURL": "",
+  "notes": ""
+},
     {
         "title": "McHacks",
         "url": "https://mchacks.io/",
