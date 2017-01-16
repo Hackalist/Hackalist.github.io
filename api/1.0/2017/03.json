@@ -96,6 +96,25 @@
                   "notes": ""
             },
             {
+                  "title": "SF Hacks",
+                  "url": "http://sfhacks.io/",
+                  "startDate": "March 18",
+                  "endDate": "March 19",
+                  "year": "2017",
+                  "city": "San Francisco, CA, United States",
+                  "host": "San Francisco State University",
+                  "length": "24",
+                  "size": "350+",
+                  "travel": "unknown",
+                  "prize": "yes",
+                  "highSchoolers": "unknown",
+                  "cost": "free",
+                  "facebookURL": "https://www.facebook.com/sfhacks",
+                  "twitterURL": "https://twitter.com/sfhacks17",
+                  "googlePlusURL": "",
+                  "notes": ""
+            },
+            {
                   "title": "Hack In The North",
                   "url": "http://www.hackinthenorth.com/",
                   "startDate": "March 24",
