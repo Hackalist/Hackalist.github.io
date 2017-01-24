@@ -189,6 +189,25 @@
                   "twitterURL": "",
                   "googlePlusURL": "",
                   "notes": ""
+            },
+            {
+                  "title": "Hack Princeton",
+                  "url": "https://hackprinceton.com/",
+                  "startDate": "March 31",
+                  "endDate": "April 2",
+                  "year": "2017",
+                  "city": "Princeton, NJ, United States",
+                  "host": "Princeton University",
+                  "length": "36",
+                  "size": "500",
+                  "travel": "yes",
+                  "prize": "yes",
+                  "highSchoolers": "no",
+                  "cost": "free",
+                  "facebookURL": "https://www.facebook.com/hackprinceton/",
+                  "twitterURL": "https://twitter.com/HackPrinceton",
+                  "googlePlusURL": "",
+                  "notes": ""
             }
       ]
 }
