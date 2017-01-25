@@ -170,6 +170,25 @@
       "twitterURL": "https://twitter.com/wichacks",
       "googlePlusURL": "",
       "notes": "Female only"
+    },
+    {
+      "title": "HopHacks",
+      "url": "https://hophacks.com/",
+      "startDate": "February 17",
+      "endDate": "February 19",
+      "year": "2017",
+      "city": "Baltimore, MD, United States",
+      "host": "Johns Hopkins University",
+      "length": "36",
+      "size": "400",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hophacks",
+      "twitterURL": "https://twitter.com/hophacks",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
