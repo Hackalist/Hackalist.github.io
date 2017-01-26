@@ -191,6 +191,25 @@
                   "notes": ""
             },
             {
+                  "title": "CrimsonHacks",
+                  "url": "http://crimsonhacks.com",
+                  "startDate": "March 25",
+                  "endDate": "March 26",
+                  "year": "2017",
+                  "city": "Tuscaloosa, AL",
+                  "host": "The University of Alabama",
+                  "length": "24",
+                  "size": "200",
+                  "travel": "yes",
+                  "prize": "yes",
+                  "highSchoolers": "no",
+                  "cost": "free",
+                  "facebookURL": "https://facebook.com/CrimsonHacks",
+                  "twitterURL": "https://twitter.com/CrimsonHacks",
+                  "googlePlusURL": "",
+                  "notes": "Join us at the first MLH hackathon in the state of Alabama!"
+            },
+            {
                   "title": "Hack Princeton",
                   "url": "https://hackprinceton.com/",
                   "startDate": "March 31",
