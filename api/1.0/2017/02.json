@@ -75,7 +75,7 @@
       "twitterURL": "https://twitter.com/DesertHacks",
       "googlePlusURL": "",
       "notes": ""
-    }, 
+    },
 	{
       "title": "BrickHack",
       "url": "https://brickhack.io/",
@@ -92,6 +92,25 @@
       "cost": "free",
       "facebookURL": "https://www.facebook.com/brickhackrit",
       "twitterURL": "https://twitter.com/brickhackrit",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "PearlHacks",
+      "url": "http://pearlhacks.com/",
+      "startDate": "February 11",
+      "endDate": "February 12",
+      "year": "2017",
+      "city": "Chapel Hill, NC, United States",
+      "host": "UNC Chapel Hill",
+      "length": "24",
+      "size": "500",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/pearlhackathon/",
+      "twitterURL": "https://twitter.com/pearlhacks",
       "googlePlusURL": "",
       "notes": ""
     },
