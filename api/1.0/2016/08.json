@@ -1,6 +1,25 @@
 {
   "August": [
     {
+      "title": "HackCortona",
+      "url": "http://hackcortona.com",
+      "startDate": "August 6",
+      "endDate": "August 7",
+      "year": "2016",
+      "city": "Cortona, Italy",
+      "host": "HackCortona",
+      "length": "24",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackcortona",
+      "twitterURL": "https://twitter.com/hackcortona",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "/hack",
       "url": "https://www.hackerearth.com/hack/",
       "startDate": "August 27",
@@ -13,9 +32,29 @@
       "travel": "yes",
       "prize": "yes",
       "highSchoolers": "yes",
+      "cost": "free",
       "facebookURL": "https://www.facebook.com/HackerEarth",
       "twitterURL": "https://twitter.com/HackerEarth/",
       "googlePlusURL": "https://plus.google.com/+Hackerearth",
+      "notes": ""
+    },
+	{
+      "title": "HackMTY",
+      "url": "http://hackmty.com/",
+      "startDate": "August 27",
+      "endDate": "August 28",
+      "year": "2016",
+      "city": "Monterrey, NL, Mexico",
+      "host": "Tecnológico de Monterrey",
+      "length": "24",
+      "size": "400",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HackMTY/",
+      "twitterURL": "https://twitter.com/hackmty",
+      "googlePlusURL": "",
       "notes": ""
     }
   ]
