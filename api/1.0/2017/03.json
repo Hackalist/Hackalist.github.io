@@ -228,6 +228,25 @@
                   "googlePlusURL": "",
                   "notes": "Join us at the first MLH hackathon in the state of Alabama!"
             },
+	    {
+                  "title": "WearHacks Kitchener-Waterloo 2017",
+                  "url": "http://waterloo.wearhacks.com/",
+                  "startDate": "March 24",
+                  "endDate": "March 26",
+                  "year": "2017",
+                  "city": "Kitchener, Ontario, Canada",
+                  "host": "WearHacksKW",
+                  "length": "36",
+                  "size": "200",
+                  "travel": "no",
+                  "prize": "yes",
+                  "highSchoolers": "yes",
+                  "cost": "free",
+                  "facebookURL": "https://www.facebook.com/events/459173757805416/",
+                  "twitterURL": "https://twitter.com/wearhacks",
+                  "googlePlusURL": "",
+                  "notes": ""
+            },
             {
                   "title": "Hack Princeton",
                   "url": "https://hackprinceton.com/",
