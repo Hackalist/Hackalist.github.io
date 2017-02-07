@@ -152,6 +152,25 @@
                   "googlePlusURL": "",
                   "notes": ""
             },
+	    {
+                  "title": "WearHacks Kitchener-Waterloo 2017",
+                  "url": "http://waterloo.wearhacks.com/",
+                  "startDate": "March 24",
+                  "endDate": "March 26",
+                  "year": "2017",
+                  "city": "Kitchener, Ontario, Canada",
+                  "host": "WearHacksKW",
+                  "length": "36",
+                  "size": "200",
+                  "travel": "no",
+                  "prize": "yes",
+                  "highSchoolers": "yes",
+                  "cost": "free",
+                  "facebookURL": "https://www.facebook.com/events/459173757805416/",
+                  "twitterURL": "https://twitter.com/wearhacks",
+                  "googlePlusURL": "",
+                  "notes": ""
+            },
             {
                   "title": "WiseHacks",
                   "url": "http://wisehacks.swcenter.edu",
