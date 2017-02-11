@@ -1,22 +1,42 @@
 {
   "May": [
-       {
-              "title": "Chicago Hacks",
-              "url": "http://chicagohacks.tech/",
-              "startDate": "May 27",
-              "endDate": "May 28",
-              "year": "2017",
-              "city": "Chicago, IL, United States",
-              "host": "Lacuna Artist Loft Chicago",
-              "length": "24",
-              "size": "150+",
-              "travel": "no",
-              "prize": "yes",
-              "highSchoolers": "yes",
-              "cost": "free",
-              "facebookURL": "https://www.facebook.com/chicagohacks/",
-              "twitterURL": "https://twitter.com/chicagohacksorg",
-              "notes": "Premier High School Hackathon In Chicago Aiming To Spread The Art Of Computer Science ... HS Only!"
-        }
-    ]
+    {
+      "title": "MetroHacks 2017",
+      "url": "http://metrohacks.co/",
+      "startDate": "May 20",
+      "endDate": "May 21",
+      "year": "2017",
+      "city": "Boston, MA, United States",
+      "host": "MetroHacks at Warrior Ice Arena",
+      "length": "24",
+      "size": "300+",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/MetroHacks/",
+      "twitterURL": "https://twitter.com/MetroHacks",
+	  "googlePlusURL": "https://plus.google.com/+MetroHacksHS",
+      "notes": "This event is exclusive to high schoolers."
+    },
+    {
+      "title": "Chicago Hacks",
+      "url": "http://chicagohacks.tech/",
+      "startDate": "May 27",
+      "endDate": "May 28",
+      "year": "2017",
+      "city": "Chicago, IL, United States",
+      "host": "Lacuna Artist Loft Chicago",
+      "length": "24",
+      "size": "150+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/chicagohacks/",
+      "twitterURL": "https://twitter.com/chicagohacksorg",
+	  "googlePlusURL": "",
+      "notes": "This event is exclusive to high schoolers."
+    }
+  ]
 }

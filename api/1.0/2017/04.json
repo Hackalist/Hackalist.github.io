@@ -1,5 +1,23 @@
 {
-	"April": [
-		
-	]
+  "April": [
+	{
+      "title": "Hack HSV",
+      "url": "http://metrohacks.co/",
+      "startDate": "April 15",
+      "endDate": "April 15",
+      "year": "2017",
+      "city": "Huntsville, AL, United States",
+      "host": "Randolph School ",
+      "length": "12",
+      "size": "100+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+	  "googlePlusURL": "",
+      "notes": "This event is exclusive to high schoolers."
+    }
+  ]
 }

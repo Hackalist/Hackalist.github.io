@@ -63,7 +63,7 @@ Please ensure your JSON syntax is correct before submitting. An easy way to chec
 
 ## Listing Example
 ```
-{
+    {
       "title": "Best Hackathon",
       "url": "http://besthackathon.com/",
       "startDate": "January 20",
