@@ -38,6 +38,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
+    
     {
       "title": "OHI/O",
       "url": "https://www.ohiohackathon.org/",
@@ -55,6 +56,24 @@
       "facebookURL": "https://facebook.com/ohiohackathon",
       "twitterURL": "https://twitter.com/hackohio",
       "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "MasterCard N>XT",
+      "url": "http://www.nxt.mastercard.ca/",
+      "startDate": "October 4",
+      "endDate": "October 5",
+      "year": "2014",
+      "city": "Unknown",
+      "host": "MasterCard Inc."
+      "length": "24",
+      "size": "Unknown",
+      "travel": "Unknown",
+      "prize": "yes",
+      "highSchoolers": "Unknown",
+      "facebookURL": "http://facebook.com/MasterCardUS",
+      "twitterURL": "http://twitter.com/MasterCard",
+      "googlePlusURL": "http://plus.google.com/+MasterCard",
       "notes": ""
     },
     {
