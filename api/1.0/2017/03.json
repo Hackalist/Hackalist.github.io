@@ -57,7 +57,7 @@
       "googlePlusURL": "",
       "notes": "Taking place on the first and second floors of the Evans Library."
     },
-	{
+    {
       "title": "lewHacks()",
       "url": "http://lewhacks.com/",
       "startDate": "March 5",
@@ -132,7 +132,7 @@
       "googlePlusURL": "",
       "notes": "Must be 18+."
     },
-	{
+    {
       "title": "TravelSpirit Hackout",
       "url": "https://www.eventbrite.co.uk/e/travelspirit-hackout-manchester-pre-registeration-tickets-27680779958",
       "startDate": "March 17",
@@ -142,14 +142,14 @@
       "host": "TravelSpirit at The Shed",
       "length": "48",
       "size": "unknown",
-      "travel": "unknown",
-      "prize": "unknown",
-      "highSchoolers": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
       "cost": "free",
       "facebookURL": "",
       "twitterURL": "",
       "googlePlusURL": "",
-      "notes": ""
+      "notes": "High schoolers admitted with parental consent."
     },
     {
       "title": "SF Hacks",
