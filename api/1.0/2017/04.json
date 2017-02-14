@@ -1,6 +1,25 @@
 {
   "April": [
-	{
+     {
+      "title": "MasseyHacks III",
+      "url": "https://masseyhacks.ca/",
+      "startDate": "April 1",
+      "endDate": "April 2",
+      "year": "2017",
+      "city": "Windsor, ON",
+      "host": "Vincent Massey Secondary School",
+      "length": "24",
+      "size": "300",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/masseyhacks/",
+      "twitterURL": "https://twitter.com/masseyhacks",
+      "googlePlusURL": "",
+      "notes": "Hackathon hosted by High Schoolers for High Schoolers. University students are welcome to mentor."
+    },
+    {
       "title": "Hack HSV",
       "url": "http://metrohacks.co/",
       "startDate": "April 15",
