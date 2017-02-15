@@ -133,6 +133,25 @@
       "notes": "Must be 18+."
     },
     {
+      "title": "RU Hacks",
+      "url": "http://www.ruhacks.com/",
+      "startDate": "March 17",
+      "endDate": "March 19",
+      "year": "2017",
+      "city": "Toronto, ON",
+      "host": "Ryerson University",
+      "length": "36",
+      "size": "400",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/ryehacks/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Must be enrolled in an undergraduate or graduate program and 18 years or older"
+    },
+    {
       "title": "TravelSpirit Hackout",
       "url": "https://www.eventbrite.co.uk/e/travelspirit-hackout-manchester-pre-registeration-tickets-27680779958",
       "startDate": "March 17",
