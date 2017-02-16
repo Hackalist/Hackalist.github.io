@@ -20,6 +20,25 @@
       "notes": "Hackathon hosted by High Schoolers for High Schoolers. University students are welcome to mentor."
     },
     {
+      "title": "JAMHacks",
+      "url": "http://jamhacks.ca/",
+      "startDate": "April 9",
+      "endDate": "April 9",
+      "year": "2017",
+      "city": "Waterloo, ON, Canada",
+      "host": "Sir John A. Macdonald Secondary School",
+      "length": "12",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Hackathon+Learnathon exclusively for high schoolers. We're also looking for mentors!"
+    },
+    {
       "title": "Hack HSV",
       "url": "http://metrohacks.co/",
       "startDate": "April 15",
