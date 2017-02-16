@@ -171,6 +171,25 @@
       "notes": "High schoolers admitted with parental consent."
     },
     {
+      "title": "nwHacks",
+      "url": "https://www.nwhacks.io/",
+      "startDate": "March 18",
+      "endDate": "March 19",
+      "year": "2017",
+      "city": "Vancouver, BC",
+      "host": "University of British Columbia",
+      "length": "24",
+      "size": "600+",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/nwHacks",
+      "twitterURL": "https://twitter.com/nwHacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "SF Hacks",
       "url": "http://sfhacks.io/",
       "startDate": "March 18",
