@@ -322,6 +322,25 @@
       "notes": "CrimsonHacks is the first MLH hackathon in the state of Alabama."
     },
     {
+      "title": "ClashHacks",
+      "url": "http://clashhacks.tech",
+      "startDate": "March 25",
+      "endDate": "March 26",
+      "year": "2017",
+      "city": "New Delhi, DL, India",
+      "host": "Team ClashHacks",
+      "length": "36",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/clashhacks2k17/",
+      "twitterURL": "https://twitter.com/clashhacks2017",
+      "googlePlusURL": "",
+      "notes": "Clash Hacks is India's largest students-run, independent hackathon to be held in Delhi on March 25th, 2017 at 91springboard, Okhla."
+    },
+    {
       "title": "Hack Princeton",
       "url": "https://hackprinceton.com/",
       "startDate": "March 31",
