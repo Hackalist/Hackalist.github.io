@@ -20,6 +20,25 @@
       "notes": "Hackathon hosted by High Schoolers for High Schoolers. University students are welcome to mentor."
     },
     {
+     "title": "RevolutionUC Spring 2017",
+     "url": "https://revolutionuc.com/",
+     "startDate": "April 8",
+     "endDate": "April 9",
+     "year": "2017",
+     "city": "Cincinnati, OH, United States",
+     "host": "University of Cincinnati",
+     "length": "24",
+     "size": "300+",
+     "travel": "yes",
+     "prize": "yes",
+     "highSchoolers": "yes",
+     "cost": "free",
+     "facebookURL": "https://www.facebook.com/RevolutionUC",
+     "twitterURL": "https://twitter.com/Revolution_UC",
+     "googlePlusURL": "",
+     "notes": "A student hackathon where we invite students from across the midwest to partake in a weekend of code, community, and self-improvement. Open to all high school and college students!"
+   },
+    {
       "title": "JAMHacks",
       "url": "http://jamhacks.ca/",
       "startDate": "April 9",
