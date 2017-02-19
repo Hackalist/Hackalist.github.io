@@ -133,6 +133,25 @@
       "notes": "Must be 18+."
     },
     {
+      "title": "StarterHacks",
+      "url": "http://starterhacks.ca/",
+      "startDate": "March 11",
+      "endDate": "March 12",
+      "year": "2017",
+      "city": "Waterloo, ON",
+      "host": "University of Waterloo",
+      "length": "24",
+      "size": "250",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/starterhacks/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Preference is given to first time hackers and first year university students."
+    },
+    {
       "title": "RU Hacks",
       "url": "http://www.ruhacks.com/",
       "startDate": "March 17",
