@@ -20,25 +20,6 @@
       "notes": ""
      },
      {
-      "title": "LHacks",
-      "url": "http://www.lhacks.com/",
-      "startDate": "March 3",
-      "endDate": "March 5",
-      "year": "2017",
-      "city": "Waterloo, ON, Canada",
-      "host": "Wilfrid Laurier University",
-      "length": "36",
-      "size": "300",
-      "travel": "unknown",
-      "prize": "yes",
-      "highSchoolers": "no",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/wluhacks/",
-      "twitterURL": "",
-      "googlePlusURL": "",
-      "notes": ""
-     },
-     {
       "title": "FloridaTechHacks",
       "url": "http://www.floridatechhacks.com/",
       "startDate": "March 4",
@@ -56,6 +37,25 @@
       "twitterURL": "https://twitter.com/fthacks",
       "googlePlusURL": "",
       "notes": "Taking place on the first and second floors of the Evans Library."
+    },
+    {
+      "title": "StartHacks",
+      "url": "https://starthacks.ca/",
+      "startDate": "March 4",
+      "endDate": "March 5",
+      "year": "2017",
+      "city": "Waterloo, ON, Canada",
+      "host": "Wilfrid Laurier University",
+      "length": "24",
+      "size": "300",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/wluhacks/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Previously LHacks, has been changed to StartHacks"
     },
     {
       "title": "lewHacks()",
