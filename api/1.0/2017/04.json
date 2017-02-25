@@ -1,6 +1,25 @@
 {
   "April": [
-     {
+    {
+      "title": "HackKean III",
+      "url": "https://hackkean.org/",
+      "startDate": "April 1",
+      "endDate": "April 2",
+      "year": "2017",
+      "city": "Union, NJ",
+      "host": "Kean University",
+      "length": "24",
+      "size": "100+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackkean",
+      "twitterURL": "https://twitter.com/hackkean",
+      "googlePlusURL": "",
+      "notes": ""
+    }, 
+    {
       "title": "MasseyHacks III",
       "url": "https://masseyhacks.ca/",
       "startDate": "April 1",
