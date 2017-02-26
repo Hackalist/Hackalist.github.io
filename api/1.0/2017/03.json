@@ -170,6 +170,25 @@
       "notes": "Preference is given to first time hackers and first year university students."
     },
     {
+      "title": "Reactathon",
+      "url": "https://www.reactathon.com/#Hackathon",
+      "startDate": "March 11",
+      "endDate": "March 12",
+      "year": "2017",
+      "city": "San Francisco, CA",
+      "host": "Github",
+      "length": "48",
+      "size": "",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/RealWorldReact/",
+      "twitterURL": "https://twitter.com/reactathon",
+      "googlePlusURL": "",
+      "notes": "Come and hack on some incredible APIs, build a startup, or join a team to improve your React skills."
+    },
+    {
       "title": "RU Hacks",
       "url": "http://www.ruhacks.com/",
       "startDate": "March 17",
