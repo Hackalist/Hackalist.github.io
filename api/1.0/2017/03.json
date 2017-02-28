@@ -131,7 +131,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	{
+    {
       "title": "Southwest Hacks (SWHacks)",
       "url": "http://swhacks.org",
       "startDate": "March 10",
@@ -283,7 +283,7 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	{
+    {
       "title": "HACKATHONclt MMXVII",
       "url": "http://hackathonclt.org/",
       "startDate": "March 24",
@@ -320,7 +320,26 @@
       "googlePlusURL": "",
       "notes": ""
     },
-	    {
+    {
+      "title": "MHacks 9",
+      "url": "https://mhacks.org/",
+      "startDate": "March 24",
+      "endDate": "March 26",
+      "year": "2017",
+      "city": "Ann Arbor, MI",
+      "host": "University of Michigan",
+      "length": "36",
+      "size": "750",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/MHacksHackathon/",
+      "twitterURL": "https://twitter.com/mhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },	
+    {
       "title": "WearHacks Kitchener-Waterloo 2017",
       "url": "http://waterloo.wearhacks.com/",
       "startDate": "March 24",
