@@ -94,6 +94,25 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": "This event is exclusive to high schoolers."
+    },
+    {
+      "title": "HackHunterdon",
+      "url": "http://www.hackhunterdon.com/",
+      "startDate": "April 28",
+      "endDate": "April 29",
+      "year": "2017",
+      "city": "Flemington, NJ, United States",
+      "host": "Flemington Community Partnership",
+      "length": "24",
+      "size": "100+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HackHunterdon/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "iHackHunterdon is Hunterdon County’s first annual hackathon organized by Hunterdon County Economic Development, Flemington Community Partnership, and the Hunterdon County Chamber of Commerce. 18+ only."
     }
   ]
 }
