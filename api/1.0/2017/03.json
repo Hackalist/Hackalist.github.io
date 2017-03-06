@@ -472,5 +472,24 @@
       "googlePlusURL": "",
       "notes": ""
     }
+     {
+      "title": "Def Hacks() California 2017",
+      "url": "http://defhacks.io/ca.html",
+      "startDate": "March 18",
+      "endDate": "March 19",
+      "year": "2017",
+      "city": "San Francisco, CA, United States",
+      "host": "Def Hacks()",
+      "length": "24",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/defhacksca",
+      "twitterURL": "https://twitter.com/defhacks_ca",
+      "googlePlusURL": "",
+      "notes": "Regardless of your experience, we welcome all high school and college-level hackers. Come to learn and collaborate in a relaxed, welcoming enviornment. Sign up here, https://defhacks.typeform.com/to/jMOmmH"
+    }
   ]
 }
