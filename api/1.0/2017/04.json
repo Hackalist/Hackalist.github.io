@@ -96,6 +96,25 @@
       "notes": "This event is exclusive to high schoolers."
     },
     {
+      "title": "HackHouston",
+      "url": "http://hackhouston.com/",
+      "startDate": "April 22",
+      "endDate": "April 23",
+      "year": "2017",
+      "city": "Houston, TX",
+      "host": "Texas Southern University",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HackHouston-980993768668900/",
+      "twitterURL": "https://twitter.com/HACK_Houston",
+      "googlePlusURL": "Students are accepted from all over the world, but must be 18 years or older.",
+      "notes": ""
+    },
+    {
       "title": "HackHunterdon",
       "url": "http://www.hackhunterdon.com/",
       "startDate": "April 28",
