@@ -132,6 +132,25 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": "iHackHunterdon is Hunterdon County’s first annual hackathon organized by Hunterdon County Economic Development, Flemington Community Partnership, and the Hunterdon County Chamber of Commerce. 18+ only."
+    },
+    {
+      "title": "BostonHacks",
+      "url": "https://bostonhacks.io/",
+      "startDate": "April 29",
+      "endDate": "April 30",
+      "year": "2017",
+      "city": "Boston, MA",
+      "host": "Boston University",
+      "length": "24",
+      "size": "400",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/bostonhacks/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "All students over the age of 18 are welcome unless you are a BU student."
     }
   ]
 }
