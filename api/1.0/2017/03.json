@@ -454,6 +454,25 @@
       "notes": ""
     },
     {
+      "title": "AUHack",
+      "url": "https://auhack.org",
+      "startDate": "March 31",
+      "endDate": "April 2",
+      "year": "2017",
+      "city": "Aarhus, Denmark",
+      "host": "Aarhus Universitet",
+      "length": "36",
+      "size": "220",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/AUHack/",
+      "twitterURL": "https://twitter.com/auhackaarhus",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Hack Princeton",
       "url": "https://hackprinceton.com/",
       "startDate": "March 31",
