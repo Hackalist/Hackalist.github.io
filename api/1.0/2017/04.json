@@ -77,6 +77,25 @@
       "notes": "Hackathon+Learnathon exclusively for high schoolers. We're also looking for mentors!"
     },
     {
+      "title": "HackCWRU",
+      "url": "http://hack.cwru.edu/",
+      "startDate": "April 15",
+      "endDate": "April 16",
+      "year": "2017",
+      "city": "Cleveland, OH",
+      "host": "Case Western Reserve University",
+      "length": "24",
+      "size": "350",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HackCWRU/",
+      "twitterURL": "https://twitter.com/hackcwru",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Hack HSV",
       "url": "http://www.hackhsv.com/",
       "startDate": "April 15",
