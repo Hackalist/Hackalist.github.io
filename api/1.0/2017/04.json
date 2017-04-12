@@ -115,6 +115,25 @@
       "notes": "This event is exclusive to high schoolers."
     },
     {
+      "title": "TinoHacks",
+      "url": "http://tinohacks.tech/",
+      "startDate": "April 15",
+      "endDate": "April 16",
+      "year": "2017",
+      "city": "Cupertino, CA",
+      "host": "Cupertino High School",
+      "length": "24",
+      "size": "350",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/tinohacks",
+      "twitterURL": "https://twitter.com/TinoHacks",
+      "googlePlusURL": "",
+      "notes": "Event is only open to high schoolers. However, College students are welcome to mentor, volunteer, or lead a workshop."
+    },
+    {
       "title": "HackHouston",
       "url": "http://hackhouston.com/",
       "startDate": "April 22",
