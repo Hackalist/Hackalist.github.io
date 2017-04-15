@@ -1,6 +1,25 @@
 {
   "May": [
     {
+      "title": "HackATX",
+      "url": "http://hackatx.net/",
+      "startDate": "May 13",
+      "endDate": "May 13",
+      "year": "2017",
+      "city": "Austin, TX, United States",
+      "host": "Indeed",
+      "length": "12",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "http://twitter.com/hackatx17",
+	    "googlePlusURL": "",
+      "notes": "This event is exclusive to high schoolers. An all-girl's hackathon for high schoolers created by high school women."
+    },
+    {
       "title": "MetroHacks 2017",
       "url": "http://metrohacks.co/",
       "startDate": "May 20",
