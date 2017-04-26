@@ -1,6 +1,25 @@
 {
   "May": [
     {
+      "title": "2nd Serres Hackathon - Smart City",
+      "url": "http://hackathon.serrestech.gr/",
+      "startDate": "May 06",
+      "endDate": "May 07",
+      "year": "2017",
+      "city": "Serres, 62124 Greece",
+      "host": "TEI C.M.",
+      "length": "12",
+      "size": "40",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/1820039438316817/",
+      "twitterURL": "https://twitter.com/serrestech",
+      "googlePlusURL": "",
+      "notes": "There are several cash prizes as also as free t-shirt, medals and a scholarship for the Postgraduate course on Applied Informatics School"
+    },
+    {
       "title": "HackATX",
       "url": "http://hackatx.net/",
       "startDate": "May 13",
