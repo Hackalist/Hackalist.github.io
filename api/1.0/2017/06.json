@@ -1,0 +1,23 @@
+{
+  "April": [
+    {
+      "title": "JAMHacks",
+      "url": "http://jamhacks.ca/",
+      "startDate": "April 9",
+      "endDate": "April 9",
+      "year": "2017",
+      "city": "Waterloo, ON, Canada",
+      "host": "Sir John A. Macdonald Secondary School",
+      "length": "12",
+      "size": "100",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/257134521391244/",
+      "twitterURL": "",
+	    "googlePlusURL": "",
+      "notes": "JAMHacks is Waterloo's first high school hackathon."
+    }
+  ]
+}
