@@ -35,7 +35,7 @@
       "cost": "free",
       "facebookURL": "",
       "twitterURL": "http://twitter.com/hackatx17",
-	    "googlePlusURL": "",
+      "googlePlusURL": "",
       "notes": "This event is exclusive to high schoolers. An all-girl's hackathon for high schoolers created by high school women."
     },
     {
@@ -54,7 +54,7 @@
       "cost": "free",
       "facebookURL": "https://www.facebook.com/MetroHacks/",
       "twitterURL": "https://twitter.com/MetroHacks",
-	  "googlePlusURL": "https://plus.google.com/+MetroHacksHS",
+      "googlePlusURL": "https://plus.google.com/+MetroHacksHS",
       "notes": "This event is exclusive to high schoolers."
     },
     {
@@ -73,7 +73,26 @@
       "cost": "free",
       "facebookURL": "https://www.facebook.com/chicagohacks/",
       "twitterURL": "https://twitter.com/chicagohacksorg",
-	  "googlePlusURL": "",
+      "googlePlusURL": "",
+      "notes": "This event is exclusive to high schoolers."
+    },
+    {
+      "title": "StuyHacks",
+      "url": "http://stuyhacks.com/",
+      "startDate": "May 27",
+      "endDate": "May 28",
+      "year": "2017",
+      "city": "New York, NY",
+      "host": "Stuyvesant High School",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/stuyhacks/",
+      "twitterURL": "https://twitter.com/StuyHacks",
+      "googlePlusURL": "",
       "notes": "This event is exclusive to high schoolers."
     }
   ]
