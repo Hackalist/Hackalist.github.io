@@ -1,0 +1,23 @@
+{
+  "June": [
+    {
+      "title": "ByteHacks",
+      "url": "http://bytehacks.org/",
+      "startDate": "June 24",
+      "endDate": "June 25",
+      "year": "2017",
+      "city": "New York, NY",
+      "host": "Spotify HQ",
+      "length": "24",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/672631619588573/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "This is an all-women hackathon for high school and college women only."
+    }
+  ]
+}
