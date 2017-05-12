@@ -4,7 +4,6 @@
 
 [View the current listings here.](http://hackalist.org)
 
-=================================
 Hackalist is a community-driven database of hackathons that has the most up to date information for all your hackathon needs. Visit our [website](http://www.hackalist.org) to view the live site.
 
 Feel free to submit [Pull Requests](http://github.com/Hackalist/Hackalist.github.io/pulls) and/or [Issues](http://github.com/Hackalist/Hackalist.github.io/issues). Issues can include a request to add a hackathon, bug reports, feature requests, or questions.
