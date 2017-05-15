@@ -38,6 +38,25 @@
       "googlePlusURL": "",
       "notes": "This event is exclusive to high schoolers. An all-girl's hackathon for high schoolers created by high school women."
     },
+	{
+      "title": "West Valley Hackathon 2017",
+      "url": "https://wvhacks.wordpress.com/",
+      "startDate": "May 13",
+      "endDate": "May 13",
+      "year": "2017",
+      "city": "Saratoga, CA, United States",
+      "host": "West Valley College",
+      "length": "9",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "unknown",
+      "highSchoolers": "yes",
+      "cost": "$20",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
     {
       "title": "MetroHacks 2017",
       "url": "http://metrohacks.co/",
