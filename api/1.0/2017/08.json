@@ -1,0 +1,23 @@
+{
+  "August": [
+     {
+      "title": "WebHacks",
+      "url": "https://webhacks.tech",
+      "startDate": "August 6",
+      "endDate": "August 12",
+      "year": "2017",
+      "city": "Online",
+      "host": "WebHacks.Tech",
+      "length": "156",
+      "size": "1000",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "This event is hosted entirely online."
+    }
+  ]
+}
