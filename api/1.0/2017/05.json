@@ -38,7 +38,7 @@
       "googlePlusURL": "",
       "notes": "This event is exclusive to high schoolers. An all-girl's hackathon for high schoolers created by high school women."
     },
-	{
+    {
       "title": "West Valley Hackathon 2017",
       "url": "https://wvhacks.wordpress.com/",
       "startDate": "May 13",
@@ -75,6 +75,25 @@
       "twitterURL": "https://twitter.com/MetroHacks",
       "googlePlusURL": "https://plus.google.com/+MetroHacksHS",
       "notes": "This event is exclusive to high schoolers."
+    },
+    {
+      "title": "EngHack",
+      "url": "http://enghack.uwaterloo.ca/",
+      "startDate": "May 26",
+      "endDate": "May 27",
+      "year": "2017",
+      "city": "Waterloo, ON, Canada",
+      "host": "University of Waterloo",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/294752280951148/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
     },
     {
       "title": "Chicago Hacks",
