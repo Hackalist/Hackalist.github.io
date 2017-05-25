@@ -1,6 +1,25 @@
 {
   "June": [
     {
+      "title": "What The Hack",
+      "url": "https://landing.careers/hackathon/",
+      "startDate": "June 2",
+      "endDate": "June 3",
+      "year": "2017",
+      "city": "Lisbon, Portugal",
+      "host": "Landing.jobs",
+      "length": "24",
+      "size": "100",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "5€",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Create apps to solve problems that really grinds people's gears. The Hack is made to let you showcase all your coding skills to other participants and to Europe's top companies looking to recruit."
+    },
+    {
       "title": "ByteHacks",
       "url": "http://bytehacks.org/",
       "startDate": "June 24",
