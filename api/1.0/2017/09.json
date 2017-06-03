@@ -1,4 +1,23 @@
 {
   "September": [
+     {
+      "title": "Hack The North",
+      "url": "https://hackthenorth.com/",
+      "startDate": "September 15",
+      "endDate": "September 17",
+      "year": "2017",
+      "city": "Waterloo, ON, Canada",
+      "host": "University of Waterloo",
+      "length": "36",
+      "size": "1000",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackthenorth",
+      "twitterURL": "https://twitter.com/hackthenorth",
+      "googlePlusURL": "",
+      "notes": ""
+    }
   ]
 }
