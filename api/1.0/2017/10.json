@@ -18,6 +18,25 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": "Hackathon for the social good."
+    },
+    {
+      "title": "VandyHacks IV",
+      "url": "https://vandyhacks.org/",
+      "startDate": "October 20",
+      "endDate": "October 22",
+      "year": "2017",
+      "city": "Nashville, TN, United States",
+      "host": "Vanderbilt University",
+      "length": "36",
+      "size": "400",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/vandyhacks/",
+      "twitterURL": "https://twitter.com/vandyhacks",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
