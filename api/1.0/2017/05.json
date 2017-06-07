@@ -29,7 +29,15 @@
       "host": "Indeed",
       "length": "12",
       "size": "200",
-      "travel": "no",
+      "tr{
+      "title": "Chicago Hacks",
+      "url": "http://chicagohacks.tech/",
+      "startDate": "May 27",
+      "endDate": "May 28",
+      "year": "2017",
+      "city": "Chicago, IL, United States",
+      "host": "Lacuna Artist Loft Chicago",
+      "length": avel": "no",
       "prize": "yes",
       "highSchoolers": "yes",
       "cost": "free",
@@ -131,6 +139,25 @@
       "facebookURL": "https://www.facebook.com/stuyhacks/",
       "twitterURL": "https://twitter.com/StuyHacks",
       "googlePlusURL": "",
+      "notes": "This event is exclusive to high schoolers."
+    },
+    {
+      "title": "StuyHacks",
+      "url": "http://stuyhacks.com/",
+      "startDate": "May 27",
+      "endDate": "May 28",
+      "year": "2017",
+      "city": "New York, NY, United States",
+      "host": "Thoughtworks NYC",
+      "length": "24",
+      "size": "200+",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/stuyhacks/",
+      "twitterURL": "https://twitter.com/stuyhacks",
+	  "googlePlusURL": "",
       "notes": "This event is exclusive to high schoolers."
     }
   ]
