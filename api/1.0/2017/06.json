@@ -1,5 +1,24 @@
 {
   "June": [
+     {
+      "title": "Legal Tech Hackathon",
+      "url": "https://legaltechhackto.splashthat.com/",
+      "startDate": "June 2",
+      "endDate": "June 4",
+      "year": "2017",
+      "city": "Toronto, ON, Canada",
+      "host": "North of 41",
+      "length": "40",
+      "size": "200",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/1979136712316739/",
+      "twitterURL": "https://twitter.com/northof41",
+      "googlePlusURL": "",
+      "notes": "Lawyers, Paralegals, Managing Partners, In-House Counsel, Company Executives, Entrepreneurs, Software Designers, Software Coders, Data Analysts are recommended to attend  "
+    },
     {
       "title": "What The Hack",
       "url": "https://landing.careers/hackathon/",
