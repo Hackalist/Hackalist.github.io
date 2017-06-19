@@ -18,6 +18,25 @@
       "twitterURL": "https://twitter.com/hackthenorth",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "lumohacks",
+      "url": "http://lumohacks.com",
+      "startDate": "September 16",
+      "endDate": "September 17",
+      "year": "2017",
+      "city": "Vancouver, BC, Canada",
+      "host": "Simon Fraser University",
+      "length": "24",
+      "size": "500",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/designlablive",
+      "googlePlusURL": "",
+      "notes": "Canada's Ultimate Health Hackathon"
     }
   ]
 }
