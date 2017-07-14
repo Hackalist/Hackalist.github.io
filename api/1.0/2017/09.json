@@ -37,6 +37,25 @@
       "twitterURL": "https://twitter.com/designlablive",
       "googlePlusURL": "",
       "notes": "Canada's Ultimate Health Hackathon"
+    },
+    {
+      "title": "HackTheGiant",
+      "url": "http://www.hackthegiant.com/",
+      "startDate": "September 25",
+      "endDate": "September 26",
+      "year": "2017",
+      "city": "Essen, Germany",
+      "host": "Evonik",
+      "length": "24",
+      "size": "50",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/113317722627585",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Everything is allowed!"
     }
   ]
 }
