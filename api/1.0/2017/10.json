@@ -1,6 +1,25 @@
 {
   "October": [
-     {
+    {
+      "title": "HackUMBC",
+      "url": "http://hackumbc.org/",
+      "startDate": "October 7",
+      "endDate": "October 8",
+      "year": "2017",
+      "city": "Baltimore, MD, United States",
+      "host": "University of Maryland",
+      "length": "24",
+      "size": "500",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackumbc",
+      "twitterURL": "https://twitter.com/hackumbc",
+      "googlePlusURL": "",
+      "notes": ""
+    }, 
+    {
       "title": "Hacks for Humanity",
       "url": "https://hacksforhumanity.github.io",
       "startDate": "October 7",
