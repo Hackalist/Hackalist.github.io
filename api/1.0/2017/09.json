@@ -39,6 +39,25 @@
       "notes": "Canada's Ultimate Health Hackathon"
     },
     {
+      "title": "HackRice",
+      "url": "http://hack.rice.edu/",
+      "startDate": "September 22",
+      "endDate": "September 24",
+      "year": "2017",
+      "city": "Houston, TX, United States",
+      "host": "Rice University",
+      "length": "36",
+      "size": "300",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackrice/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Any student over the age of 18 is eligible to apply to HackRice."
+    },
+    {
       "title": "HackTheGiant",
       "url": "http://www.hackthegiant.com/",
       "startDate": "September 25",
