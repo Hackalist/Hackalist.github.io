@@ -39,6 +39,25 @@
       "notes": "Canada's Ultimate Health Hackathon"
     },
     {
+      "title": "24H Hackathon - Smart Public Life",
+      "url": "https://www.telekom.com/en/company/public-life-hackathon",
+      "startDate": "September 19",
+      "endDate": "September 20",
+      "year": "2017",
+      "city": "Bonn, Germany",
+      "host": "Deutsche Telekom AG",
+      "length": "24",
+      "size": "230",
+      "travel": "no",
+      "prize": "no",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/search?q=dthack17",
+      "googlePlusURL": "",
+      "notes": "Submit your ideas for the City of the Future and take part in the Smart City Public Life Hackathon. Whether you're a developer, a designer or a newbie – we want you!"
+    },
+    {
       "title": "HackRice",
       "url": "http://hack.rice.edu/",
       "startDate": "September 22",
