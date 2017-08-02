@@ -58,6 +58,25 @@
       "notes": "Submit your ideas for the City of the Future and take part in the Smart City Public Life Hackathon. Whether you're a developer, a designer or a newbie – we want you!"
     },
     {
+      "title": "MHacks",
+      "url": "https://mhacks.org/",
+      "startDate": "September 22",
+      "endDate": "September 24",
+      "year": "2017",
+      "city": "Ann Arbor, MI, United States",
+      "host": "University of Michigan",
+      "length": "36",
+      "size": "600",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/MHacksHackathon/",
+      "twitterURL": "https://twitter.com/mhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackRice",
       "url": "http://hack.rice.edu/",
       "startDate": "September 22",
