@@ -1,5 +1,5 @@
 {
- "January": [
+  "January": [
     {
       "title": "Hack the Valley",
       "url": "https://www.hackvalley.com/",
@@ -18,6 +18,25 @@
       "twitterURL": "https://twitter.com/hack_valley",
       "googlePlusURL": "",
       "notes": ""
+    },
+	{
+      "title": "Octane Hackathon",
+      "url": "http://octanehack.com/",
+      "startDate": "January 9",
+      "endDate": "February 9",
+      "year": "2017",
+      "city": "Online",
+      "host": "Hewlett Packard Enterprise",
+      "length": "744",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Octane is a month-long virtual hackathon."
     },
     {
       "title": "Hack @ WPI",
@@ -267,24 +286,24 @@
       "notes": "Three tracks to follow: Environment, Health & Wellness, and Education."
     },
     {
-  "title": "DeltaHacks",
-  "url": "http://deltahacks.com/",
-  "startDate": "January 28",
-  "endDate": "January 29",
-  "year": "2017",
-  "city": "Hamilton, ON",
-  "host": "Major League Hacking",
-  "length": "24",
-  "size": "unknown",
-  "travel": "no",
-  "prize": "yes",
-  "highSchoolers": "no",
-  "cost": "free",
-  "facebookURL": "https://www.facebook.com/events/1822473818034103/",
-  "twitterURL": "https://twitter.com/deltahacks?lang=en",
-  "googlePlusURL": "",
-  "notes": ""
-},
+      "title": "DeltaHacks",
+      "url": "http://deltahacks.com/",
+      "startDate": "January 28",
+      "endDate": "January 29",
+      "year": "2017",
+      "city": "Hamilton, ON, Canada",
+      "host": "McMaster University",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/thedeltahacks",
+      "twitterURL": "https://twitter.com/deltahacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
     {
         "title": "McHacks",
         "url": "https://mchacks.io/",

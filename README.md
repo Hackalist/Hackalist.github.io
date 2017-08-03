@@ -1,6 +1,9 @@
 ![hackalist-logo](images/logo.png)
+
 ![https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square](https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square) [![Build Status](https://travis-ci.org/Hackalist/Hackalist.github.io.svg?branch=master)](https://travis-ci.org/Hackalist/Hackalist.github.io)
-=================================
+
+[View the current listings here.](http://hackalist.org)
+
 Hackalist is a community-driven database of hackathons that has the most up to date information for all your hackathon needs. Visit our [website](http://www.hackalist.org) to view the live site.
 
 Feel free to submit [Pull Requests](http://github.com/Hackalist/Hackalist.github.io/pulls) and/or [Issues](http://github.com/Hackalist/Hackalist.github.io/issues). Issues can include a request to add a hackathon, bug reports, feature requests, or questions.
@@ -25,7 +28,7 @@ Projects Using Hackalist's API
 =================================
 * [Mapathon - Mapping Hackathons](http://mding5692.github.io/mapathon/prototype.html) by [Michael Ding](https://github.com/mding5692)
 * [CoderCalendar](https://github.com/nishanthvijayan/CoderCalendar), an Android app, Chrome extension, and Firefox add-on that lists upcoming coding contests and allows users to easily add them to their Google Calendar.
-* [HackathonHowFar](https://github.com/JoshuaRLi/HackathonHowFar), a small Python script that outputs distance + driving time to a currently available hackathon from a given origin location.
+* [HackathonHowFar](https://github.com/JoshuaRLiArchives/HackathonHowFar), a small Python script that outputs distance + driving time to a currently available hackathon from a given origin location.
 
 API
 =================================
@@ -63,7 +66,7 @@ Please ensure your JSON syntax is correct before submitting. An easy way to chec
 
 ## Listing Example
 ```
-{
+    {
       "title": "Best Hackathon",
       "url": "http://besthackathon.com/",
       "startDate": "January 20",
