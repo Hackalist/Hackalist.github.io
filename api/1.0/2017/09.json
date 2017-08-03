@@ -20,6 +20,44 @@
       "notes": ""
     },
     {
+      "title": "HopHacks",
+      "url": "https://hophacks.com/",
+      "startDate": "September 15",
+      "endDate": "September 17",
+      "year": "2017",
+      "city": "Baltimore, MD, United States",
+      "host": "Johns Hopkins University",
+      "length": "36",
+      "size": "300",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HopHacks/",
+      "twitterURL": "https://twitter.com/HopHacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "HackUIowa",
+      "url": "http://bigdata.uiowa.edu/",
+      "startDate": "September 16",
+      "endDate": "September 17",
+      "year": "2017",
+      "city": "Iowa City, IA, United States",
+      "host": "University of Iowa",
+      "length": "36",
+      "size": "300",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/bigdatahackathon/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Travel Reimbursement of upto $150 per person"
+    },
+    {
       "title": "lumohacks",
       "url": "http://lumohacks.com",
       "startDate": "September 16",
@@ -113,6 +151,25 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": "Everything is allowed!"
+    },
+    {
+      "title": "EduHacks",
+      "url": "https://eduhacks.com/",
+      "startDate": "September 30",
+      "endDate": "October 1",
+      "year": "2017",
+      "city": "Vancouver, BC, Canada",
+      "host": "Vancouver Convention Centre",
+      "length": "24",
+      "size": "400",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/eduhacksca",
+      "twitterURL": "https://twitter.com/eduhacksca",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
