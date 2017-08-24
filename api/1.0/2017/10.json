@@ -18,7 +18,7 @@
       "twitterURL": "https://twitter.com/hackumbc",
       "googlePlusURL": "",
       "notes": ""
-    }, 
+    },
     {
       "title": "Hacks for Humanity",
       "url": "https://hacksforhumanity.github.io",
@@ -73,6 +73,25 @@
       "cost": "free",
       "facebookURL": "https://www.facebook.com/vandyhacks/",
       "twitterURL": "https://twitter.com/vandyhacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "THacks 2",
+      "url": "http://thacks.tech/",
+      "startDate": "October 21",
+      "endDate": "October 22",
+      "year": "2017",
+      "city": "Toronto, ON, Canada",
+      "host": "Toronto Hacker Club",
+      "length": "24",
+      "size": "300",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/torontohackerclub/",
+      "twitterURL": "https://twitter.com/TOhackerclub",
       "googlePlusURL": "",
       "notes": ""
     }
