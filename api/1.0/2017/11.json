@@ -1,0 +1,23 @@
+{
+  "November": [
+    {
+      "title": "CincyHacks",
+      "url": "https://cincyhacks.tech/",
+      "startDate": "November 4",
+      "endDate": "November 5",
+      "year": "2017",
+      "city": "Cincinnati, OH, United States",
+      "host": "Mason High School",
+      "length": "24",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/CincyHacks",
+      "twitterURL": "https://twitter.com/cincyhacks",
+      "googlePlusURL": "",
+      "notes": "Cincinnati's first High School Hackathon"
+    }
+  ]
+}
