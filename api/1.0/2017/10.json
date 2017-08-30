@@ -20,6 +20,25 @@
       "notes": "Hackathon for high schoolers run by high schoolers!"
     },
     {
+    "title": "InOut",
+        "url": "https://hackinout.co/",
+        "startDate": "October 7",
+        "endDate": "October 8",
+        "year": "2017",
+        "city": "Bangalore, INDIA",
+        "host": "HackInOut",
+        "length": "30",
+        "size": "300",
+        "travel": "yes",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/hackinout/",
+        "twitterURL": "https://twitter.com/hackinoutco",
+        "googlePlusURL": "",
+        "notes": "India’s biggest community hackathon."
+    },
+    {
       "title": "HackUMBC",
       "url": "http://hackumbc.org/",
       "startDate": "October 7",
