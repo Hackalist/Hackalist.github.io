@@ -1,6 +1,6 @@
 {
   "September": [
-     {
+    {
       "title": "Hack The North",
       "url": "https://hackthenorth.com/",
       "startDate": "September 15",
@@ -37,6 +37,22 @@
       "twitterURL": "https://twitter.com/HopHacks",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "Make Bots Great Aagain",
+      "url": " https://make-bots-great-again.eventbrite.com/",
+      "startDate": "September 15",
+      "endDate": "September 16",
+      "year": "2017",
+      "city": "Mannheim, BW, Germany",
+      "host": "LivePerson Germany GmbH",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/276165149458542/"
     },
     {
       "title": "HackUIowa",
