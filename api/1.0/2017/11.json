@@ -19,5 +19,25 @@
       "googlePlusURL": "",
       "notes": "Cincinnati's first High School Hackathon"
     }
+    
+    {
+      "title": "Hack K-State 2017",
+      "url": "https://hackkstate.tech/",
+      "startDate": "November 3",
+      "endDate": "November 5",
+      "year": "2017",
+      "city": "Manhattan, Kansas, United States",
+      "host": "Kansas State University",
+      "length": "72",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackkstate/",
+      "twitterURL": "https://twitter.com/hackkstate",
+      "googlePlusURL": "",
+      "notes": "We can't confirm travel reimbursement right now, but we will be looking at our budget after the hackathon. If you'd like to be considered for travel reimbursement, click the checkbox when you submit your application."
+    }
   ]
 }
