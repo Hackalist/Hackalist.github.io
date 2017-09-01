@@ -1,25 +1,6 @@
 {
   "November": [
     {
-      "title": "CincyHacks",
-      "url": "https://cincyhacks.tech/",
-      "startDate": "November 4",
-      "endDate": "November 5",
-      "year": "2017",
-      "city": "Cincinnati, OH, United States",
-      "host": "Mason High School",
-      "length": "24",
-      "size": "150",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/CincyHacks",
-      "twitterURL": "https://twitter.com/cincyhacks",
-      "googlePlusURL": "",
-      "notes": "Cincinnati's first High School Hackathon"
-    },
-    {
       "title": "Hack K-State 2017",
       "url": "https://hackkstate.tech/",
       "startDate": "November 3",
@@ -37,6 +18,25 @@
       "twitterURL": "https://twitter.com/hackkstate",
       "googlePlusURL": "",
       "notes": "We can't confirm travel reimbursement right now, but we will be looking at our budget after the hackathon. If you'd like to be considered for travel reimbursement, click the checkbox when you submit your application."
+    },
+    {
+      "title": "CincyHacks",
+      "url": "https://cincyhacks.tech/",
+      "startDate": "November 4",
+      "endDate": "November 5",
+      "year": "2017",
+      "city": "Cincinnati, OH, United States",
+      "host": "Mason High School",
+      "length": "24",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/CincyHacks",
+      "twitterURL": "https://twitter.com/cincyhacks",
+      "googlePlusURL": "",
+      "notes": "Cincinnati's first High School Hackathon"
     }
   ]
 }
