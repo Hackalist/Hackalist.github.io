@@ -38,5 +38,24 @@
       "googlePlusURL": "",
       "notes": "Cincinnati's first High School Hackathon"
     }
+     {
+      "title": "Junction",
+      "url": "https://hackjunction.com/",
+      "startDate": "November 24",
+      "endDate": "November 26",
+      "year": "2017",
+      "city": "Helsinki, Finland",
+      "host": "Junction team",
+      "length": "48",
+      "size": "1300",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackjunction",
+      "twitterURL": "https://twitter.com/hackjunction",
+      "googlePlusURL": "",
+      "notes": "Europe's largest hackathon. Upto 150 euros in travel reimbursement and free accomodation available"
+    }
   ]
 }
