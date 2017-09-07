@@ -77,6 +77,25 @@
       "notes": "Hackathon for the social good."
     },
     {
+      "title": "Citrus Hack",
+      "url": "http://citrushack.com",
+      "startDate": "October 13",
+      "endDate": "October 15",
+      "year": "2017",
+      "city": "Riverside, CA United States",
+      "host": "ACM@UCR, IEEE@UCR, University of California Riverside",
+      "length": "36",
+      "size": "600",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/CitrusHack/",
+      "twitterURL": "https://twitter.com/CitrusHack",
+      "googlePlusURL": "",
+      "notes": "Challenge and General Applications are open!"
+    },
+    {
       "title": "TigerHacks",
       "url": "http://tiger-hacks.com",
       "startDate": "October 13",
