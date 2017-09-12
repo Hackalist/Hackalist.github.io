@@ -1,25 +1,6 @@
 {
   "October": [
     {
-      "title": "HackNEHS",
-      "url": "https://hacknehs.com/",
-      "startDate": "October 7",
-      "endDate": "October 7",
-      "year": "2017",
-      "city": "Burlington, MA, United States",
-      "host": "Hack New England High Schools",
-      "length": "12",
-      "size": "250",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/hacknehs",
-      "twitterURL": "https://twitter.com/hacknehs",
-      "googlePlusURL": "",
-      "notes": "Hackathon for high schoolers run by high schoolers!"
-    },
-    {
     "title": "InOut",
         "url": "https://hackinout.co/",
         "startDate": "October 7",
