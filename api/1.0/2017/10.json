@@ -88,13 +88,13 @@
       "size": "80",
       "travel": "no",
       "prize": "yes",
-      "highSchoolers": "no",
+      "highSchoolers": "yes",
       "cost": "free",
       "facebookURL": "https://www.facebook.com/Coffee-And-Coding-115739182369426/",
       "twitterURL": "https://twitter.com/coffee_n_coding",
       "googlePlusURL": "",
       "notes": "Applications are open!"
-    }
+    },
     {
       "title": "TigerHacks",
       "url": "http://tiger-hacks.com",
