@@ -151,6 +151,25 @@
       "twitterURL": "https://twitter.com/TOhackerclub",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "HackDuke: Code for Good",
+      "url": "http://hackduke.org/",
+      "startDate": "October 28",
+      "endDate": "October 29",
+      "year": "2017",
+      "city": "Durham, NC, United States",
+      "host": "Duke University",
+      "length": "24",
+      "size": "700",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackduke/",
+      "twitterURL": "https://twitter.com/hackduke",
+      "googlePlusURL": "",
+      "notes": "HackDuke: Code for Good is back again this year on the weekend of October 28th. There’s no better opportunity to learn about socially conscious technology than at HackDuke. No prior tech or engineering experience is necessary—only interest—because we’re bringing in tech mentors to give workshops and mentor participants. We also feature four different tracks—Health and Wellness, Education, Energy and Environment, and Inequality—so that you can apply what you learn to something that matters in the world. For hardware enthusiasts we’ll stock an entire hardware lab with everything from Oculus Rifts to Myo Armbands so that you can work with the coolest new devices. HackDuke is absolutely free, and we’ll provide free meals and swag from our sponsors. Registration ends on October 7th, so register on HackDuke.org before then!"
     }
   ]
 }
