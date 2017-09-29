@@ -20,6 +20,25 @@
       "notes": "We can't confirm travel reimbursement right now, but we will be looking at our budget after the hackathon. If you'd like to be considered for travel reimbursement, click the checkbox when you submit your application."
     },
     {
+      "title": "Smart Energy Hackathon Prague 2017",
+      "url": "http://www.ceehacks.com",
+      "startDate": "November 3",
+      "endDate": "November 5",
+      "year": "2017",
+      "city": "Prague, Czech Republic",
+      "host": "Confidence Digital",
+      "length": "58",
+      "size": "60",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackNEHS",
       "url": "https://hacknehs.com/",
       "startDate": "November 4",
