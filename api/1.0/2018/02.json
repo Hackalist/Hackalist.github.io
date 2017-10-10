@@ -1,24 +1,43 @@
 {
-  "February": [
-	{
-	  "title": "Hack the Valley 2",
-	  "url": "https://www.hackvalley2.com/",
-	  "startDate": "February 23",
-	  "endDate": "February 25",
-	  "year": "2018",
-	  "city": "Toronto, ON, Canada",
-	  "host": "U of T Scarborough",
-	  "length": "36",
-	  "size": "500",
-	  "travel": "yes",
-	  "prize": "yes",
-	  "highSchoolers": "yes",
-	  "cost": "free",
-	  "facebookURL": "https://www.facebook.com/hackthevalley",
-	  "twitterURL": "https://twitter.com/hack_valley",
-	  "googlePlusURL": "",
-	  "notes": ""
-	}
-  ]
-}
+    "February": [
+     {
+      "title": "Hack the Hammer",
+      "url": "http://hackthehammer.com/",
+      "startDate": "February 3",
+      "endDate": "February 4",
+      "year": "2018",
+      "city": "Hamilton, ON",
+      "host": "Mcmaster Innovation Park",
+      "length": "24",
+      "size": "160",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackthehammer/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Join designers, engineers and programmers, at the Mcmaster Innovation Park for 24 hours of hacking at Hamilton's first high school hackathon!"
+    },
+      {
+        "title": "Hack the Valley 2",
+        "url": "https://www.hackvalley2.com/",
+        "startDate": "February 23",
+        "endDate": "February 25",
+        "year": "2018",
+        "city": "Toronto, ON",
+        "host": "U of T Scarborough",
+        "length": "36",
+        "size": "500",
+        "travel": "yes",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/hackthevalley",
+        "twitterURL": "https://twitter.com/hack_valley",
+        "googlePlusURL": "",
+        "notes": ""
+      }
+    ]
+  }
   
