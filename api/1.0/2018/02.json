@@ -1,24 +1,24 @@
 {
-    "February": [
-      {
-        "title": "Hack the Valley 2",
-        "url": "https://www.hackvalley2.com/",
-        "startDate": "February 23",
-        "endDate": "February 25",
-        "year": "2018",
-        "city": "Toronto, ON",
-        "host": "U of T Scarborough",
-        "length": "36",
-        "size": "500",
-        "travel": "yes",
-        "prize": "yes",
-        "highSchoolers": "yes",
-        "cost": "free",
-        "facebookURL": "https://www.facebook.com/hackthevalley",
-        "twitterURL": "https://twitter.com/hack_valley",
-        "googlePlusURL": "",
-        "notes": ""
-      }
-    ]
-  }
+  "February": [
+	{
+	  "title": "Hack the Valley 2",
+	  "url": "https://www.hackvalley2.com/",
+	  "startDate": "February 23",
+	  "endDate": "February 25",
+	  "year": "2018",
+	  "city": "Toronto, ON, Canada",
+	  "host": "U of T Scarborough",
+	  "length": "36",
+	  "size": "500",
+	  "travel": "yes",
+	  "prize": "yes",
+	  "highSchoolers": "yes",
+	  "cost": "free",
+	  "facebookURL": "https://www.facebook.com/hackthevalley",
+	  "twitterURL": "https://twitter.com/hack_valley",
+	  "googlePlusURL": "",
+	  "notes": ""
+	}
+  ]
+}
   
