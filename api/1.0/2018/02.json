@@ -1,5 +1,24 @@
 {
     "February": [
+     {
+      "title": "Hack the Hammer",
+      "url": "http://hackthehammer.com/",
+      "startDate": "February 3",
+      "endDate": "February 4",
+      "year": "2018",
+      "city": "Hamilton, ON",
+      "host": "Mcmaster Innovation Park",
+      "length": "24",
+      "size": "160",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackthehammer/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Join designers, engineers and programmers, at the Mcmaster Innovation Park for 24 hours of hacking at Hamilton's first high school hackathon!"
+    },
       {
         "title": "Hack the Valley 2",
         "url": "https://www.hackvalley2.com/",
@@ -19,25 +38,6 @@
         "googlePlusURL": "",
         "notes": ""
       }
-     {
-      "title": "Hack the Hammer",
-      "url": "http://hackthehammer.com/",
-      "startDate": "February 3",
-      "endDate": "February 4",
-      "year": "2018",
-      "city": "Hamilton, ON",
-      "host": "Mcmaster Innovation Park",
-      "length": "24",
-      "size": "160",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/hackthehammer/",
-      "twitterURL": "",
-      "googlePlusURL": "",
-      "notes": "Join designers, engineers and programmers, at the Mcmaster Innovation Park for 24 hours of hacking at Hamilton's first high school hackathon!"
-    }
     ]
   }
   
