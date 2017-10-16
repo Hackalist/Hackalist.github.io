@@ -1,4 +1,23 @@
 {
   "December": [
+    {
+      "title": "YHack 2017",
+      "url": "https://www.yhack.org/",
+      "startDate": "December 3",
+      "endDate": "December 5",
+      "year": "2017",
+      "city": "New Haven, Connecticut, United States",
+      "host": "Yale University",
+      "length": "36",
+      "size": "1000",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/whyhackatyhack/",
+      "twitterURL": "https://twitter.com/yalehack",
+      "googlePlusURL": "",
+      "notes": "If you're not an undergrad, email team@yhack.org to see if an exception for you can be made."
+    }
   ]
 }
