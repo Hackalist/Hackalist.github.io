@@ -1,0 +1,23 @@
+{
+  "March": [
+    {
+      "title": "HackFSU 5", 
+      "url": "https://www.hackfsu.com/",
+      "startDate": "March 2",
+      "endDate": "March 4",
+      "year": "2018",
+      "city": "Tallahassee, Florida, USA",
+      "host": "Florida State University",
+      "length": "30",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackfsu/",
+      "twitterURL": "https://twitter.com/HackFSU",
+      "googlePlusURL": "",
+      "notes": "sionals from all different industries (healthcare, science, etc) to pitch ideas for students to work on."
+    }
+  ]
+}
