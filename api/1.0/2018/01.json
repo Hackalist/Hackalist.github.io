@@ -18,6 +18,25 @@
       "twitterURL": "https://twitter.com/deltahacks?lang=en",
       "googlePlusURL": "",
       "notes": "DeltaHacks is an annual hackathon that takes place at McMaster University. Our event, as the name, 'Delta', originates from social impact and social change. As a result, we strive to have social change related projects, by inviting professionals from all different industries (healthcare, science, etc) to pitch ideas for students to work on."
+    },
+    {
+      "title": "ConUHacks",
+      "url": "https://conuhacks.io/",
+      "startDate": "January 27",
+      "endDate": "January 28",
+      "year": "2018",
+      "city": "Montreal, Qc, Canada",
+      "host": "Concordia University",
+      "length": "24",
+      "size": "600",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/conuhacks/",
+      "twitterURL": "https://twitter.com/hackconcordia",
+      "googlePlusURL": "",
+      "notes": "ConUHacks is open to all university students that have a passion for creating things with technology!"
     }
   ]
 }
