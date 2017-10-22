@@ -18,6 +18,25 @@
       "twitterURL": "https://twitter.com/yalehack",
       "googlePlusURL": "",
       "notes": "If you're not an undergrad, email team@yhack.org to see if an exception for you can be made."
+    },
+    {
+      "title": "hackMCST III",
+      "url": "http://hackmcst.tech/",
+      "startDate": "December 9",
+      "endDate": "December 10",
+      "year": "2017",
+      "city": "Denville, New Jersey, United States",
+      "host": "Morris County School of Technology",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "unknown",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackMCST/",
+      "twitterURL": "https://twitter.com/hackmcst",
+      "googlePlusURL": "",
+      "notes": "For high schoolers"
     }
   ]
 }
