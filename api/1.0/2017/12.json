@@ -21,3 +21,23 @@
     }
   ]
 }
+
+{
+      "title": "Hack the Police",
+      "url": "http://hackthepolice.com/",
+      "startDate": "December 9",
+      "endDate": "December 10",
+      "year": "2017",
+      "city": "London, UK",
+      "host": "Newspeak House",
+      "length": "36",
+      "size": "80",
+      "travel": "no",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/hackthepolice",
+      "googlePlusURL": "",
+      "notes": ""
+    }
