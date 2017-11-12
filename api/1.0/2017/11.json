@@ -208,6 +208,25 @@
       "twitterURL": "https://twitter.com/hackjunction",
       "googlePlusURL": "",
       "notes": "Europe's largest hackathon. Upto 150 euros in travel reimbursement and free accomodation available"
+    },
+    {
+      "title": "AutoMobility LA",
+      "url": "https://automobilityla.com/hackathon/",
+      "startDate": "November 27",
+      "endDate": "November 28",
+      "year": "2017",
+      "city": "Los Angeles, California",
+      "host": "Honda Innovations",
+      "length": "24",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "$99",
+      "facebookURL": "https://www.facebook.com/automobilityla",
+      "twitterURL": "https://twitter.com/automobilityla",
+      "googlePlusURL": "",
+      "notes": "Participants will have the opportunity to use data from the City of L.A. to address mobility challenges posed to a dynamic city like Los Angeles when it comes to hosting major events."
     }
   ]
 }
