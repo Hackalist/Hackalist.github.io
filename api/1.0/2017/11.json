@@ -1,6 +1,25 @@
 {
   "November": [
     {
+      "title": "Electric City Hacks",
+      "url": "http://2017.echacks.xyz/",
+      "startDate": "November 3",
+      "endDate": "November 5",
+      "year": "2017",
+      "city": "Petersborough, Ontario, Canada",
+      "host": "Trent University",
+      "length": "36",
+      "size": "350",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/echacks/",
+      "twitterURL": "https://twitter.com/echacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Hack K-State 2017",
       "url": "https://hackkstate.tech/",
       "startDate": "November 3",
