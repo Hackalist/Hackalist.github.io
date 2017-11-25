@@ -1,6 +1,25 @@
 {
   "January": [
     {
+      "title": "SB Hacks IV", 
+       "url": "https://www.sbhacks.com",
+       "startDate": "January 19",
+       "endDate": "January 21",
+       "year": "2018",
+       "city": "Santa Barbara, California, USA",
+       "host": "University of California, Santa Barbara (UCSB)",
+       "length": "36",
+       "size": "500",
+       "travel": "yes",
+       "prize": "yes",
+       "highSchoolers": "yes",
+       "cost": "free",
+       "facebookURL": "https://www.facebook.com/ucsbhacks/",
+       "twitterURL": "https://twitter.com/sb_hacks/",
+       "googlePlusURL": "",
+       "notes": "Imagine visiting the beach for FREE before summer vacation, or even spring break. Imagine doing what you love and meeting people who share the same interests as you do. Well, no need to imagine it anymore, because this opportunity is just right around the corner. SB Hacks will be happening from January 19-21, 2018 year at UC Santa Barbara’s lovely beachside campus. Don’t miss your chance to hack by the sunset, code by the beach, and make long lasting memories and friendships. Come explore the IV Jungle and let SB Hacks be the first hackathon you attend in the 2018 year! 🌊🌴🏄"
+    },
+    {
       "title": "SheHacks", 
        "url": "http://shehacks.io/",
        "startDate": "January 26",
