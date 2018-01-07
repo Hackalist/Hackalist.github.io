@@ -37,6 +37,25 @@
         "twitterURL": "https://twitter.com/hack_valley",
         "googlePlusURL": "",
         "notes": ""
+      },
+      {
+        "title": "HackCU IV",
+        "url": "https://hackcu.org",
+        "startDate": "February 24",
+        "endDate": "February 25",
+        "year": "2018",
+        "city": "Boulder, CO",
+        "host": "University of Colorado Boulder",
+        "length": "24",
+        "size": "600",
+        "travel": "yes",
+        "prize": "yes",
+        "highSchoolers": "unknown",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/HackCU/",
+        "twitterURL": "https://twitter.com/hackcu",
+        "googlePlusURL": "",
+        "notes": ""
       }
     ]
   }
