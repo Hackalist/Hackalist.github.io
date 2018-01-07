@@ -18,6 +18,25 @@
       "twitterURL": "https://twitter.com/HackFSU",
       "googlePlusURL": "",
       "notes": "sionals from all different industries (healthcare, science, etc) to pitch ideas for students to work on."
+    },
+    {
+      "title": "RevolutionUC Spring 2018", 
+      "url": "https://revolutionuc.com/",
+      "startDate": "March 3",
+      "endDate": "March 4",
+      "year": "2018",
+      "city": "Cincinnati, OH, USA",
+      "host": "University of Cincinnati",
+      "length": "24",
+      "size": "300",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/RevolutionUC",
+      "twitterURL": "https://twitter.com/Revolution_UC",
+      "googlePlusURL": "",
+      "notes": "RevolutionUC is a student hackathon where we invite students from across the midwest to partake in a weekend of code, community, and self-improvement. You don’t have to have to be a computer science major or engineering student to attend. It’s a learning experience for students of all skill levels and open to all high school and college students!"
     }
   ]
 }
