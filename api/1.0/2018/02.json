@@ -19,6 +19,25 @@
       "googlePlusURL": "",
       "notes": "Join designers, engineers and programmers, at the Mcmaster Innovation Park for 24 hours of hacking at Hamilton's first high school hackathon!"
     },
+    {
+      "title": "Blueprint",
+      "url": "https://blueprint.hackmit.org/",
+      "startDate": "February 17",
+      "endDate": "February 18",
+      "year": "2018",
+      "city": "Cambridge, MA",
+      "host": "HackMIT",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/mitblueprint/",
+      "twitterURL": "https://twitter.com/MITBlueprint",
+      "googlePlusURL": "",
+      "notes": "On the first day (“the learnathon”), students have the opportunity to learn the basics of programming, website creation, or iPhone app-making. Students can then apply their skills the following day to make their own project and compete for the best “hack.” Though both days are equally as exciting, students can choose to attend one or both days."
+    },
       {
         "title": "Hack the Valley 2",
         "url": "https://www.hackvalley2.com/",
@@ -59,4 +78,3 @@
       }
     ]
   }
-  
