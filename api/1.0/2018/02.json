@@ -57,6 +57,25 @@
         "googlePlusURL": "",
         "notes": ""
       },
+    {
+      "title": "MAHacks III", 
+       "url": "http://www.mahacks.com/",
+       "startDate": "February 24",
+       "endDate": "February 24",
+       "year": "2018",
+       "city": "Boston, Massachusetts, USA",
+       "host": "Upstatement",
+       "length": "12",
+       "size": "75",
+       "travel": "no",
+       "prize": "yes",
+       "highSchoolers": "yes",
+       "cost": "free",
+       "facebookURL": "https://www.facebook.com/mahacks",
+       "twitterURL": "",
+       "googlePlusURL": "",
+       "notes": "MAHacks III will be a 12-hour local hackathon event held at Upstatement in Boston. High school students and developers will have an opportunity to learn new skills in workshops and work together to create projects in their area of interest."
+    },
       {
         "title": "HackCU IV",
         "url": "https://hackcu.org",
