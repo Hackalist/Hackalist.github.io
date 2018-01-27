@@ -39,6 +39,25 @@
        "notes": ""
     },
     {
+      "title": "BrickHack",
+      "url": "https://brickhack.io/",
+      "startDate": "January 27",
+      "endDate": "January 28",
+      "year": "2018",
+      "city": "Rochester, NY, United States",
+      "host": "Rochester Institute of Technology",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/brickhackrit",
+      "twitterURL": "https://twitter.com/brickhackrit",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "DeltaHacks", 
       "url": "http://deltahacks.com",
       "startDate": "January 27",
