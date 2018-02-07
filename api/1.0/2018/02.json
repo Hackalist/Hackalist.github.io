@@ -1,6 +1,44 @@
 {
     "February": [
      {
+      "title": "Elle Hacks",
+      "url": "http://ellehacks.com/",
+      "startDate": "February 2",
+      "endDate": "February 4",
+      "year": "2018",
+      "city": "Toronto, ON, Canada",
+      "host": "York University",
+      "length": "32",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/ellehacks/",
+      "twitterURL": "https://twitter.com/ellehacks",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "QHacks",
+      "url": "http://qhacks.io/",
+      "startDate": "February 2",
+      "endDate": "February 4",
+      "year": "2018",
+      "city": "Kingston, ON, Canada",
+      "host": "Queen's University",
+      "length": "32",
+      "size": "500",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/QHacks/",
+      "twitterURL": "https://twitter.com/qhacks18",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "Hack the Hammer",
       "url": "http://hackthehammer.com/",
       "startDate": "February 3",
@@ -38,6 +76,25 @@
       "googlePlusURL": "",
       "notes": "On the first day (“the learnathon”), students have the opportunity to learn the basics of programming, website creation, or iPhone app-making. Students can then apply their skills the following day to make their own project and compete for the best “hack.” Though both days are equally as exciting, students can choose to attend one or both days."
     },
+    {
+      "title": "uOttaHack",
+      "url": "https://uottahack.com/",
+      "startDate": "February 17",
+      "endDate": "February 18",
+      "year": "2018",
+      "city": "Ottawa, ON, Canada",
+      "host": "University of Ottawa",
+      "length": "24",
+      "size": "200",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/uottahack/",
+      "twitterURL": "https://twitter.com/uottahack/",
+      "googlePlusURL": "",
+      "notes": ""
+      },
       {
         "title": "Hack the Valley 2",
         "url": "https://www.hackvalley2.com/",
@@ -57,7 +114,7 @@
         "googlePlusURL": "",
         "notes": ""
       },
-    {
+      {
       "title": "MAHacks III", 
        "url": "http://www.mahacks.com/",
        "startDate": "February 24",
@@ -75,7 +132,7 @@
        "twitterURL": "",
        "googlePlusURL": "",
        "notes": "MAHacks III will be a 12-hour local hackathon event held at Upstatement in Boston. High school students and developers will have an opportunity to learn new skills in workshops and work together to create projects in their area of interest."
-    },
+      },
       {
         "title": "HackCU IV",
         "url": "https://hackcu.org",
