@@ -37,6 +37,25 @@
       "twitterURL": "https://twitter.com/Revolution_UC",
       "googlePlusURL": "",
       "notes": "RevolutionUC is a student hackathon where we invite students from across the midwest to partake in a weekend of code, community, and self-improvement. You don’t have to have to be a computer science major or engineering student to attend. It’s a learning experience for students of all skill levels and open to all high school and college students!"
-    }
+    },
+    {
+      "title": "StarterHacks",
+      "url": "https://starterhacks.ca/",
+      "startDate": "March 3",
+      "endDate": "March 4",
+      "year": "2018",
+      "city": "Waterloo, ON, Canada",
+      "host": "University of Waterloo",
+      "length": "24",
+      "size": "500",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/145871806207338/",
+      "twitterURL": "https://twitter.com/starterhacks",
+      "googlePlusURL": "",
+      "notes": ""
+}
   ]
 }
