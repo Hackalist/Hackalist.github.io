@@ -75,6 +75,25 @@
       "twitterURL": "https://twitter.com/hintIIITA",
       "googlePlusURL": "",
       "notes": "Consensys presents Hack in the North 3.0 - the third iteration of the annually held student hackathon of IIIT Allahabad. With 300 participants from the prestigious institutions all over India, we have some amazing talent put to best use for 36 hours straight in order to create ideas helpful to th society. Having prizes worth 20 Lakh, we have something for everyone. We also have mentors coming in from US to help participants enhance their ideas."
+    },
+       {
+      "title": "MetroHacks: Women",
+      "url": "https://women.metrohacks.org/",
+      "startDate": "March 24",
+      "endDate": "March 24",
+      "year": "2018",
+      "city": "Cambridge, MA, United States",
+      "host": "Cambridge Innovation Center",
+      "length": "24",
+      "size": "",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/1777340162568704/",
+      "twitterURL": "https://twitter.com/MetroHacks",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
