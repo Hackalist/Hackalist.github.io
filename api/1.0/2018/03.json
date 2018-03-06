@@ -76,6 +76,24 @@
       "googlePlusURL": "",
       "notes": ""
 },
+{  "title": "DataHack Premier League",
+    "url":"https://datahack.analyticsvidhya.com/contest/datahack-premier-league/",
+      "startDate": "March 05",
+      "endDate": "April 06",
+      "year": "2018",
+      "city": "online",
+      "host": "Analytics Vidhya",
+      "length": "780",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+	"facebookURL":"",
+      "twitterURL":"",
+      "googlePlusURL": "",
+      "notes": "Analytics Vidhya presents the largest sports analytics competition - the DataHack Premier League! Use your data science skills to navigate through ball-by-ball action to predict the highest run getter and the highest wicket taker in each game of Indian Premier League (IPL) 2018. Prizes worth ruppees INR 300,000 up for grabs so step on to the pitch and smash your way to the top!"
+},
 {
       "title": "McKinsey Analytics Online Hackathon- Recommendation Design",
       "url": "https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-recommendation/?utm_source=hackalistgithub",
@@ -150,25 +168,6 @@
       "twitterURL":"",
       "googlePlusURL": "",
       "notes": "Analytics Vidhya is hosting - Lord of the Machines, a data science / machine learning hackathon designed to discover the best data scientists in the community. In this two-day hackathon, participants will have the opportunity to come up with innovative and exciting data science solutions to claim your supremacy.Winners will have a chance to win Prizes worth INR 130,000."
-},
-{  "title": "DataHack Premier League",
-    "url":"https://datahack.analyticsvidhya.com/contest/datahack-premier-league/",
-      "startDate": "March 05",
-      "endDate": "April 06",
-      "year": "2018",
-      "city": "online",
-      "host": "Analytics Vidhya",
-      "length": "780",
-      "size": "unknown",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-	"facebookURL":"",
-      "twitterURL":"",
-      "googlePlusURL": "",
-      "notes": "Analytics Vidhya presents the largest sports analytics competition - the DataHack Premier League! Use your data science skills to navigate through ball-by-ball action to predict the highest run getter and the highest wicket taker in each game of Indian Premier League (IPL) 2018. Prizes worth ruppees INR 300,000 up for grabs so step on to the pitch and smash your way to the top!"
 }
-
   ]
 }
