@@ -1,0 +1,42 @@
+{
+  "December": [
+    {
+      "title": "YHack 2017",
+      "url": "https://www.yhack.org/",
+      "startDate": "December 3",
+      "endDate": "December 5",
+      "year": "2017",
+      "city": "New Haven, Connecticut, United States",
+      "host": "Yale University",
+      "length": "36",
+      "size": "1000",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/whyhackatyhack/",
+      "twitterURL": "https://twitter.com/yalehack",
+      "googlePlusURL": "",
+      "notes": "If you're not an undergrad, email team@yhack.org to see if an exception for you can be made."
+    },
+    {
+      "title": "Hack the Police 2",
+      "url": "http://hackthepolice.com/",
+      "startDate": "December 9",
+      "endDate": "December 10",
+      "year": "2017",
+      "city": "London, UK",
+      "host": "Independent committee working alongside Goldsmiths College Forensic Psychology Unit, and Police:Now",
+      "length": "36",
+      "size": "40",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/148619209221430/?ref=br_rs",
+      "twitterURL": "https://twitter.com/hackthepolice",
+      "googlePlusURL": "",
+      "notes": "An exciting hackathon aimed at finding ways to improve and protect the relationship between police and public."
+    }
+  ]
+}

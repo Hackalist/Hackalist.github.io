@@ -1,0 +1,60 @@
+{
+  "August": [
+      {
+        "title": "BBVA Open Challenge Global Trends",
+        "url": "https://www.centrodeinnovacionbbva.com/en/openchallenges/globaltrends",
+        "startDate": "August 1",
+        "endDate": "September 26",
+        "year": "2017",
+        "city": "Chicago",
+        "host": "Next Money",
+        "size": "unknown",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "no",
+        "cost": "free",
+        "facebookURL": "",
+        "twitterURL": "",
+        "googlePlusURL": "",
+        "notes": ""
+     },
+     {
+      "title": "WebHacks",
+      "url": "https://webhacks.tech",
+      "startDate": "August 6",
+      "endDate": "August 12",
+      "year": "2017",
+      "city": "Online",
+      "host": "WebHacks.Tech",
+      "length": "156",
+      "size": "1000",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "This event is hosted entirely online."
+    },
+    {
+      "title": "Robot Uprising",
+      "url": "http://robotuprising.fi",
+      "startDate": "August 25",
+      "endDate": "August 27",
+      "year": "2017",
+      "city": "Helsinki",
+      "host": "Helsinki Think Company",
+      "length": "48",
+      "size": "120",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/305950296516256/",
+      "twitterURL": "https://twitter.com/RobotUprisingHQ",
+      "googlePlusURL": "",
+      "notes": "A hands-on engineering battle in the robotics hub of the Nordics!"
+    } 
+  ]
+}
