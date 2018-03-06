@@ -76,25 +76,6 @@
       "googlePlusURL": "",
       "notes": ""
 },
-    {
-      "title": "Hack in the North 3.0", 
-      "url": "https://hackinthenorth.com/",
-      "startDate": "March 16",
-      "endDate": "March 18",
-      "year": "2018",
-      "city": "Allahabad. Uttar Pradesh, India",
-      "host": "Indian Institute of Information Technology, Allahabad",
-      "length": "36",
-      "size": "300",
-      "travel": "yes",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/HackInTheNorth/",
-      "twitterURL": "https://twitter.com/hintIIITA",
-      "googlePlusURL": "",
-      "notes": "Consensys presents Hack in the North 3.0 - the third iteration of the annually held student hackathon of IIIT Allahabad. With 300 participants from the prestigious institutions all over India, we have some amazing talent put to best use for 36 hours straight in order to create ideas helpful to th society. Having prizes worth 20 Lakh, we have something for everyone. We also have mentors coming in from US to help participants enhance their ideas."
-    },
 {
       "title": "McKinsey Analytics Online Hackathon- Recommendation Design",
       "url": "https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-recommendation/?utm_source=hackalistgithub",
@@ -113,6 +94,25 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": "Participate in a McKinsey Analytics Hackathon where you will have the opportunity to experience and overcome some of the challenges that leading global organizations face. The best participants will be short listed for interviews with us and additionally the winner will receive an all-expenses paid trip to an international analytics conference of your choice as a McKinsey guest, subject to visa approval and ticket availability."
+    },
+    {
+      "title": "Hack in the North 3.0", 
+      "url": "https://hackinthenorth.com/",
+      "startDate": "March 16",
+      "endDate": "March 18",
+      "year": "2018",
+      "city": "Allahabad. Uttar Pradesh, India",
+      "host": "Indian Institute of Information Technology, Allahabad",
+      "length": "36",
+      "size": "300",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HackInTheNorth/",
+      "twitterURL": "https://twitter.com/hintIIITA",
+      "googlePlusURL": "",
+      "notes": "Consensys presents Hack in the North 3.0 - the third iteration of the annually held student hackathon of IIIT Allahabad. With 300 participants from the prestigious institutions all over India, we have some amazing talent put to best use for 36 hours straight in order to create ideas helpful to th society. Having prizes worth 20 Lakh, we have something for everyone. We also have mentors coming in from US to help participants enhance their ideas."
     },
        {
       "title": "MetroHacks: Women",
