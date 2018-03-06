@@ -128,7 +128,7 @@
       "prize": "yes",
       "highSchoolers": "yes",
       "cost": "free",
-	"facebookURL": 	"",
+	"facebookURL": "",
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": "Participate in a McKinsey Analytics Hackathon where you will have the opportunity to experience and overcome some of the challenges that leading global organizations face. The best participants will be short listed for interviews with us and additionally the winner will receive an all-expenses paid trip to an international analytics conference of your choice as a McKinsey guest, subject to visa approval and ticket availability."
@@ -149,7 +149,7 @@
 	"facebookURL":"",
       "twitterURL":"",
       "googlePlusURL": "",
-      "notes": "Analytics Vidhya is hosting "Lord of the Machines", a data science / machine learning hackathon designed to discover the best data scientists in the community. In this two-day hackathon, participants will have the opportunity to come up with innovative and exciting data science solutions to claim your supremacy.Winners will have a chance to win Prizes worth INR 130,000."
+      "notes": "Analytics Vidhya is hosting - Lord of the Machines, a data science / machine learning hackathon designed to discover the best data scientists in the community. In this two-day hackathon, participants will have the opportunity to come up with innovative and exciting data science solutions to claim your supremacy.Winners will have a chance to win Prizes worth INR 130,000."
 },
 {  "title": "DataHack Premier League",
     "url":"https://datahack.analyticsvidhya.com/contest/datahack-premier-league/",
