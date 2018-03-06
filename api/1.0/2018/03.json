@@ -132,6 +132,43 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": "Participate in a McKinsey Analytics Hackathon where you will have the opportunity to experience and overcome some of the challenges that leading global organizations face. The best participants will be short listed for interviews with us and additionally the winner will receive an all-expenses paid trip to an international analytics conference of your choice as a McKinsey guest, subject to visa approval and ticket availability."
-    }
+    },
+{  "title": "Lord of the Machines: Data Science Hackathon",
+      "url": "https://datahack.analyticsvidhya.com/contest/lord-of-the-machines/",
+      "startDate": "March 24",
+      "endDate": "March 25",
+      "year": "2018",
+      "city": "online",
+      "host": "Analytics Vidhya",
+      "length": "48",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+	"facebookURL":"",
+      "twitterURL":"",
+      "googlePlusURL": "",
+      "notes": "Analytics Vidhya is hosting "Lord of the Machines", a data science / machine learning hackathon designed to discover the best data scientists in the community. In this two-day hackathon, participants will have the opportunity to come up with innovative and exciting data science solutions to claim your supremacy.Winners will have a chance to win Prizes worth INR 130,000."
+},
+{  "title": "DataHack Premier League",
+    "url":"https://datahack.analyticsvidhya.com/contest/datahack-premier-league/",
+      "startDate": "March 05",
+      "endDate": "April 06",
+      "year": "2018",
+      "city": "online",
+      "host": "Analytics Vidhya",
+      "length": "780",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+	"facebookURL":"",
+      "twitterURL":"",
+      "googlePlusURL": "",
+      "notes": "Analytics Vidhya presents the largest sports analytics competition - the DataHack Premier League! Use your data science skills to navigate through ball-by-ball action to predict the highest run getter and the highest wicket taker in each game of Indian Premier League (IPL) 2018. Prizes worth ruppees INR 300,000 up for grabs so step on to the pitch and smash your way to the top!"
+}
+
   ]
 }
