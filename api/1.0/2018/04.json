@@ -1,0 +1,23 @@
+{
+    "April": [
+        {
+            "title": "Smart Mobility Hackathon 2018",
+            "url": "http://www.ceehacks.com",
+            "startDate": "April 6",
+            "endDate": "April 8",
+            "year": "2018",
+            "city": "Prague, Czech Republic",
+            "host": "SKODA AUTO DigiLab",
+            "length": "48",
+            "size": "60",
+            "travel": "yes",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "https://www.facebook.com/ceehacks",
+            "twitterURL": "https://twitter.com/ceehacks_com",
+            "googlePlusURL": "",
+            "notes": "Form a three-member hacking team, pick a challenge and win valueable prizes or a partnership with one of our industry partners. Our mission is to shape the future of mobility, health and energy of cities in Europe."
+        }
+    ]
+}
