@@ -18,6 +18,25 @@
             "twitterURL": "https://twitter.com/ceehacks_com",
             "googlePlusURL": "",
             "notes": "Form a three-member hacking team, pick a challenge and win valueable prizes or a partnership with one of our industry partners. Our mission is to shape the future of mobility, health and energy of cities in Europe."
+        },
+        {
+            "title": "CreatED - Hardware Hackathon",
+            "url": "https://createdhack.github.io/",
+            "startDate": "April 7",
+            "endDate": "April 8",
+            "year": "2018",
+            "city": "Edinburgh, UK",
+            "host": "University of Edinburgh",
+            "length": "24",
+            "size": "100",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "no",
+            "cost": "free",
+            "facebookURL": "https://www.facebook.com/events/328878124288949/",
+            "twitterURL": "https://twitter.com/CreatEDHack",
+            "googlePlusURL": "",
+            "notes": "CreatED is a 24 hour hardware hackathon being run at the University of Edinburgh. Come along to the only student-run event of its kind for a weekend of free food, making and meeting new people! Open to anyone over the age of 18."
         }
     ]
 }
