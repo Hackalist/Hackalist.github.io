@@ -75,9 +75,10 @@
       "twitterURL": "https://twitter.com/starterhacks",
       "googlePlusURL": "",
       "notes": ""
-},
-{  "title": "DataHack Premier League",
-    "url":"https://datahack.analyticsvidhya.com/contest/datahack-premier-league/",
+    },
+    {     
+      "title": "DataHack Premier League",
+      "url":"https://datahack.analyticsvidhya.com/contest/datahack-premier-league/",
       "startDate": "March 05",
       "endDate": "April 06",
       "year": "2018",
@@ -93,8 +94,8 @@
       "twitterURL":"",
       "googlePlusURL": "",
       "notes": "Analytics Vidhya presents the largest sports analytics competition - the DataHack Premier League! Use your data science skills to navigate through ball-by-ball action to predict the highest run getter and the highest wicket taker in each game of Indian Premier League (IPL) 2018. Prizes worth ruppees INR 300,000 up for grabs so step on to the pitch and smash your way to the top!"
-},
-{
+    },
+    {
       "title": "McKinsey Analytics Online Hackathon- Recommendation Design",
       "url": "https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-recommendation/?utm_source=hackalistgithub",
       "startDate": "March 10",
@@ -132,7 +133,7 @@
       "googlePlusURL": "",
       "notes": "Consensys presents Hack in the North 3.0 - the third iteration of the annually held student hackathon of IIIT Allahabad. With 300 participants from the prestigious institutions all over India, we have some amazing talent put to best use for 36 hours straight in order to create ideas helpful to th society. Having prizes worth 20 Lakh, we have something for everyone. We also have mentors coming in from US to help participants enhance their ideas."
     },
-       {
+    {
       "title": "MetroHacks: Women",
       "url": "https://women.metrohacks.org/",
       "startDate": "March 24",
@@ -151,7 +152,8 @@
       "googlePlusURL": "",
       "notes": ""
     },
-{  "title": "Lord of the Machines: Data Science Hackathon",
+    {
+      "title": "Lord of the Machines: Data Science Hackathon",
       "url": "https://datahack.analyticsvidhya.com/contest/lord-of-the-machines/",
       "startDate": "March 24",
       "endDate": "March 25",
@@ -168,6 +170,25 @@
       "twitterURL":"",
       "googlePlusURL": "",
       "notes": "Analytics Vidhya is hosting - Lord of the Machines, a data science / machine learning hackathon designed to discover the best data scientists in the community. In this two-day hackathon, participants will have the opportunity to come up with innovative and exciting data science solutions to claim your supremacy.Winners will have a chance to win Prizes worth INR 130,000."
-}
+    },
+    {
+      "title": "HackPrinceton",
+      "url": "https://www.hackprinceton.com/",
+      "startDate": "March 30",
+      "endDate": "April 1",
+      "year": "2018",
+      "city": "Princeton, NJ, United States",
+      "host": "Princeton University",
+      "length": "36",
+      "size": "600",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackprinceton",
+      "twitterURL": "https://twitter.com/hackprinceton",
+      "googlePlusURL": "",
+      "notes": ""
+    }
   ]
 }
