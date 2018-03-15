@@ -1,6 +1,25 @@
 {
     "April": [
         {
+           "title":"Hackital Ethereum 2018",
+           "url":"http://www.hackital.io",
+           "startDate":"April 27",
+           "endDate":"April 29",
+           "year":"2018",
+           "city":"Washington DC, Czech Republic",
+           "host":"Ames Hall",
+           "length":"36",
+           "size":"120",
+           "travel":"no",
+           "prize":"yes",
+           "highSchoolers":"yes",
+           "cost":"free",
+           "facebookURL":"https://www.facebook.com/hackitalDC",
+           "twitterURL":"https://twitter.com/hackital",
+           "googlePlusURL":"",
+           "notes":"An Ethereum focused hackathon in the capital, focused on learning and mentorship."
+        },
+        {
             "title": "Smart Mobility Hackathon 2018",
             "url": "http://www.ceehacks.com",
             "startDate": "April 6",
