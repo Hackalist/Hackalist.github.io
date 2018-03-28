@@ -1,25 +1,6 @@
 {
     "April": [
         {
-            "title": "Greater Central Florida Tech Faire + Hackathon",
-            "url": "http://greatercentralfloridatechfaire.com",
-            "startDate": "April 7",
-            "endDate": "April 8",
-            "year": "2018",
-            "city": "DeLand, Florida",
-            "host": "Stetson University",
-            "length": "30",
-            "size": "150",
-            "travel": "yes",
-            "prize": "yes",
-            "highSchoolers": "yes",
-            "cost": "free",
-            "facebookURL": "https://www.facebook.com/events/1659340204112367/",
-            "twitterURL": "",
-            "googlePlusURL": "",
-            "notes": "Stetson University is proud to announce our third annual hackathon (a 30-hour overnight coding event) in DeLand, Florida. Our new name, the Greater Central Florida Tech Faire + Hackathon shows that we are planning a larger and more elaborate event than traditional hackathons. This year, we are significantly expanding the number of activities, faculty lectures, and prizes. Besides hacking on your own projects, you can participate in a new CTF (capture the flag) security challenge designed by engineers at Apple. The winner of this competition gets a guaranteed interview with Apple!"
-        },
-        {
             "title": "Smart Mobility Hackathon 2018",
             "url": "http://www.ceehacks.com",
             "startDate": "April 6",
@@ -56,6 +37,25 @@
             "twitterURL": "https://twitter.com/CreatEDHack",
             "googlePlusURL": "",
             "notes": "CreatED is a 24 hour hardware hackathon being run at the University of Edinburgh. Come along to the only student-run event of its kind for a weekend of free food, making and meeting new people! Open to anyone over the age of 18."
+        },
+        {
+            "title": "Greater Central Florida Tech Faire + Hackathon",
+            "url": "http://greatercentralfloridatechfaire.com",
+            "startDate": "April 7",
+            "endDate": "April 8",
+            "year": "2018",
+            "city": "DeLand, Florida",
+            "host": "Stetson University",
+            "length": "30",
+            "size": "150",
+            "travel": "yes",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "https://www.facebook.com/events/1659340204112367/",
+            "twitterURL": "",
+            "googlePlusURL": "",
+            "notes": "Stetson University is proud to announce our third annual hackathon (a 30-hour overnight coding event) in DeLand, Florida. Our new name, the Greater Central Florida Tech Faire + Hackathon shows that we are planning a larger and more elaborate event than traditional hackathons. This year, we are significantly expanding the number of activities, faculty lectures, and prizes. Besides hacking on your own projects, you can participate in a new CTF (capture the flag) security challenge designed by engineers at Apple. The winner of this competition gets a guaranteed interview with Apple!"
         },
         {
             "title": "ShowMeData Hackathon GUS",
