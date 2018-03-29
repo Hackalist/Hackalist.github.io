@@ -94,6 +94,25 @@
            "twitterURL":"https://twitter.com/hackital",
            "googlePlusURL":"",
            "notes":"An Ethereum focused hackathon in the capital, focused on learning and mentorship."
+        },
+        {
+          "title": "Hack UX",
+          "url": "https://mobileuxlondon.com/events/hackux_orange_oracle_enhanced_messaging/",
+          "startDate": "April 27",
+          "endDate": "April 28",
+          "year": "2018",
+          "city": "London, UK, England",
+          "host": "Oracle City Office",
+          "length": "18",
+          "size": "50",
+          "travel": "unknown",
+          "prize": "yes",
+          "highSchoolers": "unknown",
+          "cost": "€24",
+          "facebookURL": "https://www.facebook.com/events/183105302303551/",
+          "twitterURL": "https://twitter.com/mobileuxlondon",
+          "googlePlusURL": "",
+          "notes": ""
         }
     ]
 }
