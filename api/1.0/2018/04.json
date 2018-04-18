@@ -113,25 +113,6 @@
           "twitterURL": "https://twitter.com/mobileuxlondon",
           "googlePlusURL": "",
           "notes": ""
-        },
-        {
-          "title": "Hackademia",
-          "url": "https://hackademia.io/",
-          "startDate": "July 28",
-          "endDate": "July 29",
-          "year": "2018",
-          "city": "Los Angeles, CA, United States",
-          "host": "UCLA",
-          "length": "16",
-          "size": "200",
-          "travel": "no",
-          "prize": "yes",
-          "highSchoolers": "unknown",
-          "cost": "free",
-          "facebookURL": "https://www.facebook.com/hackademiala/",
-          "twitterURL": "https://twitter.com/HackademiaLA",
-          "googlePlusURL": "",
-          "notes": "Hackademia is Southern California’s first hackathon by high schoolers, for high schoolers."
         }
     ]
 }
