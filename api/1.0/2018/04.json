@@ -113,6 +113,25 @@
           "twitterURL": "https://twitter.com/mobileuxlondon",
           "googlePlusURL": "",
           "notes": ""
+        },
+        {
+          "title": "Startup Bus North America 2018",
+          "url": "https://startupbus.com/",
+          "startDate": "April 27",
+          "endDate": "May 1",
+          "year": "2018",
+          "city": "[Detroit, Florida, Las Vegas, Mexico, New York, Cleveland, San Diego, San Francisco, St Louis, Austin], USA",
+          "host": "Startup Bus North America",
+          "length": "120",
+          "size": "unknown",
+          "travel": "no",
+          "prize": "unknown",
+          "highSchoolers": "no",
+          "cost": "unknown",
+          "facebookURL": "https://www.facebook.com/TheStartupBus/",
+          "twitterURL": "https://twitter.com/TheStartupBus",
+          "googlePlusURL": "",
+          "notes": "You can use invite code HackAList"
         }
     ]
 }
