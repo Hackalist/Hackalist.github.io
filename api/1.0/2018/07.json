@@ -1,25 +1,6 @@
 {
     "July": [
         {
-          "title": "Hackademia",
-          "url": "https://hackademia.io/",
-          "startDate": "July 28",
-          "endDate": "July 29",
-          "year": "2018",
-          "city": "Los Angeles, CA, United States",
-          "host": "UCLA",
-          "length": "16",
-          "size": "200",
-          "travel": "no",
-          "prize": "yes",
-          "highSchoolers": "unknown",
-          "cost": "free",
-          "facebookURL": "https://www.facebook.com/hackademiala/",
-          "twitterURL": "https://twitter.com/HackademiaLA",
-          "googlePlusURL": "",
-          "notes": "Hackademia is Southern California’s first hackathon by high schoolers, for high schoolers."
-        },
-        {
           "title": "DO!Hack 2018",
           "url": "https://dohack.io/",
           "startDate": "July 20",
@@ -37,6 +18,25 @@
           "twitterURL": "https://twitter.com/dohack_io",
           "googlePlusURL": "",
           "notes": "DO!Hack is an interdisciplinary hacking and prototyping event in the heart of the Ruhrgebiet."
+        },
+        {
+          "title": "Hackademia",
+          "url": "https://hackademia.io/",
+          "startDate": "July 28",
+          "endDate": "July 29",
+          "year": "2018",
+          "city": "Los Angeles, CA, United States",
+          "host": "UCLA",
+          "length": "16",
+          "size": "200",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "unknown",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/hackademiala/",
+          "twitterURL": "https://twitter.com/HackademiaLA",
+          "googlePlusURL": "",
+          "notes": "Hackademia is Southern California’s first hackathon by high schoolers, for high schoolers."
         }
     ]
 }
