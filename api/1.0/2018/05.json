@@ -1,3 +1,25 @@
 {
-    "May": []
+    "May": [
+    
+         {
+          "title": "event0",
+          "url": "https://event0.org/",
+          "startDate": "May 19",
+          "endDate": "May 20",
+          "year": "2018",
+          "city": "Chicago, IL, United States",
+          "host": "ChiTech Academy",
+          "length": "24",
+          "size": "?",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "",
+          "twitterURL": "",
+          "googlePlusURL": "",
+          "notes": ""
+        }
+        
+    ]
 }
