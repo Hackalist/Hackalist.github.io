@@ -1,6 +1,25 @@
 {
     "July": [
         {
+          "title": "DO!Hack 2018",
+          "url": "https://dohack.io/",
+          "startDate": "July 20",
+          "endDate": "July 22",
+          "year": "2018",
+          "city": "Dortmund, NRW, Germany",
+          "host": "adesso AG",
+          "length": "24",
+          "size": "50",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/dohack.io/",
+          "twitterURL": "https://twitter.com/dohack_io",
+          "googlePlusURL": "",
+          "notes": "DO!Hack is an interdisciplinary hacking and prototyping event in the heart of the Ruhrgebiet."
+        },
+        {
           "title": "Hackademia",
           "url": "https://hackademia.io/",
           "startDate": "July 28",
