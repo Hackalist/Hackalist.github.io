@@ -20,6 +20,25 @@
           "notes": "DO!Hack is an interdisciplinary hacking and prototyping event in the heart of the Ruhrgebiet."
         },
         {
+          "title": "Hack Chicago",
+           "url": "https://hackchicago.io/",
+           "startDate": "June 22",
+           "endDate": "June 23",
+           "year": "2018",
+           "city": "Chicago, IL",
+           "host": "?",
+           "length": "24",
+           "size": "400+",
+           "travel": "no",
+           "prize": "yes",
+           "highSchoolers": "yes",
+           "cost": "free",
+           "facebookURL": "",
+           "twitterURL": "",
+           "googlePlusURL": "",
+           "notes": "Hack Chicago is the premier high school hackathon that looks to gather 300+ high school programmers throughout the Midwest for 24 hours of fun! All you need to worry about is building something awesome, and we’ll provide the rest - including mentors, sponsors, workshops and a great number of resources."
+        },
+        {
           "title": "Hackademia",
           "url": "https://hackademia.io/",
           "startDate": "July 28",
@@ -38,25 +57,5 @@
           "googlePlusURL": "",
           "notes": "Hackademia is Southern California’s first hackathon by high schoolers, for high schoolers."
         },
-        {
-          "title": "Hack Chicago",
-           "url": "https://hackchicago.io/",
-           "startDate": "June 22",
-           "endDate": "June 23",
-           "year": "2018",
-           "city": "Chicago, IL",
-           "host": "?",
-           "length": "24",
-           "size": "400+",
-           "travel": "no",
-           "prize": "yes",
-           "highSchoolers": "yes",
-           "cost": "free",
-           "facebookURL": "",
-           "twitterURL": "",
-           "googlePlusURL": "",
-           "notes": "Hack Chicago is the premier high school hackathon that looks to gather 300+ high school programmers throughout the Midwest for 24 hours of fun! All you need to worry about is building something awesome, and we’ll provide the rest - including mentors, sponsors, workshops and a great number of resources."
-        }
-        
     ]
 }
