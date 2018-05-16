@@ -1,25 +1,6 @@
 {
     "June": [
         {
-          "title": "HackPrague 2018",
-           "url": "http://hackprague.com/",
-           "startDate": "June 23",
-           "endDate": "June 24",
-           "year": "2018",
-           "city": "Prague, Czech Repulic",
-           "host": "HackPrague NGO",
-           "length": "36",
-           "size": "200",
-           "travel": "unknown",
-           "prize": "yes",
-           "highSchoolers": "unknown",
-           "cost": "free",
-           "facebookURL": "https://www.facebook.com/events/204992233429362/",
-           "twitterURL": "",
-           "googlePlusURL": "",
-           "notes": "Registrations are open until May 24th, so hurry up!"
-        },
-        {
           "title": "Hack for Change",
            "url": "http://atxhackforchange.org/",
            "startDate": "June 1",
@@ -75,6 +56,24 @@
            "twitterURL": "",
            "googlePlusURL": "",
            "notes": "The mission of Hackathon by the Sea-Girls Edition is to create a positive environment for girls to use technology, which will seed a lifelong interest in the field."
-        }
+        }        {
+          "title": "HackPrague 2018",
+           "url": "http://hackprague.com/",
+           "startDate": "June 23",
+           "endDate": "June 24",
+           "year": "2018",
+           "city": "Prague, Czech Repulic",
+           "host": "HackPrague NGO",
+           "length": "36",
+           "size": "200",
+           "travel": "unknown",
+           "prize": "yes",
+           "highSchoolers": "unknown",
+           "cost": "free",
+           "facebookURL": "https://www.facebook.com/events/204992233429362/",
+           "twitterURL": "",
+           "googlePlusURL": "",
+           "notes": "Registrations are open until May 24th, so hurry up!"
+        },
     ]
 }
