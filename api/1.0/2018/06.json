@@ -56,7 +56,8 @@
            "twitterURL": "",
            "googlePlusURL": "",
            "notes": "The mission of Hackathon by the Sea-Girls Edition is to create a positive environment for girls to use technology, which will seed a lifelong interest in the field."
-        }        {
+        },
+        {
           "title": "HackPrague 2018",
            "url": "http://hackprague.com/",
            "startDate": "June 23",
@@ -74,6 +75,6 @@
            "twitterURL": "",
            "googlePlusURL": "",
            "notes": "Registrations are open until May 24th, so hurry up!"
-        },
+        }
     ]
 }
