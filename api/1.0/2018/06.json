@@ -75,6 +75,25 @@
            "twitterURL": "",
            "googlePlusURL": "",
            "notes": "Registrations are open until May 24th, so hurry up!"
+        },
+        {
+          "title": "Women.Tech.Fab. (WTF)",
+          "url": "http://chargebee.com/wtf",
+          "startDate": "June 23",
+          "endDate": "June 24",
+          "year": "2018",
+          "city": "Chennai, India",
+          "host": "Chargebee Technologies",
+          "length": "36",
+          "size": "100",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "no",
+          "cost":"free",
+          "facebookURL": "",
+          "twitterURL": "",
+          "googlePlusURL": "",
+          "notes": "WTF is a hackathon run by women, for women, at Chargebee. We want to build the right platform to bring together the best minds in tech who can spot, solve, and spearhead like a boss."
         }
     ]
 }
