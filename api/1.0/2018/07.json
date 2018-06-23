@@ -1,6 +1,25 @@
 {
     "July": [
         {
+          "title": "Code For Cognitive Aid",
+          "url": "https://codeforcognitiveaid.wordpress.com/",
+          "startDate": "July 13",
+          "endDate": "July 15",
+          "year": "2018",
+          "city": "Portola Valley, California, USA",
+          "host": "Ramen Club",
+          "length": "26",
+          "size": "30",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "",
+          "twitterURL": "",
+          "googlePlusURL": "",
+          "notes": "Code For Cognitive Aid is a hackathon and makeathon in the SF Bay Area dedicated to creating solutions to cognitive disabilities."
+        },
+        {
           "title": "DO!Hack 2018",
           "url": "https://dohack.io/",
           "startDate": "July 20",
