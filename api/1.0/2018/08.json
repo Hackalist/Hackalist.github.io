@@ -1,0 +1,23 @@
+{
+    "August": [
+        {
+          "title": "Battlehack West",
+          "url": "https://hackwest.battlecode.org",
+          "startDate": "August 25",
+          "endDate": "August 26",
+          "year": "2018",
+          "city": "San Jose, CA, United States",
+          "host": "MIT Battlecode",
+          "length": "24",
+          "size": "200",
+          "travel": "unknown",
+          "prize": "yes",
+          "highSchoolers": "no",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/mit.battlecode",
+          "twitterURL": "",
+          "googlePlusURL": "",
+          "notes": "a 24 hour programming competition run by MIT Battlecode unlike any other, where participants write code that controls an army of virtual robots. Hack, code, and strategize your way to eternal glory."
+        }
+    ]
+}
