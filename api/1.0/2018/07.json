@@ -69,12 +69,12 @@
           "size": "200",
           "travel": "no",
           "prize": "yes",
-          "highSchoolers": "unknown",
+          "highSchoolers": "yes",
           "cost": "free",
           "facebookURL": "https://www.facebook.com/hackademiala/",
           "twitterURL": "https://twitter.com/HackademiaLA",
           "googlePlusURL": "",
-          "notes": "Hackademia is Southern California’s first hackathon by high schoolers, for high schoolers."
+          "notes": "Hackademia is Southern California’s first hackathon by high schoolers, for high schoolers. We will provide swag, mentors, and workshops to help you build something amazing!"
         }
     ]
 }
