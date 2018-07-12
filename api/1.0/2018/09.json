@@ -1,6 +1,25 @@
 {
     "September": [
         {
+          "title": "WyoHackathon 2018",
+          "url": "https://wyominghackathon.devpost.com/",
+          "startDate": "September 7",
+          "endDate": "September 9",
+          "year": "2018",
+          "city": "Laramie, WY, United States",
+          "host": "Wyoming Blockchain Coalition",
+          "length": "48",
+          "size": "400",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "no",
+          "cost":"free",
+          "facebookURL": "",
+          "twitterURL": "",
+          "googlePlusURL": "",
+          "notes": ""
+        },
+        {
           "title": "VolHacks",
           "url": "https://volhacks.org",
           "startDate": "September 28",
