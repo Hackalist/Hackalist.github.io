@@ -1,0 +1,23 @@
+{
+    "November": [
+        {
+          "title": "U-Hack Med 2018",
+          "url": "https://www.u-hackmed.org/",
+          "startDate": "November 9",
+          "endDate": "November 10",
+          "year": "2018",
+          "city": "Dallas, TX, United States",
+          "host": "UT Southwestern Medical Center Lyda Hill Department of Bioinformatics",
+          "length": "20",
+          "size": "unknown",
+          "travel": "no",
+          "prize": "unknown",
+          "highSchoolers": "no",
+          "cost": "free",
+          "facebookURL": "",
+          "twitterURL": "",
+          "googlePlusURL": "",
+          "notes": "We are looking for individuals from any background who have strong programming, mathematics or other computational skills to apply. Accepted applicants will be assigned to a multidisciplinary team of 5-7 individuals and will work together on pre-determined topics. "
+        }
+    ]
+}
