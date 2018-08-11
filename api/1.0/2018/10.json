@@ -1,0 +1,23 @@
+{
+  "October": [
+        {
+          "title": "Hackathon Download Innovation 2018",
+          "url": "https://download-event.io/en/hackathon-2/",
+          "startDate": "September 08",
+          "endDate": "September 09",
+          "year": "2018",
+          "city": "Bergamo, Italy",
+          "host": "Sorint.lab",
+          "length": "27",
+          "size": "50",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/downloadinnovation/",
+          "twitterURL": "https://twitter.com/sorintlab",
+          "googlePlusURL": "",
+          "notes": "10 teams with a maximum of 5 people each"
+        }
+    ]
+}
