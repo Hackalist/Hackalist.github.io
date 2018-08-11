@@ -39,6 +39,25 @@
             "notes": ""
         },
         {
+            "title": "MXHacks",
+            "url": "http://bytehacks.org/",
+            "startDate": "September 7",
+            "endDate": "September 9",
+            "year": "2018",
+            "city": "Mexico City, MX",
+            "host": "Universidad Nacional Autónoma de México",
+            "length": "48",
+            "size": "unknown",
+            "travel": "unknown",
+            "prize": "unknown",
+            "highSchoolers": "unknown",
+            "cost": "free",
+            "facebookURL": "https://www.facebook.com/MXHacks/",
+            "twitterURL": "https://twitter.com/mx_hacks",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
           "title": "WyoHackathon 2018",
           "url": "https://wyominghackathon.devpost.com/",
           "startDate": "September 7",
