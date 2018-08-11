@@ -1,0 +1,24 @@
+
+{
+    "October": [
+        {
+          "title": "InOut 5.0",
+          "url": "https://hackinout.co/",
+          "startDate": "October 12",
+          "endDate": "October 14",
+          "year": "2018",
+          "city": "Bangalore, Karnataka, India",
+          "host": "Cowrks, Bangalore",
+          "length": "30",
+          "size": "500",
+          "travel": "yes",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/hackinout/",
+          "twitterURL": "https://twitter.com/hackinoutco",
+          "googlePlusURL": "",
+          "notes": "Since its inception in 2015, InOut has been a platform where technology leaders and the brightest minds come together to collaborate on building tools that solve real problems. With big breakthroughs in the past four editions, our team is thrilled to host its fifth in the “Silicon Valley of India”, Bangalore."
+        }
+    ]
+}

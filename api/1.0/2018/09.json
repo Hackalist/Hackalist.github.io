@@ -58,6 +58,25 @@
             "notes": ""
         },
         {
+            "title": "PennApps",
+            "url": "http://2018f.pennapps.com/",
+            "startDate": "September 7",
+            "endDate": "September 9",
+            "year": "2018",
+            "city": "Philadepphia, PA, United States",
+            "host": "University of Pennsylvania",
+            "length": "48",
+            "size": "unknown",
+            "travel": "yes",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "https://www.facebook.com/pennapps",
+            "twitterURL": "https://twitter.com/pennapps",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
           "title": "WyoHackathon 2018",
           "url": "https://wyominghackathon.devpost.com/",
           "startDate": "September 7",
