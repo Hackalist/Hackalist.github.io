@@ -1,6 +1,25 @@
 {
     "August": [
         {
+          "title": "Hack The 6ix",
+          "url": "http://hackthe6ix.com",
+          "startDate": "August 24",
+          "endDate": "August 26",
+          "year": "2018",
+          "city": "Toronto, QC",
+          "host": "TopHat HQ",
+          "length": "48",
+          "size": "unknown",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/HackThe6ix/",
+          "twitterURL": "https://twitter.com/HackThe6ix",
+          "googlePlusURL": "",
+          "notes": ""
+        },
+        {
           "title": "Battlehack West",
           "url": "https://hackwest.battlecode.org",
           "startDate": "August 25",
