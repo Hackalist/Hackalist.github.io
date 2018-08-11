@@ -1,6 +1,25 @@
 {
     "September": [
         {
+            "title": "ByteHacks 2018",
+            "url": "http://bytehacks.org/",
+            "startDate": "September 1",
+            "endDate": "September 2",
+            "year": "2018",
+            "city": "New York, NY, United States",
+            "host": "ThoughtWorks NYC",
+            "length": "24",
+            "size": "unknown",
+            "travel": "unknown",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "https://www.facebook.com/GirlsMakeApps",
+            "twitterURL": "https://www.twitter.com/girlsmakeapps",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
           "title": "WyoHackathon 2018",
           "url": "https://wyominghackathon.devpost.com/",
           "startDate": "September 7",
