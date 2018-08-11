@@ -20,6 +20,25 @@
             "notes": ""
         },
         {
+            "title": "MedHacks",
+            "url": "http://MedHacks.org/2018",
+            "startDate": "September 7",
+            "endDate": "September 9",
+            "year": "2018",
+            "city": "Baltimore, MD, United States",
+            "host": "Johns Hopkins University - Medical Campus",
+            "length": "48",
+            "size": "unknown",
+            "travel": "yes",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "",
+            "twitterURL": "",
+            "googlePlusURL": "",
+            "notes": ""
+        },
+        {
           "title": "WyoHackathon 2018",
           "url": "https://wyominghackathon.devpost.com/",
           "startDate": "September 7",
