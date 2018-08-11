@@ -39,6 +39,25 @@
           "notes": "TeenHacks is a high school civic Hackathon open to teens 12-18 years in age, who are middle or high school students"
         },
         {
+          "title": "Hackathon Download Innovation 2018",
+          "url": "https://download-event.io/en/hackathon-2/",
+          "startDate": "September 8",
+          "endDate": "September 9",
+          "year": "2018",
+          "city": "Bergamo, Italy",
+          "host": "Sorint.lab",
+          "length": "27",
+          "size": "50",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/downloadinnovation/",
+          "twitterURL": "https://twitter.com/sorintlab",
+          "googlePlusURL": "",
+          "notes": "10 teams with a maximum of 5 people each"
+        },
+        {
           "title": "VolHacks",
           "url": "https://volhacks.org",
           "startDate": "September 28",
