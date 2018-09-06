@@ -1,19 +1,23 @@
 {
-"title": "Mercari Euro Hack 2018",
-"url": "https://challengerocket.com/mercari/",
-"startDate": "October 20",
-"endDate": "October 21",
-"year": "2018",
-"city": "Warsaw, Poland",
-"host": "Mercari, Inc.",
-"length": "24",
-"size": "unknown",
-"travel": "yes",
-"prize": "yes",
-"highSchoolers": "no",
-"cost": "free",
-"facebookURL": "",
-"twitterURL": "",
-"googlePlusURL": "",
-"notes": "Japan tech unicorn Mercari has landed in Europe and is calling all developers, hackers, designers and anyone interested to help solve challenges facing the Sharing Economy. Participants that take the Mercari Euro Hack will not only get the chance to win incredible cash prizes, but also all-expenses-paid trips to Japan. Travel and Accommodation support for all traveling outside of Warsaw"
+  "October":[
+    {
+      "title": "Mercari Euro Hack 2018",
+      "url": "https://challengerocket.com/mercari/",
+      "startDate": "October 20",
+      "endDate": "October 21",
+      "year": "2018",
+      "city": "Warsaw, Poland",
+      "host": "Mercari, Inc.",
+      "length": "24",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Japan tech unicorn Mercari has landed in Europe and is calling all developers, hackers, designers and anyone interested to help solve challenges facing the Sharing Economy. Participants that take the Mercari Euro Hack will not only get the chance to win incredible cash prizes, but also all-expenses-paid trips to Japan. Travel and Accommodation support for all traveling outside of Warsaw"
+      }
+    ]
 }
