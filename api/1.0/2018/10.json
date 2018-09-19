@@ -18,6 +18,25 @@
           "twitterURL": "https://twitter.com/sorintlab",
           "googlePlusURL": "",
           "notes": "10 teams with a maximum of 5 people each"
+        },
+        {
+          "title": "Wide Open Source Science",
+          "url": "http://thinkcompany.fi/wide/",
+          "startDate": "October 26",
+          "endDate": "October 28",
+          "year": "2018",
+          "city": "Helsinki, Finland",
+          "host": "University of Helsinki, CSC, National Library of Finland",
+          "length": "48",
+          "size": "100",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "unknown",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/events/308798243237140/",
+          "twitterURL": "https://twitter.com/HelsinkiThinkCo",
+          "googlePlusURL": "",
+          "notes": ""
         }
     ]
 }
