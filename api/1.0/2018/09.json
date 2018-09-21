@@ -151,6 +151,25 @@
           "twitterURL": "https://twitter.com/volhacks",
           "googlePlusURL": "",
           "notes": "The third annual VolHacks is open to individuals over 18 years in age, who are undergraduate or graduate students at a college or university, or who graduated within the last year."
-        }
+        },
+        {
+          "title": "Dog Hackathon",
+          "url": "https://rladies.org/event/dog-hackathon/",
+          "startDate": "September 29",
+          "endDate": "September 29",
+          "year": "2018",
+          "city": "London, United Kingdom",
+          "host": "R-Ladies",
+          "length": "10",
+          "size": "unknown",
+          "travel": "no",
+          "prize": "no",
+          "highSchoolers": "unknown",
+          "cost": "free",
+          "facebookURL": "",
+          "twitterURL": "https://twitter.com/RLadiesLondon",
+          "googlePlusURL": "",
+          "notes": "In collaboration with Dogs Trust"
+         }
     ]
 }
