@@ -1,25 +1,6 @@
 {
   "January": [
     {
-      "title": "MAHacks III", 
-       "url": "http://www.mahacks.com/",
-       "startDate": "January 13",
-       "endDate": "January 13",
-       "year": "2018",
-       "city": "Boston, Massachusetts, USA",
-       "host": "Upstatement",
-       "length": "12",
-       "size": "75",
-       "travel": "no",
-       "prize": "yes",
-       "highSchoolers": "yes",
-       "cost": "free",
-       "facebookURL": "https://www.facebook.com/mahacks",
-       "twitterURL": "",
-       "googlePlusURL": "",
-       "notes": "MAHacks III will be a 12-hour local hackathon event held at Upstatement in Boston. High school students and developers will have an opportunity to learn new skills in workshops and work together to create projects in their area of interest."
-    },
-    {
       "title": "SB Hacks IV", 
        "url": "https://www.sbhacks.com",
        "startDate": "January 19",
@@ -56,6 +37,25 @@
        "twitterURL": "https://twitter.com/shehacksboston/",
        "googlePlusURL": "",
        "notes": ""
+    },
+    {
+      "title": "BrickHack",
+      "url": "https://brickhack.io/",
+      "startDate": "January 27",
+      "endDate": "January 28",
+      "year": "2018",
+      "city": "Rochester, NY, United States",
+      "host": "Rochester Institute of Technology",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/brickhackrit",
+      "twitterURL": "https://twitter.com/brickhackrit",
+      "googlePlusURL": "",
+      "notes": ""
     },
     {
       "title": "DeltaHacks", 
