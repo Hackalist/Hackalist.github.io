@@ -134,6 +134,25 @@
           "notes": "10 teams with a maximum of 5 people each"
         },
         {
+          "title": "BASEHacks 3",
+          "url": "http://basehacks.org",
+          "startDate": "September 22",
+          "endDate": "September 23",
+          "year": "2018",
+          "city": "Fremont, California",
+          "host": "42 Silicon Valley",
+          "length": "30",
+          "size": "200",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/events/2185354971777146/",
+          "twitterURL": "https://twitter.com/BASEHacksTeam",
+          "googlePlusURL": "",
+          "notes": "Teams are 2-4 people. Hackathon is for High Schoolers in the Bay Area (Grades 9-12)."
+        },
+        {
           "title": "VolHacks",
           "url": "https://volhacks.org",
           "startDate": "September 28",
