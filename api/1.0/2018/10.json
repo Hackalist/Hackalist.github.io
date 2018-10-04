@@ -1,6 +1,25 @@
 {
   "October": [
         {
+          "title": "Devery Hackathon",
+          "url": "https://devery.io/hackathon",
+          "startDate": "October 02",
+          "endDate": "October 14",
+          "year": "2018",
+          "city": "Worldwide",
+          "host": "Devery",
+          "length": "336",
+          "size": "unknown",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "",
+          "twitterURL": "",
+          "googlePlusURL": "",
+          "notes": "The hackathon is online and all submissions will be on Github"
+        },
+        {
           "title": "InOut 5.0",
           "url": "https://hackinout.co/",
           "startDate": "October 12",
