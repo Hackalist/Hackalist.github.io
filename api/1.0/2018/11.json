@@ -18,6 +18,25 @@
           "twitterURL": "",
           "googlePlusURL": "",
           "notes": "We are looking for individuals from any background who have strong programming, mathematics or other computational skills to apply. Accepted applicants will be assigned to a multidisciplinary team of 5-7 individuals and will work together on pre-determined topics. "
+        },
+        {
+          "title": "Technica",
+          "url": "https://gotechnica.org/",
+          "startDate": "November 10",
+          "endDate": "November 11",
+          "year": "2018",
+          "city": "College Park, MD, United States",
+          "host": "University of Maryland, College Park",
+          "length": "24",
+          "size": "unknown",
+          "travel": "yes",
+          "prize": "unknown",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/gotechnica/",
+          "twitterURL": "https://twitter.com/gotechnica",
+          "googlePlusURL": "",
+          "notes": "Technica is an all-women hackathon that seeks to promote diversity in the tech world."
         }
     ]
 }
