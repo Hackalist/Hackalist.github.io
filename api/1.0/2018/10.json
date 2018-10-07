@@ -20,6 +20,25 @@
           "notes": "The hackathon is online and all submissions will be on Github"
         },
         {
+          "title": "HackUIowa",
+          "url": "https://hack.uiowa.edu",
+          "startDate": "October 06",
+          "endDate": "October 07",
+          "year": "2018",
+          "city": "Iowa City, Iowa, United States",
+          "host": "University of Iowa",
+          "length": "30",
+          "size": "200",
+          "travel": "yes",
+          "prize": "yes",
+          "highSchoolers": "no",
+          "cost": "free",
+          "facebookURL": "http://facebook.com/hackuiowa",
+          "twitterURL": "http://twitter.com/hackuiowa",
+          "googlePlusURL": "",
+          "notes": ""
+        },
+        {
           "title": "InOut 5.0",
           "url": "https://hackinout.co/",
           "startDate": "October 12",
