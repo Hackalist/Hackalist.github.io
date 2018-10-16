@@ -37,6 +37,25 @@
           "twitterURL": "https://twitter.com/gotechnica",
           "googlePlusURL": "",
           "notes": "Technica is an all-women hackathon that seeks to promote diversity in the tech world."
+        },
+        {
+          "title": "HackPrinceton 2018",
+          "url": "https://hackprinceton.com/",
+          "startDate": "November 9",
+          "endDate": "November 11",
+          "year": "2018",
+          "city": "Princeton, NJ, United States",
+          "host": "Princeton, Entrepreneurship Club",
+          "length": "48",
+          "size": "unknown",
+          "travel": "yes",
+          "prize": "yes",
+          "highSchoolers": "no",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/hackprinceton/?ref=br_rs",
+          "twitterURL": "https://twitter.com/HackPrinceton",
+          "googlePlusURL": "",
+          "notes": "Major League Hacking Event"
         }
     ]
 }
