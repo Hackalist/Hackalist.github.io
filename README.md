@@ -62,8 +62,6 @@ Please ensure your JSON syntax is correct before submitting. An easy way to chec
 * `facebookURL:` URL to official Facebook profile
 * `twitterURL:` URL to official Twitter profile
 * [DEPRECATED as of 10/16/2018] `googlePlusURL:` URL to official Google+ profile
-* [new] `instagramURL:` URL to official Instagram profile.
-* [new] `devPostURL:` URL to official Devpost hackathon listing.
 * `notes:` Any additional notes (limits to who can attend, special requirements, etc.)
 
 ## Listing Example
