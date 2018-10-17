@@ -16,7 +16,8 @@
           "cost": "free",
           "facebookURL": "",
           "twitterURL": "",
-          "googlePlusURL": "",
+          "instgramURL": "",
+          "devPostURL": "",
           "notes": "The hackathon is online and all submissions will be on Github"
         },
         {
@@ -35,7 +36,8 @@
           "cost": "free",
           "facebookURL": "http://facebook.com/hackuiowa",
           "twitterURL": "http://twitter.com/hackuiowa",
-          "googlePlusURL": "",
+          "instgramURL": "",
+          "devPostURL": "",
           "notes": ""
         },
         {
@@ -54,7 +56,8 @@
           "cost": "free",
           "facebookURL": "https://www.facebook.com/hackinout/",
           "twitterURL": "https://twitter.com/hackinoutco",
-          "googlePlusURL": "",
+          "instgramURL": "",
+          "devPostURL": "",
           "notes": "Since its inception in 2015, InOut has been a platform where technology leaders and the brightest minds come together to collaborate on building tools that solve real problems. With big breakthroughs in the past four editions, our team is thrilled to host its fifth in the “Silicon Valley of India”, Bangalore."
         },
         {
@@ -73,7 +76,8 @@
           "cost": "free",
           "facebookURL": "http://www.facebook.com/spaceappshsv",
           "twitterURL": "https://twitter.com/spaceappshsv",
-          "googlePlusURL": "",
+          "instgramURL": "",
+          "devPostURL": "",
           "notes": "Space Apps is an international hackathon that occurs over 48 hours in cities around the world. Because of citizens like you, we continue to grow each year. If you haven't already, join us to share ideas and engage with open data to address real-world problems, on Earth and in space. Work alone or with a team to solve challenges that could help change the world.   The 2018 Space Apps Huntsville Challenge is an opportunity for creative individuals to grow alongside Alabama’s cyber & startup community."
        
         },
@@ -93,7 +97,8 @@
           "cost":"free",
           "facebookURL": "",
           "twitterURL": "",
-          "googlePlusURL": "",
+          "instgramURL": "",
+          "devPostURL": "",
           "notes": "Japan tech unicorn Mercari has landed in Europe and is calling all developers, hackers, designers and anyone interested to help solve challenges facing the Sharing Economy. Participants that take the Mercari Euro Hack will not only get the chance to win incredible cash prizes, but also all-expenses-paid trips to Japan. Travel and Accommodation support for all traveling outside of Warsaw"
         },
         {
@@ -112,7 +117,8 @@
           "cost": "free",
           "facebookURL": "https://www.facebook.com/events/308798243237140/",
           "twitterURL": "https://twitter.com/HelsinkiThinkCo",
-          "googlePlusURL": "",
+          "instgramURL": "",
+          "devPostURL": "",
           "notes": ""
         }
     ]
