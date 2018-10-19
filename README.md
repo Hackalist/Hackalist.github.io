@@ -61,7 +61,7 @@ Please ensure your JSON syntax is correct before submitting. An easy way to chec
 * `cost:` Cost of the event *free* | *$10* | *€10* | *etc.*
 * `facebookURL:` URL to official Facebook profile
 * `twitterURL:` URL to official Twitter profile
-* `googlePlusURL:` URL to official Google+ profile
+* [DEPRECATED as of 10/16/2018] `googlePlusURL:` URL to official Google+ profile
 * `notes:` Any additional notes (limits to who can attend, special requirements, etc.)
 
 ## Listing Example
