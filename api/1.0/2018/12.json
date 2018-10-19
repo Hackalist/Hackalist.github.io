@@ -1,0 +1,25 @@
+{
+  "December" :
+  [
+    {
+      "title": "YHack 2018",
+      "url": "https://www.yhack.org/",
+      "startDate": "November 30",
+      "endDate": "December 2",
+      "year": "2018",
+      "city": "New Haven, CT, United States",
+      "host": "Yale University",
+      "length": "36",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/whyhackatyhack/",
+      "twitterURL": "https://twitter.com/YaleHack",
+      "instgramURL": "",
+      "devPostURL": "",
+      "notes": "Major League Hacking Event"
+    }
+  ]
+}
