@@ -1,0 +1,25 @@
+{
+  "February" :
+  [
+    {
+      "title": "TreeHacks",
+      "url": "https://www.treehacks.com/",
+      "startDate": "February 15",
+      "endDate": "February 17",
+      "year": "2019",
+      "city": "Stanford, CA, United States",
+      "host": "Stanford University",
+      "length": "36",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/treehacks/",
+      "twitterURL": "https://twitter.com/hackwithtrees",
+      "instgramURL": "",
+      "devPostURL": "",
+      "notes": "Major League Hacking Event"
+    }
+  ]
+}
