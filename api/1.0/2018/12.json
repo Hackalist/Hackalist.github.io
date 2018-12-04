@@ -20,6 +20,26 @@
       "instgramURL": "",
       "devPostURL": "",
       "notes": "Major League Hacking Event"
+    },
+    {
+      "title": "CloudAnswers Open Hackathon December 2018",
+      "url": "https://hackathon.cloudanswers.com/",
+      "startDate": "December 1",
+      "endDate": "December 31",
+      "year": "2018",
+      "city": "Online",
+      "host": "CloudAnswers",
+      "length": "744",
+      "size": "unknown",
+      "travel": "yes",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "instgramURL": "",
+      "devPostURL": "",
+      "notes": "Open source and focused on Salesforce.com"
     }
   ]
 }
