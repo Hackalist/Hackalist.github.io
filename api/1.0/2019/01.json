@@ -20,5 +20,43 @@
 "googlePlusURL": "",
 "notes": ""
     }
+    ,{
+"title": "Cyber Cup Designathon 2019",
+"url": "http://thecybercup.com/",
+"startDate": "January 9",
+"endDate": "January 10",
+"year": "2019",
+"city": "Noida, India",
+"host": "Amity School of Engineering and Technology",
+"length": "24",
+"size": "unknown",
+"travel": "no",
+"prize": "yes",
+"highSchoolers": "no",
+"cost":"free",
+"facebookURL": "",
+"twitterURL": "",
+"googlePlusURL": "",
+"notes": ""
+    },
+    {
+"title": "iHack 2019",
+"url": "https://www.ecell.in/esummit/ihack/",
+"startDate": "January 19",
+"endDate": "January 20",
+"year": "2019",
+"city": "Mumbai, India",
+"host": "E-Cell IIT Bombay",
+"length": "30",
+"size": "450",
+"travel": "no",
+"prize": "yes",
+"highSchoolers": "no",
+"cost":"free",
+"facebookURL": "",
+"twitterURL": "",
+"googlePlusURL": "",
+"notes": ""
+    }
   ]
 }

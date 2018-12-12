@@ -1,5 +1,24 @@
 {
   "March" :
   [
+    {
+"title": "HACK IN THE NORTH 2019",
+"url": "http://hackinthenorth.com/",
+"startDate": "March 29",
+"endDate": "March 31",
+"year": "2019",
+"city": "Allahabad, India",
+"host": "IIIT Allahabad",
+"length": "24",
+"size": "unknown",
+"travel": "no",
+"prize": "yes",
+"highSchoolers": "no",
+"cost":"free",
+"facebookURL": "",
+"twitterURL": "",
+"googlePlusURL": "",
+"notes": ""
+    }
   ]
 }
