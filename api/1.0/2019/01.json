@@ -20,5 +20,23 @@
 "googlePlusURL": "",
 "notes": ""
     }
+,{
+      "title": "AEC Hackathon 6.0 - Copenhagen",
+      "url": "https://aechackathon.com/copenhagen/",
+      "startDate": "January 25",
+      "endDate": "January 27",
+      "year": "2019",
+      "city": "Copenhagen, Denmark",
+      "host": "BLOXHUB, Bryghusgade 8, DK-1473 Copenhagen",
+      "length": "48",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "unknown",
+      "highSchoolers": "unknown",
+      "cost": "Built Environment Professional: 100 EUR, Tech Designer & Developer: EUR 35, Student: free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "notes": "The AEC (Architecture, Engineering, Construction) Hackathon was created to give those designing, building, and maintaining our built environment the opportunity to collaborate with cutting edge technologies and its developers and designers."
+    }
   ]
 }
