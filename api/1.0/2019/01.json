@@ -19,6 +19,25 @@
 "twitterURL": "",
 "googlePlusURL": "",
 "notes": ""
+    },
+    {
+"title": "Hack@Brown",
+"url": "http://2019.hackatbrown.org",
+"startDate": "January 26",
+"endDate": "January 27",
+"year": "2019",
+"city": "Providence, RI, United States",
+"host": "Brown University",
+"length": "24",
+"size": "500",
+"travel": "yes",
+"prize": "yes",
+"highSchoolers": "no",
+"cost": "free",
+"facebookURL": "https://www.facebook.com/hackatbrown/",
+"twitterURL": "https://twitter.com/hackatbrown",
+"googlePlusURL": "",
+"notes": "A beginner friendly all around good time :)"
     }
   ]
 }
