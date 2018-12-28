@@ -19,6 +19,25 @@
 "twitterURL": "",
 "googlePlusURL": "",
 "notes": ""
+    },
+    {
+      "title": "HACK36",
+      "url": "http://www.hack36.com/",
+      "startDate": "January 25",
+      "endDate": "January 27",
+      "year": "2019",
+      "city": "Prayagraj, Uttar Pradesh, India",
+      "host": "Motilal Nehru National Institute of Technology, Allahabad",
+      "length": "36",
+      "size": "100",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hack36mnnit/",
+      "twitterURL": "https://twitter.com/hack36mnnit/",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
