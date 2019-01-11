@@ -2,6 +2,26 @@
   "February" :
   [
     {
+      "title": "LaunchHacks",
+      "url": "https://launchhacks.tech/",
+      "startDate": "February 2",
+      "endDate": "February 3",
+      "year": "2019",
+      "city": "Fremont, CA, United States",
+      "host": "42 Silicon Valley",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/launchhacks/",
+      "instgramURL": "https://www.instagram.com/launch_hacks/",
+      "linkedinURL": "https://linkedin.com/company/launch-hacks",
+      "twitterURL": "",
+      "notes": ""
+    },
+    {
       "title": "TreeHacks",
       "url": "https://www.treehacks.com/",
       "startDate": "February 15",
