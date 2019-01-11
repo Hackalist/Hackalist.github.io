@@ -1,5 +1,24 @@
 {
   "March" :
   [
+    {
+      "title": "WhatTheHack Belgium 2019",
+      "url": "https://whatthehack.be/",
+      "startDate": "March 1",
+      "endDate": "March 2",
+      "year": "2019",
+      "city": "Leuven, Belgium",
+      "host": "Academics For Technology and Tobania",
+      "length": "24",
+      "size": "250",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost":"free",
+      "facebookURL": "https://www.facebook.com/events/1616242802008659/",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+      }
   ]
 }

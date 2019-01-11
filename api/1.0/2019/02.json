@@ -1,5 +1,5 @@
 {
-  "February" :
+  "February": 
   [
     {
       "title": "LaunchHacks",
@@ -40,6 +40,25 @@
       "instgramURL": "",
       "devPostURL": "",
       "notes": "Major League Hacking Event"
+    },
+    {
+      "title": "HackCU",
+      "url": "https://hackcu.org/",
+      "startDate": "February 23",
+      "endDate": "February 24",
+      "year": "2019",
+      "city": "Boulder, CO, United States",
+      "host": "University of Colorado Boulder",
+      "length": "24",
+      "size": "650",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HackCU/",
+      "twitterURL": "https://twitter.com/hackcu",
+      "googlePlusURL": "Please email your questions or comments to contact@hackcu.org",
+      "notes": ""
     }
   ]
 }
