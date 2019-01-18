@@ -19,6 +19,25 @@
 "twitterURL": "",
 "googlePlusURL": "",
 "notes": ""
-}
+},
+    {
+      "title": "RevolutionUC",
+      "url": "https://revolutionuc.com",
+      "startDate": "March 2",
+      "endDate": "March 3",
+      "year": "2019",
+      "city": "Cincinnati, OH, United States",
+      "host": "University of Cincinnati",
+      "length": "24",
+      "size": "300",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/RevolutionUC/",
+      "twitterURL": "https://twitter.com/Revolution_UC",
+      "googlePlusURL": "",
+      "notes": ""
+    }
   ]
 }
