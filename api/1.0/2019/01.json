@@ -38,8 +38,8 @@
       "twitterURL": "https://twitter.com/hack36mnnit/",
       "googlePlusURL": "",
       "notes": ""
-    }
-,{
+    },
+    {
       "title": "AEC Hackathon 6.0 - Copenhagen",
       "url": "https://aechackathon.com/copenhagen/",
       "startDate": "January 25",
@@ -56,6 +56,25 @@
       "facebookURL": "",
       "twitterURL": "",
       "notes": "The AEC (Architecture, Engineering, Construction) Hackathon was created to give those designing, building, and maintaining our built environment the opportunity to collaborate with cutting edge technologies and its developers and designers."
+    },
+    {
+    "title": "Hack@Brown",
+    "url": "http://2019.hackatbrown.org",
+    "startDate": "January 26",
+    "endDate": "January 27",
+    "year": "2019",
+    "city": "Providence, RI, United States",
+    "host": "Brown University",
+    "length": "24",
+    "size": "500",
+    "travel": "yes",
+    "prize": "yes",
+    "highSchoolers": "no",
+    "cost": "free",
+    "facebookURL": "https://www.facebook.com/hackatbrown/",
+    "twitterURL": "https://twitter.com/hackatbrown",
+    "googlePlusURL": "",
+    "notes": "A beginner friendly all around good time :)"
     }
   ]
 }
