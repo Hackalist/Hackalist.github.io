@@ -57,6 +57,25 @@
       "twitterURL": "https://twitter.com/hackOnLoad",
       "googlePlusURL": "",
       "notes": "A 30hrs intense, fun-filled, rewarding convergence of programmers, designers and developers to build something amazing."
+    },
+    {
+      "title": "DoHackJS2019",
+      "url": "https://dohack.io/",
+      "startDate": "March 23",
+      "endDate": "March 24",
+      "year": "2019",
+      "city": "Dortmund, Nordrhein-Westfalen, Germany",
+      "host": "adesso SE",
+      "length": "30",
+      "size": "50",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/dohack.io/",
+      "twitterURL": "https://twitter.com/dohack_io",
+      "googlePlusURL": "",
+      "notes": "A weekend JavaScript Hackathon in the Tech-Center of Germany the so called Ruhrpott"
     }
   ]
 }
