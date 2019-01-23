@@ -38,6 +38,25 @@
       "twitterURL": "https://twitter.com/Revolution_UC",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "OnLoad",
+      "url": "https://hackonload.com/",
+      "startDate": "March 23",
+      "endDate": "March 24",
+      "year": "2019",
+      "city": "Mysuru, Karnataka, India",
+      "host": "Vidyavardhaka College of Engineering",
+      "length": "30",
+      "size": "100",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackOnLoad",
+      "twitterURL": "https://twitter.com/hackOnLoad",
+      "googlePlusURL": "",
+      "notes": "A 30hrs intense, fun-filled, rewarding convergence of programmers, designers and developers to build something amazing."
     }
   ]
 }
