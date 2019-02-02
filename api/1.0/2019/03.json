@@ -2,7 +2,7 @@
   "March" :
   [
     {
-<<<<<<< HEAD
+
 "title": "HACK IN THE NORTH 2019",
 "url": "http://hackinthenorth.com/",
 "startDate": "March 29",
@@ -12,8 +12,9 @@
 "host": "IIIT Allahabad",
 "length": "24",
 "size": "unknown",
-=======
-"title": "WhatTheHack Belgium 2019",
+},
+
+{"title": "WhatTheHack Belgium 2019",
 "url": "https://whatthehack.be/",
 "startDate": "March 1",
 "endDate": "March 2",
@@ -22,17 +23,10 @@
 "host": "Academics For Technology and Tobania",
 "length": "24",
 "size": "250",
->>>>>>> e0c166e59c7bce29618246ad02a8bcad2c7a3702
 "travel": "no",
 "prize": "yes",
 "highSchoolers": "no",
 "cost":"free",
-<<<<<<< HEAD
-"facebookURL": "",
-"twitterURL": "",
-"googlePlusURL": "",
-"notes": ""
-=======
 "facebookURL": "https://www.facebook.com/events/1616242802008659/",
 "twitterURL": "",
 "googlePlusURL": "",
@@ -94,7 +88,6 @@
       "twitterURL": "https://twitter.com/dohack_io",
       "googlePlusURL": "",
       "notes": "A weekend JavaScript Hackathon in the Tech-Center of Germany the so called Ruhrpott"
->>>>>>> e0c166e59c7bce29618246ad02a8bcad2c7a3702
     }
   ]
 }
