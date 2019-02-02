@@ -2,6 +2,7 @@
   "March" :
   [
     {
+<<<<<<< HEAD
 "title": "HACK IN THE NORTH 2019",
 "url": "http://hackinthenorth.com/",
 "startDate": "March 29",
@@ -11,14 +12,89 @@
 "host": "IIIT Allahabad",
 "length": "24",
 "size": "unknown",
+=======
+"title": "WhatTheHack Belgium 2019",
+"url": "https://whatthehack.be/",
+"startDate": "March 1",
+"endDate": "March 2",
+"year": "2019",
+"city": "Leuven, Belgium",
+"host": "Academics For Technology and Tobania",
+"length": "24",
+"size": "250",
+>>>>>>> e0c166e59c7bce29618246ad02a8bcad2c7a3702
 "travel": "no",
 "prize": "yes",
 "highSchoolers": "no",
 "cost":"free",
+<<<<<<< HEAD
 "facebookURL": "",
 "twitterURL": "",
 "googlePlusURL": "",
 "notes": ""
+=======
+"facebookURL": "https://www.facebook.com/events/1616242802008659/",
+"twitterURL": "",
+"googlePlusURL": "",
+"notes": ""
+},
+    {
+      "title": "RevolutionUC",
+      "url": "https://revolutionuc.com",
+      "startDate": "March 2",
+      "endDate": "March 3",
+      "year": "2019",
+      "city": "Cincinnati, OH, United States",
+      "host": "University of Cincinnati",
+      "length": "24",
+      "size": "300",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/RevolutionUC/",
+      "twitterURL": "https://twitter.com/Revolution_UC",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
+      "title": "OnLoad",
+      "url": "https://hackonload.com/",
+      "startDate": "March 23",
+      "endDate": "March 24",
+      "year": "2019",
+      "city": "Mysuru, Karnataka, India",
+      "host": "Vidyavardhaka College of Engineering",
+      "length": "30",
+      "size": "100",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackOnLoad",
+      "twitterURL": "https://twitter.com/hackOnLoad",
+      "googlePlusURL": "",
+      "notes": "A 30hrs intense, fun-filled, rewarding convergence of programmers, designers and developers to build something amazing."
+    },
+    {
+      "title": "DoHackJS2019",
+      "url": "https://dohack.io/",
+      "startDate": "March 23",
+      "endDate": "March 24",
+      "year": "2019",
+      "city": "Dortmund, Nordrhein-Westfalen, Germany",
+      "host": "adesso SE",
+      "length": "30",
+      "size": "50",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/dohack.io/",
+      "twitterURL": "https://twitter.com/dohack_io",
+      "googlePlusURL": "",
+      "notes": "A weekend JavaScript Hackathon in the Tech-Center of Germany the so called Ruhrpott"
+>>>>>>> e0c166e59c7bce29618246ad02a8bcad2c7a3702
     }
   ]
 }
