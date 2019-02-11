@@ -20,6 +20,25 @@
       "notes": "Major League Hacking Event"
     },
     {
+      "title": "HackJA",
+      "url": "https://hackja.com/",
+      "startDate": "February 22",
+      "endDate": "February 23",
+      "year": "2019",
+      "city": "Edison, NJ, United States",
+      "host": "Junior Achievement of New Jersey",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackCU",
       "url": "https://hackcu.org/",
       "startDate": "February 23",
