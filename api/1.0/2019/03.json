@@ -76,6 +76,25 @@
       "twitterURL": "https://twitter.com/dohack_io",
       "googlePlusURL": "",
       "notes": "A weekend JavaScript Hackathon in the Tech-Center of Germany the so called Ruhrpott"
+    },
+    {
+      "title": "Denali Hacks",
+      "url": "http://denalihacks.com/",
+      "startDate": "March 30",
+      "endDate": "March 31",
+      "year": "2019",
+      "city": "Sunnyvale, CA, United States",
+      "host": "Summit Denali High School",
+      "length": "24",
+      "size": "100",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "A 24-hour weekend hackathon in the heart of the Silicon Valley."
     }
   ]
 }
