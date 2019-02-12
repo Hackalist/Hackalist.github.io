@@ -2,6 +2,25 @@
   "April" :
   [
     {
+        "title": "Smart Mobility Hackathon 2019",
+        "url": "http://www.ceehacks.com",
+        "startDate": "April 12",
+        "endDate": "April 14",
+        "year": "2019",
+        "city": "Prague, Czech Republic",
+        "host": "SKODA AUTO DigiLab",
+        "length": "48",
+        "size": "60",
+        "travel": "yes",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/ceehacks",
+        "twitterURL": "https://twitter.com/ceehacks_com",
+        "googlePlusURL": "",
+        "notes": "Form a three-member hacking team, pick a challenge and win 5.000 EUR or a partnership with one of our industry partners. Our mission is to shape the future of mobility, health and energy of cities in Europe."
+    },
+    {
       "title": "LaunchHacks I",
       "url": "https://launchhacks.tech/",
       "startDate": "April 20",
