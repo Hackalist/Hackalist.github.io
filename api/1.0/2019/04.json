@@ -1,6 +1,25 @@
 {
   "April" :
   [
+      {
+      "title": "HackSC",
+      "url": "https://hacksc.com",
+      "startDate": "April 12",
+      "endDate": "April 14",
+      "year": "2019",
+      "city": "Los Angeles, CA, United States",
+      "host": "University of Southern California",
+      "length": "24",
+      "size": "800",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/290482594997517/",
+      "instgramURL": "https://www.instagram.com/hackscofficial/",
+      "linkedinURL": "https://www.linkedin.com/company/hacksc/",
+      "notes":"The University of Southern California's premier Hackathon. Come join us and 800+ Hackers in DTLA, we got a penthouse."
+    },
     {
         "title": "Smart Mobility Hackathon 2019",
         "url": "http://www.ceehacks.com",
