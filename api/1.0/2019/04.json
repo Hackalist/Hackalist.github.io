@@ -1,6 +1,25 @@
 {
   "April" :
   [
+    {
+      "title": "The Global Hackathon - Los Angeles",
+      "url": "https://theglobalhackathon.com",
+      "startDate": "April 8",
+      "endDate": "April 8",
+      "year": "2019",
+      "city": "Los Angeles, CA, United States",
+      "host": "The Global Hackathon",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "http://www.facebook.com/theglobalhackathon",
+      "instgramURL": "https://www.instagram.com/theglobalhackathon/",
+      "linkedinURL": "http://www.linkedin.com/in/about",
+      "notes":"The Global Hackathon also known as TGH is the global event connecting developers, builders, designers and entrepreneurs.  Together we are creating impactful solutions and products leveraging powerful blockchain protocols."
+    },
       {
       "title": "HackSC",
       "url": "https://hacksc.com",
