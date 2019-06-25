@@ -1,5 +1,24 @@
 {
   "June" :
   [
+    {
+      "title": "Break the Fake Hackathon 2019 ",
+      "url": "https://www.breakthefakemovement.com/",
+      "startDate": "June 15",
+      "endDate": "June 15",
+      "year": "2019",
+      "city": "Kota Jakarta Selatan, Jakarta, Indonesia",
+      "host": "Break the Fake Movement",
+      "length": "9",
+      "size": "90",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/breakthefakeph/",
+      "twitterURL": "https://twitter.com/BreakTheFakePH",
+      "googlePlusURL": "",
+      "notes": "online hackathon. offline pitching"
+    }
   ]
 }

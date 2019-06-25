@@ -1,5 +1,24 @@
 {
   "August" :
   [
+    {
+      "title": "Break the Fake Hackathon 2019 ",
+      "url": "https://www.breakthefakemovement.com/",
+      "startDate": "August 17",
+      "endDate": "August 17",
+      "year": "2019",
+      "city": "Makati, Metro Manila, Philippines",
+      "host": "Break the Fake Movement",
+      "length": "9",
+      "size": "90",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/breakthefakeph/",
+      "twitterURL": "https://twitter.com/BreakTheFakePH",
+      "googlePlusURL": "",
+      "notes": "online hackathon. offline pitching"
+    }
   ]
 }

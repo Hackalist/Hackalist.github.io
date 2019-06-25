@@ -2,6 +2,25 @@
   "July" :
   [
     {
+      "title": "Break the Fake Hackathon 2019 ",
+      "url": "https://www.breakthefakemovement.com/",
+      "startDate": "July 13",
+      "endDate": "July 13",
+      "year": "2019",
+      "city": "Pantai Dalam, Kuala Lumpur, Malaysia",
+      "host": "Break the Fake Movement",
+      "length": "9",
+      "size": "90",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/breakthefakeph/",
+      "twitterURL": "https://twitter.com/BreakTheFakePH",
+      "googlePlusURL": "",
+      "notes": "online hackathon. offline pitching"
+    },
+    {
       "title": "JU Hackathon 2019 - Digital Bharat",
       "url": "https://www.juhackathon.in/",
       "startDate": "July 16",
