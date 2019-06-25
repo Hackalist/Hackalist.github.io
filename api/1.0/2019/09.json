@@ -1,5 +1,24 @@
 {
   "September" :
   [
+    {
+      "title": "DoHack2019",
+      "url": "https://dohack.io/",
+      "startDate": "September 27",
+      "endDate": "September 29",
+      "year": "2019",
+      "city": "Dortmund, Nordrhein-Westfalen, Germany",
+      "host": "adesso SE",
+      "length": "48",
+      "size": "100",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/dohack.io/",
+      "twitterURL": "https://twitter.com/dohack_io",
+      "googlePlusURL": "",
+      "notes": "A weekend Smart City Hackathon in the Tech-Center of Germany the so called Ruhrpott"
+    }
   ]
 }
