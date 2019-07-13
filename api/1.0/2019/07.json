@@ -2,6 +2,25 @@
   "July" :
   [
     {
+      "title": "Tiancai Cup",
+      "url": "https://tiancaicup.com",
+      "startDate": "July 11",
+      "endDate": "July 31",
+      "year": "2019",
+      "city": "online",
+      "host": "Tiancai x Alibaba Cloud",
+      "length": "480",
+      "size": "1000",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/tiancaicup",
+      "twitterURL": "https://twitter.com/TiancaiCup",
+      "googlePlusURL": "",
+      "notes": "Online Hackathon, HKD $200,000+ prize"
+    },
+    {
       "title": "Break the Fake Hackathon 2019 ",
       "url": "https://www.breakthefakemovement.com/",
       "startDate": "July 13",
