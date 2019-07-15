@@ -2,6 +2,25 @@
   "July" :
   [
     {
+      "title": "Repl.it Music Hackathon",
+      "url": "https://repl.it/jam",
+      "startDate": "July 1",
+      "endDate": "July 22",
+      "year": "2019",
+      "city": "Online",
+      "host": "Repl.it",
+      "length": "528",
+      "size": "Unlimited",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/repl.it/",
+      "twitterURL": "https://twitter.com/replit",
+      "googlePlusURL": "",
+      "notes": "Online hackathon sponsored by Make School and judged by Tom Lehman (CEO of Genius). Make a music-related project on Repl.it for a chance to win $5000!"
+    },
+    {
       "title": "Break the Fake Hackathon 2019 ",
       "url": "https://www.breakthefakemovement.com/",
       "startDate": "July 13",
