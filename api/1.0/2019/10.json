@@ -1,5 +1,24 @@
 {
   "October" :
   [
+    {
+      "title": "InOut 6.0",
+      "url": "https://hackinout.co/",
+      "startDate": "October 19",
+      "endDate": "October 20",
+      "year": "2019",
+      "city": "Bangalore, India",
+      "host": "Devfolio",
+      "length": "48",
+      "size": "500",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackinout/",
+      "twitterURL": "https://twitter.com/hackinoutco",
+      "googlePlusURL": "",
+      "notes": "The conference on the first day is open for all to attend by purchasing free tickets through the website."
+    }
   ]
 }
