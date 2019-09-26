@@ -19,6 +19,26 @@
       "twitterURL": "https://twitter.com/hackinoutco",
       "googlePlusURL": "",
       "notes": "The conference on the first day is open for all to attend by purchasing free tickets through the website."
+    },
+    {
+      "title": "Game Oasis Hackathon San Francisco",
+      "url": "https://gameoasis.info/",
+      "startDate": "October 25",
+      "endDate": "October 27",
+      "year": "2019",
+      "city": "San Francisco, CA, United State",
+      "host": "Celer Network, Binance Labs, etc.",
+      "length": "48",
+      "size": "100",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/CelerNetwork",
+      "googlePlusURL": "",
+      "notes": "Game Oasis Hackathon is a global gaming hackathon, where gaming meets blockchain! The event is designed for all game developers, no blockchain experience is needed."
     }
+    
   ]
 }
