@@ -29,6 +29,7 @@ Projects Using Hackalist's API
 * [Mapathon - Mapping Hackathons](http://mding5692.github.io/mapathon/prototype.html) by [Michael Ding](https://github.com/mding5692)
 * [CoderCalendar](https://github.com/nishanthvijayan/CoderCalendar), an Android app, Chrome extension, and Firefox add-on that lists upcoming coding contests and allows users to easily add them to their Google Calendar.
 * [HackathonHowFar](https://github.com/JoshuaRLiArchives/HackathonHowFar), a small Python script that outputs distance + driving time to a currently available hackathon from a given origin location.
+* [Hacks](https://github.com/waseem18/Hacks), a Linux terminal client to find upcoming Hackathons near you or at a particular location.
 
 API
 =================================
