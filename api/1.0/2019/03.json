@@ -51,6 +51,26 @@
       "googlePlusURL": "",
       "notes": ""
     },
+     {
+      "title": "safety days 2019",
+      "url": "https://safetydays.de",
+      "startDate": "March, 22",
+      "endDate": "March, 24",
+      "year": "2019",
+      "city": "Paderborn, NRW, Germany",
+      "host": "University of Paderborn",
+      "length": "48",
+      "size": "50",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "20€",
+      "facebookURL": "https://www.facebook.com/safetyldays/",
+      "instgramURL": "https://www.instagram.com/safety_days/",
+      "linkedinURL": "",
+      "twitterURL": "https://twitter.com/safety_days",
+      "notes": "Information technology meets Civil Safety. The days are interdisciplinary and aimed at decision-makers and civil emergency response personnel as well as IT professionals and amateurs, researchers, students and other interested parties."
+   },
     {
       "title": "OnLoad",
       "url": "https://hackonload.com/",
@@ -88,6 +108,25 @@
       "twitterURL": "https://twitter.com/dohack_io",
       "googlePlusURL": "",
       "notes": "A weekend JavaScript Hackathon in the Tech-Center of Germany the so called Ruhrpott"
+    },
+    {
+      "title": "Denali Hacks",
+      "url": "http://denalihacks.com/",
+      "startDate": "March 30",
+      "endDate": "March 31",
+      "year": "2019",
+      "city": "Sunnyvale, CA, United States",
+      "host": "Summit Denali High School",
+      "length": "24",
+      "size": "100",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "A 24-hour weekend hackathon in the heart of the Silicon Valley."
     }
   ]
 }

@@ -1,5 +1,24 @@
 {
-  "February": [{
+  "February": [
+    {
+      "title": "Alexa Skills for Students",
+      "url": "https://awseducate.devpost.com/",
+      "startDate": "February 14",
+      "endDate": "April 1",
+      "year": "2019",
+      "city": "Virtual",
+      "host": "AWS Educate",
+      "length": "46 days to submit",
+      "size": "1000",
+      "travel": "N/A",
+      "prize": "yes",
+      "highSchoolers": "No",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/2356259987988186/",
+      "twitterURL": "https://twitter.com/AWS_edu/status/1090311365217210368",
+      "notes": "$31,390 in prizes: Amazon Alexa Skills Challenge Trophy, AWS DeepRacer car, $500 Amazon gift cards, Amazon Echo Spots and Dots, Phone meetings with AWS Educate Founder and Global Lead, Skills highlighted on AWS Educate Site and more!"
+    },
+    {
       "title": "TreeHacks",
       "url": "https://www.treehacks.com/",
       "startDate": "February 15",
@@ -18,6 +37,25 @@
       "instgramURL": "",
       "devPostURL": "",
       "notes": "Major League Hacking Event"
+    },
+    {
+      "title": "HackJA",
+      "url": "https://hackja.com/",
+      "startDate": "February 22",
+      "endDate": "February 23",
+      "year": "2019",
+      "city": "Edison, NJ, United States",
+      "host": "Junior Achievement of New Jersey",
+      "length": "24",
+      "size": "unknown",
+      "travel": "unknown",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": ""
     },
     {
       "title": "HackCU",
