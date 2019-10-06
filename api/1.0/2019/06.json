@@ -20,5 +20,24 @@
       "googlePlusURL": "",
       "notes": "online hackathon. offline pitching"
     }
+{
+  "title": "Decentralized Web Hackathon",
+  "url": "https://web3hack.dev/",
+  "startDate": "June 22",
+  "endDate": "June 23",
+  "year": "2019",
+  "city": "Minsk, Belarus",
+  "host": "Imaguru",
+  "length": "48",
+  "size": "100",
+  "travel": "no",
+  "prize": "yes",
+  "highSchoolers": "unknown",
+  "cost": "free",
+  "facebookURL": "https://www.facebook.com/events/2224106747682795/",
+  "twitterURL": "https://twitter.com/Fluence_One",
+  "googlePlusURL": "",
+  "notes": "Join us for two days of non-stop hacking and rapid prototyping where you will be able to build your application using a permanent decentralized storage (Arweave) and a scalable decentralized cloud (Fluence). Overcome the blockchain limits: build a scalable DEX, a global multiplayer game, a decentralized messaging service or a social network which will be immediately ready for massive usage."
+}
   ]
 }
