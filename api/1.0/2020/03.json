@@ -1,0 +1,23 @@
+{
+  "March" :
+  [
+    {
+      "title": "HackTJ 7.0",
+      "url": "https://hacktj.org/",
+      "startDate": "March 21",
+      "endDate": "March 22",
+      "year": "2020",
+      "city": "Alexandria, VA, United States",
+      "host": "Thomas Jefferson High School for Science and Technology",
+      "length": "24",
+      "size": "500",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HackTJ/",
+      "twitterURL": "https://twitter.com/HackTJOfficial",
+      "notes": "only for high-schoolers"
+    }
+  ]
+}
