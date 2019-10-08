@@ -94,6 +94,25 @@
           "twitterURL": "",
           "googlePlusURL": "",
           "notes": "WTF is a hackathon run by women, for women, at Chargebee. We want to build the right platform to bring together the best minds in tech who can spot, solve, and spearhead like a boss."
+        },
+        {
+          "title": "OpenSC Hackathon 2018",
+          "url": "https://data.openupstate.org/organization/opensc-hackathon",
+          "startDate": "June 30",
+          "endDate": "June 30",
+          "year": "2018",
+          "city": "Greenville, South Carolina",
+          "host": "Openworks",
+          "length": "24",
+          "size": "100",
+          "travel": "no",
+          "prize": "no",
+          "highSchoolers": "no",
+          "cost":"free",
+          "facebookURL": "",
+          "twitterURL": "",
+          "googlePlusURL": "",
+          "notes": "Annual hackathon for the Greater Greenville, SC area."
         }
     ]
 }
