@@ -1,0 +1,23 @@
+{
+    "February" :
+    [
+      {
+        "title": "RevolutionUC",
+        "url": "https://revolutionuc.com",
+        "startDate": "February 22",
+        "endDate": "February 23",
+        "year": "2020",
+        "city": "Cincinnati, OH, United States",
+        "host": "University of Cincinnati",
+        "length": "24",
+        "size": "350",
+        "travel": "yes",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/RevolutionUC",
+        "twitterURL": "https://twitter.com/Revolution_UC",
+        "notes": ""
+      }
+    ]
+  }
