@@ -1,0 +1,22 @@
+{
+    "January" :
+    [
+      {
+        "title": "HackSC",
+        "url": "https://hacksc.com/",
+        "startDate": "January 31",
+        "endDate": "February 2",
+        "year": "2020",
+        "city": "Los Angeles, CA, United States",
+        "host": "University of Southern California",
+        "length": "36",
+        "size": "800",
+        "travel": "yes",
+        "prize": "yes",
+        "highSchoolers": "no",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/hackscofficial/",
+        "notes": ""
+      }
+    ]
+  }
