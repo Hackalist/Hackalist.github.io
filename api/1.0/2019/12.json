@@ -1,5 +1,23 @@
 {
   "December" :
   [
+    {
+      "title": "SPARK Hacks",
+      "url": "https://www.eventbrite.ca/e/spark-hackathon-2019-tickets-77251211453",
+      "startDate": "December 13",
+      "endDate": "December 14",
+      "year": "2019",
+      "city": "Toronto",
+      "host": "SPARK Hacks",
+      "length": "24 hours",
+      "size": "200",
+      "travel": "N/A",
+      "prize": "yes",
+      "highSchoolers": "Yes",
+      "cost": "$27.54",
+      "facebookURL": "https://www.facebook.com/events/415249972735038/",
+      "twitterURL": "None",
+      "notes": "High School Hackathon with a prize worth $1000! Use code SPARKHannah for $5 off registration fee."
+     }
   ]
 }
