@@ -18,6 +18,24 @@
         "facebookURL": "https://www.facebook.com/RevolutionUC",
         "twitterURL": "https://twitter.com/Revolution_UC",
         "notes": ""
-      }
+      },
+    {
+      "title": "OnLoad",
+      "url": "https://hackonload.com/",
+      "startDate": "February 28",
+      "endDate": "March 1",
+      "year": "2020",
+      "city": "Mysuru, Karnataka, India",
+      "host": "Vidyavardhaka College of Engineering",
+      "length": "36",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackOnLoad",
+      "twitterURL": "https://twitter.com/hackOnLoad",
+      "notes": "A 36hrs intense, fun-filled, rewarding convergence of programmers, designers and developers to build something amazing. OnLoad 2.0 gives you the opportunity to learn, to build, to network, and win amazing prizes and cool schwag. If you plan to let loose over a weekend and wish to learn something simultaneously, apply now!"
+    }
     ]
   }
