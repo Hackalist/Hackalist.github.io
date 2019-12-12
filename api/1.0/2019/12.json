@@ -18,6 +18,25 @@
       "facebookURL": "https://www.facebook.com/events/415249972735038/",
       "twitterURL": "None",
       "notes": "High School Hackathon with a prize worth $1000! Use code SPARKHannah for $5 off registration fee."
-     }
+     },
+     {
+        "title": "Pragyan Hackathon",
+        "url": "https://pragyanhackathon.hackerearth.com//",
+        "startDate": "December 21",
+        "endDate": "December 22",
+        "year": "2019",
+        "city": "Bangalore",
+        "host": "NIT Trichy",
+        "length": "30",
+        "size": "unknown",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "INR 500",
+        "facebookURL": "https://www.facebook.com/pragyan.nitt/",
+        "twitterURL": "https://www.facebook.com/pragyan.nitt/",
+        "googlePlusURL": "",
+        "notes": ""
+      }
   ]
 }
