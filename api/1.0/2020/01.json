@@ -1,22 +1,39 @@
 {
-    "January" :
-    [
-      {
-        "title": "HackSC",
-        "url": "https://hacksc.com/",
-        "startDate": "January 31",
-        "endDate": "February 2",
-        "year": "2020",
-        "city": "Los Angeles, CA, United States",
-        "host": "University of Southern California",
-        "length": "36",
-        "size": "800",
-        "travel": "yes",
-        "prize": "yes",
-        "highSchoolers": "no",
-        "cost": "free",
-        "facebookURL": "https://www.facebook.com/hackscofficial/",
-        "notes": ""
-      }
+    "January": [
+        {
+            "title": "HackSC",
+            "url": "https://hacksc.com/",
+            "startDate": "January 31",
+            "endDate": "February 2",
+            "year": "2020",
+            "city": "Los Angeles, CA, United States",
+            "host": "University of Southern California",
+            "length": "36",
+            "size": "800",
+            "travel": "yes",
+            "prize": "yes",
+            "highSchoolers": "no",
+            "cost": "free",
+            "facebookURL": "https://www.facebook.com/hackscofficial/",
+            "notes": ""
+        },
+        {
+            "title": "HackVSIT 3rd Edition",
+            "url": "https://hack-vsit.tech",
+            "startDate": "January 31",
+            "endDate": "February 1",
+            "year": "2020",
+            "city": "New Delhi, India",
+            "host": "Vivekananda Institute of Professional Studies, Pitampura",
+            "length": 24,
+            "size": "Unknown",
+            "travel": "unknown",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "https://facebook.com/vipsace/",
+            "twitterURL": "https://twitter.com/VIPS_ACE",
+            "notes": "College Students and Senior Secondary HighSchoolers are allowed to attend"
+        }
     ]
-  }
+}
