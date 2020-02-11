@@ -18,6 +18,24 @@
       "facebookURL": "https://www.facebook.com/HackTJ/",
       "twitterURL": "https://twitter.com/HackTJOfficial",
       "notes": "only for high-schoolers"
+    },
+    {
+      "title": "From Farm to Fork | DeepHack Groningen 2020",
+      "url": "https://ultrahack.org/groningenhack2020?utm_source=crosspromo&utm_medium=hackathonsites&utm_campaign=groningenhack2020",
+      "startDate": "March 13",
+      "endDate": "March 15",
+      "year": "2020",
+      "city": "Groningen, Netherlands",
+      "host": "Ultrahack, EIT Digital, EIT Health, EIT Food, University of Groningen, Hanze UAS, KPN, TNO, NDC",
+      "length": "48",
+      "size": "100",
+      "travel": "yes",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/ultrahackhq/",
+      "twitterURL": "https://twitter.com/UltrahackHQ",
+      "notes": "Application deadline: 28 February, 2020. 23:59 EST"
     }
   ]
 }
