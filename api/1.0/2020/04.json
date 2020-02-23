@@ -1,0 +1,23 @@
+{
+  "March" :
+  [
+    {
+      "title": "HackAttack",
+      "url": "https://hackattack.tech/",
+      "startDate": "March 21",
+      "endDate": "March 22",
+      "year": "2020",
+      "city": "Sacramento, CA, United States",
+      "host": "HackAttack",
+      "length": "24",
+      "size": "120",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "notes": "only for high-schoolers"
+    }
+  ]
+}
