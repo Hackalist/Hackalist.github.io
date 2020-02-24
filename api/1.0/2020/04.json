@@ -1,0 +1,24 @@
+ 
+{
+  "April" :
+  [
+    {
+      "title": "HackNU2020",
+      "url": "https://hacknu.kz/",
+      "startDate": "April 4",
+      "endDate": "April 5",
+      "year": "2020",
+      "city": "Nur-Sultan, Kazakhstan",
+      "host": "Nazarbayev University",
+      "length": "24",
+      "size": "200-300",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "instagramURL": "http://instagram.com/hacknu2020",
+      "telegramURL": "https://t.me/HackNUinfo",
+      "notes": "only for undergraduate/graduate students"
+    }
+  ]
+}
