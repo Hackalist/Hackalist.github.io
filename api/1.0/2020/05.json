@@ -1,5 +1,5 @@
 {
-  "March" :
+  "March":
   [
     {
       "title": "HackAttack",
@@ -13,6 +13,8 @@
       "size": "120",
       "travel": "no",
       "prize": "yes",
+      "twitterUrl": "",
+      "facebookUrl": "",
       "highSchoolers": "yes",
       "cost": "free",
       "notes": "only for high-schoolers"
