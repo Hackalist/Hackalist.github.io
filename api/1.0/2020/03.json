@@ -18,6 +18,24 @@
       "facebookURL": "https://www.facebook.com/HackTJ/",
       "twitterURL": "https://twitter.com/HackTJOfficial",
       "notes": "only for high-schoolers"
+    },
+    {
+      "title": "HackAttack",
+      "url": "https://hackattack.tech/",
+      "startDate": "March 21",
+      "endDate": "March 22",
+      "year": "2020",
+      "city": "Sacramento, CA, United States",
+      "host": "HackAttack",
+      "length": "24",
+      "size": "120",
+      "travel": "no",
+      "prize": "yes",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "notes": "only for high-schoolers"
     }
   ]
 }
