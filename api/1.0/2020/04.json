@@ -1,4 +1,4 @@
- 
+
 {
   "April" :
   [
@@ -19,6 +19,24 @@
       "instagramURL": "http://instagram.com/hacknu2020",
       "telegramURL": "https://t.me/HackNUinfo",
       "notes": "only for undergraduate/graduate students"
+    },
+    {
+      "title": "HR Hackathon 2020 online",
+      "url": "https://hrhackathon.net",
+      "startDate": "April 17",
+      "endDate": "April 19",
+      "year": "2020",
+      "city": "Berlin / Worldwide / Online",
+      "host": "Eva Zils, online-recruiting.net",
+      "length": "72",
+      "size": "unlimited",
+      "travel": "no, virtual",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free/donation",
+      "instagramURL": "https://hrhackathon.net",
+      "telegramURL": "https://hrhackathon.net",
+      "notes": "Please register here: https://www.eventbrite.com/e/hr-hackathon-online-create-hr-tech-in-light-of-the-covid-19-crisis-tickets-101037634284?aff=hackalist"
     }
   ]
 }
