@@ -55,6 +55,23 @@
       "instagramURL": "https://twitter.com/HR_Hackathon",
       "telegramURL": "https://hrhackathon.net",
       "notes": "Please register here: https://www.eventbrite.com/e/hr-hackathon-online-create-hr-tech-in-light-of-the-covid-19-crisis-tickets-101037634284?aff=hackalist"
+    },
+    {
+      "title": "Cross-Chain Hackathon",
+      "url": "https://gitcoin.co/hackathon/cross-chain/onboard",
+      "startDate": "April 20",
+      "endDate": "May 11",
+      "year": "2020",
+      "city": "Online",
+      "host": "Cosmos, Gitcoin",
+      "length": "492",
+      "size": "unlimited",
+      "travel": "no, virtual",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "twitterURL": "https://twitter.com/gitcoin",
+      "notes": "The Hackathon is open to anyone!"
     }
   ]
 }
