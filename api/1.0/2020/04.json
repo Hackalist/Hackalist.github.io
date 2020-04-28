@@ -55,6 +55,24 @@
       "instagramURL": "https://twitter.com/HR_Hackathon",
       "telegramURL": "https://hrhackathon.net",
       "notes": "Please register here: https://www.eventbrite.com/e/hr-hackathon-online-create-hr-tech-in-light-of-the-covid-19-crisis-tickets-101037634284?aff=hackalist"
+    },
+    {
+      "title": "Hackaroma 2020 online",
+      "url": "https://aromajoin.com/hackaroma",
+      "startDate": "May 12",
+      "endDate": "May 24",
+      "year": "2020",
+      "city": "US/ Japan/ Online",
+      "host": "Aromajoin, aromajoin.com",
+      "length": "288",
+      "size": "unlimited",
+      "travel": "no, virtual",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free/donation",
+      "instagramURL": "",
+      "telegramURL": "",
+      "notes": "Please register here: https://aromajoin.com/hackaroma?utm_source=hackalist&utm_medium=post&utm_campaign=hackaroma"
     }
   ]
 }
