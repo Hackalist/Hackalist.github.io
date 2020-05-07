@@ -1,0 +1,23 @@
+{
+  "May" :
+  [
+    {
+      "title": "New York Blockchain Week",
+      "url": "https://gitcoin.co/hackathon/new-york-blockchain-week/onboard",
+      "startDate": "May 06",
+      "endDate": "May 27",
+      "year": "2020",
+      "city": "Online",
+      "host": "AAVE, Gitcoin",
+      "length": "504",
+      "size": "unlimited",
+      "travel": "no, virtual",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "instagramURL": "",
+      "telegramURL": "",
+      "notes": "The hackathon is open to anyone"
+    }
+  ]
+}
