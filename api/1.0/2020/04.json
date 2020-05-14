@@ -73,6 +73,24 @@
       "instagramURL": "",
       "telegramURL": "",
       "notes": "Please register here: https://aromajoin.com/hackaroma?utm_source=hackalist&utm_medium=post&utm_campaign=hackaroma"
+    },
+    {
+      "title": "Clarity Hackathon",
+      "url": "https://community.blockstack.org/clarity-hackathon",
+      "startDate": "May 14",
+      "endDate": "June 30",
+      "year": "2020",
+      "city": "Worldwide",
+      "host": "Blockstack, http://blockstack.org/",
+      "length": "1128",
+      "size": "unlimited",
+      "travel": "no, virtual",
+      "prize": "yes",
+      "highSchoolers": "yes, if above 18 years of age",
+      "cost": "free/donation",
+      "instagramURL": "N/A",
+      "telegramURL": "https://t.me/BlockstackChat",
+      "notes": "Please register here: https://gitcoin.co/hackathon/clarity/onboard"
     }
   ]
 }
