@@ -2,14 +2,14 @@
   "May" :
   [
     {
-      "title": "New York Blockchain Week",
-      "url": "https://gitcoin.co/hackathon/new-york-blockchain-week/onboard",
-      "startDate": "May 06",
-      "endDate": "May 27",
+      "title": "Palette",
+      "url": "https://palette.ieeevit.org/",
+      "startDate": "May 22",
+      "endDate": "May 23",
       "year": "2020",
       "city": "Online",
-      "host": "AAVE, Gitcoin",
-      "length": "504",
+      "host": "IEEE-VIT",
+      "length": "36",
       "size": "unlimited",
       "travel": "no",
       "prize": "yes",
@@ -17,7 +17,7 @@
       "cost": "free",
       "instagramURL": "",
       "telegramURL": "",
-      "notes": "The hackathon is open to anyone"
+      "notes": "A 36 hour long free-for-all design hackathon"
     }
   ]
 }
