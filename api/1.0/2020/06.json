@@ -1,4 +1,23 @@
 {
   "June" :
-  []
+  [
+    {
+      "title": "Farm to Fork Online DeepHack",
+      "url": "https://ultrahack.org/FarmToFork?utm_source=hackathon&utm_medium=websites&utm_campaign=f2f-onl",
+      "startDate": "June 05",
+      "endDate": "June 07",
+      "year": "2020",
+      "city": "Online",
+      "host": "Ultrahack, EIT Digital",
+      "length": "48",
+      "size": "unlimited",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "instagramURL": "https://www.instagram.com/ultrahackhq/",
+      "telegramURL": "",
+      "notes": "The hackathon is Online and Open for Everyone"
+    }
+  ]
 }
