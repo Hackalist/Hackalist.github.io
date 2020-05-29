@@ -37,6 +37,24 @@
       "instagramURL": "",
       "telegramURL": "",
       "notes": "A 36 hour long free-for-all design hackathon"
+    },
+    {
+      "title": "GitxChange",
+      "url": "https://gitcoin.co/hackathon/GitxChange/onboard",
+      "startDate": "May 7",
+      "endDate": "June 10",
+      "year": "2020",
+      "city": "Online",
+      "host": "RadicalxChange",
+      "length": "336",
+      "size": "unlimited",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "instagramURL": "",
+      "telegramURL": "",
+      "notes": "Check out the prizes and register to join educational workshops!"
     }
   ]
 }
