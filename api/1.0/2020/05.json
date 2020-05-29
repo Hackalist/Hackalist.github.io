@@ -21,24 +21,6 @@
       "notes": "Let's face it, the deadly COVID-19 is spreading exponentially and is causing havoc in our lives. Social distancing and wearing face masks are the only effective strategy against it. You as data scientists have a chance to play a key role in this battle."
     },
     {
-      "title": "Palette",
-      "url": "https://palette.ieeevit.org/",
-      "startDate": "May 22",
-      "endDate": "May 23",
-      "year": "2020",
-      "city": "Online",
-      "host": "IEEE-VIT",
-      "length": "36",
-      "size": "unlimited",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "instagramURL": "",
-      "telegramURL": "",
-      "notes": "A 36 hour long free-for-all design hackathon"
-    },
-    {
       "title": "GitxChange",
       "url": "https://gitcoin.co/hackathon/GitxChange/onboard",
       "startDate": "May 7",
@@ -55,6 +37,24 @@
       "instagramURL": "",
       "telegramURL": "",
       "notes": "Check out the prizes and register to join educational workshops!"
+    },
+    {
+      "title": "Palette",
+      "url": "https://palette.ieeevit.org/",
+      "startDate": "May 22",
+      "endDate": "May 23",
+      "year": "2020",
+      "city": "Online",
+      "host": "IEEE-VIT",
+      "length": "36",
+      "size": "unlimited",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "instagramURL": "",
+      "telegramURL": "",
+      "notes": "A 36 hour long free-for-all design hackathon"
     }
   ]
 }
