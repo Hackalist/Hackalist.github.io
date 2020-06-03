@@ -1,7 +1,7 @@
 ---
 name: Hackathon Listing
 about: Submit a hackathon listing here.
-title: '[listing-request]'
+title: '[listing-request] Add [Your Hackathon Name]'
 labels: 'hackathon-submission'
 assignees: ''
 
