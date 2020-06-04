@@ -18,6 +18,25 @@
       "instagramURL": "https://www.instagram.com/ultrahackhq/",
       "telegramURL": "",
       "notes": "The hackathon is Online and Open for Everyone"
+    },
+    {
+      "title": "RestartIndia Hackathon",
+      "url": "http://restartindia.org/",
+      "startDate": "June 12",
+      "endDate": "June 14",
+      "year": "2020",
+      "city": "India,",
+      "host": "RestartIndia.org",
+      "length": "48",
+      "size": "250",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/RestartIndiaorg",
+      "twitterURL": "https://twitter.com/restartIndiaorg",
+      "googlePlusURL": "",
+      "notes": ""
     }
   ]
 }
