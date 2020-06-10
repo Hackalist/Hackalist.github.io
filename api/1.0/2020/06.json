@@ -20,6 +20,25 @@
       "notes": "The hackathon is Online and Open for Everyone"
     },
     {
+      "title": "BCG - COVID-19 AI Challenge Online Hackathon",
+      "url": "https://www.kaggle.com/bcgvaccine/hackathon",
+      "startDate": "June 9",
+      "endDate": "July 25",
+      "year": "2020",
+      "city": "Virtual",
+      "host": "kaggle.com",
+      "length": "48",
+      "size": "250",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "This is an online hackathon. Go to https://www.kaggle.com/bcgvaccine/hackathon for details of tasks, submission dates and prizes"
+    },
+    {
       "title": "RestartIndia Hackathon",
       "url": "http://restartindia.org/",
       "startDate": "June 12",
