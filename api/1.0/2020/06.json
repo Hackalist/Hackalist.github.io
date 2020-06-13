@@ -56,6 +56,23 @@
       "twitterURL": "https://twitter.com/restartIndiaorg",
       "googlePlusURL": "",
       "notes": ""
+    },
+    {
+      "title": "Protect Privacy",
+      "url": "https://gitcoin.co/hackathon/privacy/onboard",
+      "startDate": "June 15",
+      "endDate": "June 29",
+      "year": "2020",
+      "city": "Virtual",
+      "host": "Gitcoin",
+      "length": "336",
+      "size": "unlimited",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "twitterURL": "https://twitter.com/gitcoin",
+      "notes": "The hackathon is open to anyone"
     }
   ]
 }
