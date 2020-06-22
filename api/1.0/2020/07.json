@@ -18,6 +18,24 @@
       "facebookURL": "https://www.facebook.com/sigmahacks",
       "twitterURL": "",
       "notes": ""
-    }
+    },
+     {
+      "title": "HackFS",
+      "url": "https://hackfs.com/",
+      "startDate": "July 6",
+      "endDate": "August 6",
+      "year": "2020",
+      "city": "Online",
+      "host": "ETHGlobal & Protocol Labs",
+      "length": "744",
+      "size": "no limit",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/ETHGlobal",
+      "notes": "Open to anyone interested crypto and build the decentralized web! 1 month event, "
+    },
   ]
 }
