@@ -37,5 +37,23 @@
       "twitterURL": "https://twitter.com/ETHGlobal",
       "notes": "Open to any devs looking to learn about crypto + build the decentralized web! 1 month event, "
     },
+    {
+      "title": "Open Web Incubator",
+      "url": "https://gitcoin.co/hackathon/arweave/onboard",
+      "startDate": "July 1",
+      "endDate": "August 12",
+      "year": "2020",
+      "city": "Online",
+      "host": "Gitcoin & Arweave",
+      "length": "1008",
+      "size": "no limit",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/gitcoin",
+      "notes": "Open to anyone, let's build the future of the web together"
+    }
   ]
 }
