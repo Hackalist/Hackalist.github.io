@@ -54,6 +54,22 @@
       "facebookURL": "",
       "twitterURL": "https://twitter.com/gitcoin",
       "notes": "Open to anyone, let's build the future of the web together"
+    },
+    {
+      "title": "Own the Internet",
+      "url": "https://gitcoin.co/hackathon/own-the-internet/onboard",
+      "startDate": "July 29",
+      "endDate": "August 19",
+      "year": "2020",
+      "city": "Worldwide (remote and online)",
+      "host": "Nebulous, developers of Sia",
+      "length": "504",
+      "size": "no limit",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "notes": "This hackathon is open to any devs who want to build on top of censorship-resistent apps."
     }
   ]
 }
