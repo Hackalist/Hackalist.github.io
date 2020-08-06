@@ -1,0 +1,23 @@
+{
+  "August" :
+  [
+    {
+      "title": "NHacks",
+      "url": "https://nhacks2020.com/",
+      "startDate": "August 22",
+      "endDate": "August 23",
+      "year": "2020",
+      "city": "Online",
+      "host": "NHacks Organization",
+      "length": "30",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/880002829075423/",
+      "twitterURL": "",
+      "notes": "NHacks 2020 is an online hackathon for high school and middle school coders (including rising college freshman)! We will be hosting workshops in Java, Python, iOS, Android, Web Dev, CAD, in addition to panels with Women in STEM and past organizers. This year, we have $1000+ worth of prizes ranging from camera drones to Amazon Echo Dots."
+    }
+  ]
+}
