@@ -2,6 +2,24 @@
   "July" :
   [
     {
+      "title": "Open Web Incubator",
+      "url": "https://gitcoin.co/hackathon/arweave/onboard",
+      "startDate": "July 1",
+      "endDate": "August 12",
+      "year": "2020",
+      "city": "Online",
+      "host": "Gitcoin & Arweave",
+      "length": "1008",
+      "size": "no limit",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/gitcoin",
+      "notes": "Open to anyone, let's build the future of the web together"
+    },
+    {
       "title": "HackFS",
       "url": "https://hackfs.com/",
       "startDate": "July 6",
@@ -36,24 +54,6 @@
       "facebookURL": "https://www.facebook.com/sigmahacks",
       "twitterURL": "",
       "notes": ""
-    },
-    {
-      "title": "Open Web Incubator",
-      "url": "https://gitcoin.co/hackathon/arweave/onboard",
-      "startDate": "July 1",
-      "endDate": "August 12",
-      "year": "2020",
-      "city": "Online",
-      "host": "Gitcoin & Arweave",
-      "length": "1008",
-      "size": "no limit",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "",
-      "twitterURL": "https://twitter.com/gitcoin",
-      "notes": "Open to anyone, let's build the future of the web together"
     },
     {
       "title": "Own the Internet",
