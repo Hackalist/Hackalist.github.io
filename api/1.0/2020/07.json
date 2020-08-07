@@ -2,24 +2,6 @@
   "July" :
   [
     {
-      "title": "SigmaHacks 2.0",
-      "url": "https://sigmahacks.org",
-      "startDate": "July 24",
-      "endDate": "July 26",
-      "year": "2020",
-      "city": "Online",
-      "host": "SigmaHacks",
-      "length": "41",
-      "size": "200",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/sigmahacks",
-      "twitterURL": "",
-      "notes": ""
-    },
-     {
       "title": "HackFS",
       "url": "https://hackfs.com/",
       "startDate": "July 6",
@@ -36,6 +18,24 @@
       "facebookURL": "",
       "twitterURL": "https://twitter.com/ETHGlobal",
       "notes": "Open to any devs looking to learn about crypto + build the decentralized web! 1 month event, "
+    },
+    {
+      "title": "SigmaHacks 2.0",
+      "url": "https://sigmahacks.org",
+      "startDate": "July 24",
+      "endDate": "July 26",
+      "year": "2020",
+      "city": "Online",
+      "host": "SigmaHacks",
+      "length": "41",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/sigmahacks",
+      "twitterURL": "",
+      "notes": ""
     },
     {
       "title": "Open Web Incubator",
