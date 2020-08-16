@@ -1,6 +1,20 @@
 {
   "August" :
   [
+    {
+      "title": "Code Together 2020",
+      "url": "https://ev.ringcentral.com/CodeTogether",
+      "startDate": "August 13",
+      "endDate": "October 13",
+      "year": "2020",
+      "location": "Online",
+      "host": "RingCentral",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "twitterURL": "https://twitter.com/RingCentralDevs",
+      "notes": "Let’s create apps to help make the world a better place during this pandemic. Create an app to help make things easier for those in the emergency industry, apps to reach out to family and loved ones just to check on each other, or create something fun that helps others get their minds of everything going on."
+   },
    {
       "title": "TecHacks",
       "url": "techecks.ml/",
