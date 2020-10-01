@@ -1,0 +1,23 @@
+{
+  "January" :
+  [
+     {
+      "title": "StarHacks",
+      "url": "http://starhacks.tech/",
+      "startDate": "January 23",
+      "endDate": "January 24",
+      "year": "2021",
+      "city": "Virtual",
+      "host": "N/A",
+      "length": "36",
+      "size": "300",
+      "travel": "N/A",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "N/A",
+      "twitterURL": "https://twitter.com/starhackss",
+      "notes": "StarHacks is an all-female identifying and nonbinary high school and collegiate hackathon. Get ready for a supportive community, fun prizes, and amazing speakers!"
+    }
+  ]
+}
