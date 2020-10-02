@@ -18,6 +18,24 @@
       "facebookURL": "https://www.facebook.com/MajorLeagueHacking",
       "twitterURL": "https://twitter.com/mlhacks",
       "notes": ""
+    },
+    {
+      "title": "Miami Hacks",
+      "url": "https://miamihacks.com/",
+      "startDate": "October 2",
+      "endDate": "October 4",
+      "year": "2020",
+      "city": "Remote",
+      "host": "Florida International University",
+      "length": "48",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/acmfiu/",
+      "twitterURL": "https://www.twitter.com/acmfiu",
+      "notes": ""
     }
   ]
 }
