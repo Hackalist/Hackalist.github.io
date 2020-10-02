@@ -2,6 +2,24 @@
   "October" :
   [
     {
+      "title": "eHacks",
+      "url": "https://www.ehacks.tech/",
+      "startDate": "October 9",
+      "endDate": "October 13",
+      "year": "2020",
+      "city": "Remote",
+      "host": "Jericho High School",
+      "length": "48",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": ",
+      "twitterURL": "",
+      "notes": ""
+    },
+    {
       "title": "Hero Hacks",
       "url": "https://organize.mlh.io/participants/events/4618-herohacks",
       "startDate": "October 2",
