@@ -18,24 +18,6 @@
       "facebookURL": "https://www.facebook.com/MajorLeagueHacking",
       "twitterURL": "https://twitter.com/mlhacks",
       "notes": ""
-    },,
-    {
-      "title": "eHacks",
-      "url": "https://www.ehacks.tech/",
-      "startDate": "October 9",
-      "endDate": "October 13",
-      "year": "2020",
-      "city": "Remote",
-      "host": "Jericho High School",
-      "length": "48",
-      "size": "unknown",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "",
-      "twitterURL": "",
-      "notes": ""
     },
     {
       "title": "Miami Hacks",
@@ -89,6 +71,24 @@
       "cost": "free",
       "facebookURL": "",
       "twitterURL": "https://twitter.com/uc_ieee",
+      "notes": ""
+    },
+    {
+      "title": "eHacks",
+      "url": "https://www.ehacks.tech/",
+      "startDate": "October 9",
+      "endDate": "October 13",
+      "year": "2020",
+      "city": "Remote",
+      "host": "Jericho High School",
+      "length": "48",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
       "notes": ""
     },
     {
