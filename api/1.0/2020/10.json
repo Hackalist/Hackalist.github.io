@@ -1,0 +1,23 @@
+{
+  "October" :
+  [
+    {
+      "title": "Hero Hacks",
+      "url": "https://organize.mlh.io/participants/events/4618-herohacks",
+      "startDate": "October 2",
+      "endDate": "October 4",
+      "year": "2020",
+      "city": "Remote",
+      "host": "Major League Hacking",
+      "length": "48",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/MajorLeagueHacking",
+      "twitterURL": "https://twitter.com/mlhacks",
+      "notes": ""
+    }
+  ]
+}
