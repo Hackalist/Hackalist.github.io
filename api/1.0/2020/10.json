@@ -54,6 +54,24 @@
       "facebookURL": "https://www.facebook.com/vandyhacks",
       "twitterURL": "https://www.twitter.com/vandyhacks",
       "notes": ""
+    },
+    {
+      "title": "MAKEUC 2020",
+      "url": "https://makeuc.io/",
+      "startDate": "October 3",
+      "endDate": "October 4",
+      "year": "2020",
+      "city": "Remote",
+      "host": "University of Cincinnati",
+      "length": "24",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/uc_ieee",
+      "notes": ""
     }
   ]
 }
