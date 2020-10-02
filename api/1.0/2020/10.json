@@ -62,7 +62,7 @@
       "endDate": "October 4",
       "year": "2020",
       "city": "Remote",
-      "host": "University of Cincinnati",
+      "host": "IEEE @ University of Cincinnati",
       "length": "24",
       "size": "unknown",
       "travel": "no",
@@ -71,6 +71,24 @@
       "cost": "free",
       "facebookURL": "",
       "twitterURL": "https://twitter.com/uc_ieee",
+      "notes": ""
+    },
+    {
+      "title": "Hack@Home",
+      "url": "https://hackathome.org",
+      "startDate": "October 9",
+      "endDate": "October 12",
+      "year": "2020",
+      "city": "Remote",
+      "host": "Full Stack @ Brown University",
+      "length": "96",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/hackingathome",
+      "twitterURL": "https://twitter.com/HackAtHome2020",
       "notes": ""
     }
   ]
