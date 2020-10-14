@@ -108,6 +108,21 @@
       "facebookURL": "https://www.facebook.com/hackingathome",
       "twitterURL": "https://twitter.com/HackAtHome2020",
       "notes": ""
+    },
+    {
+      "title": "Solana Wormhole Hackathon",
+      "url": "https://solana.com/hackathon",
+      "startDate": "October 28",
+      "endDate": "November 14",
+      "year": "2020",
+      "city": "Global and online",
+      "host": "Solana Foundation",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "twitterURL": "https://twitter.com/Solana",
+      "notes": "$200k in prizes!"
     }
   ]
 }
