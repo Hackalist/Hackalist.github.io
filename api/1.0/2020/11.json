@@ -1,0 +1,21 @@
+{
+  "November" :
+  [
+    {
+      "title": "Hacking Decentralized Commerce",
+      "url": "https://gitcoin.co/hackathon/conflux-hack/onboard",
+      "startDate": "November 2",
+      "endDate": "November 22",
+      "year": "2020",
+      "city": "Remote",
+      "host": "Gitcoin",
+      "length": "480",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "twitterURL": "https://twitter.com/gitcoin",
+      "notes": "Everyone can participate"
+    }
+  ]
+}
