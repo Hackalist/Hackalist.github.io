@@ -16,6 +16,42 @@
       "cost": "free",
       "twitterURL": "https://twitter.com/gitcoin",
       "notes": "Everyone can participate"
+    },
+    {
+      "title": "Data for Urban Logistics DeepHack",
+      "url": "https://bit.ly/31IU31k",
+      "startDate": "November 6",
+      "endDate": "November 8",
+      "year": "2020",
+      "city": "Remote",
+      "host": "EIT Digital, Urban Radar, Ultrahack",
+      "length": "48",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/ultrahackhq/",
+      "twitterURL": "https://www.twitter.com/ultrahackhq",
+      "notes": "Registration deadline: 29 October"
+    },
+    {
+      "title": "Hack Adult Vaccinations with MSD and HUS",
+      "url": "https://bit.ly/2HBeiXB",
+      "startDate": "November 27",
+      "endDate": "November 29",
+      "year": "2020",
+      "city": "Remote",
+      "host": "MSD, Helsinki University HOspital, Ultrahack",
+      "length": "48",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/ultrahackhq/",
+      "twitterURL": "https://www.twitter.com/ultrahackhq",
+      "notes": "Registration deadline: 6 November"
     }
   ]
 }
