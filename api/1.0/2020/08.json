@@ -1,0 +1,54 @@
+{
+  "August" :
+  [
+    {
+      "title": "Code Together 2020",
+      "url": "https://ev.ringcentral.com/CodeTogether",
+      "startDate": "August 13",
+      "endDate": "October 13",
+      "year": "2020",
+      "location": "Online",
+      "host": "RingCentral",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "twitterURL": "https://twitter.com/RingCentralDevs",
+      "notes": "Let’s create apps to help make the world a better place during this pandemic. Create an app to help make things easier for those in the emergency industry, apps to reach out to family and loved ones just to check on each other, or create something fun that helps others get their minds of everything going on."
+   },
+   {
+      "title": "TecHacks",
+      "url": "techecks.ml/",
+      "startDate": "August 14",
+      "endDate": "August 16",
+      "year": "2020",
+      "city": "virtual",
+      "host": "tecHacks",
+      "length": "47",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/TecHacks-105462511244949",
+      "notes":"If you are a female undergraduate or high school student, you should definitely check out TecHacks! TecHacks is a hackathon aiming to bridge the gender gap in STEM by enabling female students to find a passion in computer science and problem solving, while creating a supportive environment of other like-minded females to compete and work with. Workshops, speakers, prizes, and mentors will be available during the hackathon! No coding experience is necessary, and the workshops have been designed to be beginner friendly. 😊 "
+    },
+    {
+      "title": "NHacks",
+      "url": "https://nhacks2020.com/",
+      "startDate": "August 22",
+      "endDate": "August 23",
+      "year": "2020",
+      "city": "Online",
+      "host": "NHacks Organization",
+      "length": "30",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/events/880002829075423/",
+      "twitterURL": "",
+      "notes": "NHacks 2020 is an online hackathon for high school and middle school coders (including rising college freshman)! We will be hosting workshops in Java, Python, iOS, Android, Web Dev, CAD, in addition to panels with Women in STEM and past organizers. This year, we have $1000+ worth of prizes ranging from camera drones to Amazon Echo Dots."
+    }
+  ]
+}

@@ -2,14 +2,33 @@
   "May" :
   [
     {
-      "title": "New York Blockchain Week",
-      "url": "https://gitcoin.co/hackathon/new-york-blockchain-week/onboard",
-      "startDate": "May 06",
-      "endDate": "May 27",
+      "title": "Covid 19 Face Mask Detection Hackathon - StreetHack & Dockship",
+      "url": "streethack.org/dockship.html",
+      "startDate": "May 6",
+      "endDate": "May 20",
+      "year": "2020",
+      "city": "Worldwide",
+      "host": "StreetHack",
+      "length": "360",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "0",
+      "facebookURL": "",
+      "twitterURL": "",
+      "googlePlusURL": "",
+      "notes": "Let's face it, the deadly COVID-19 is spreading exponentially and is causing havoc in our lives. Social distancing and wearing face masks are the only effective strategy against it. You as data scientists have a chance to play a key role in this battle."
+    },
+    {
+      "title": "GitxChange",
+      "url": "https://gitcoin.co/hackathon/GitxChange/onboard",
+      "startDate": "May 7",
+      "endDate": "June 10",
       "year": "2020",
       "city": "Online",
-      "host": "AAVE, Gitcoin",
-      "length": "504",
+      "host": "RadicalxChange",
+      "length": "336",
       "size": "unlimited",
       "travel": "no",
       "prize": "yes",
@@ -17,7 +36,25 @@
       "cost": "free",
       "instagramURL": "",
       "telegramURL": "",
-      "notes": "The hackathon is open to anyone"
+      "notes": "Check out the prizes and register to join educational workshops!"
+    },
+    {
+      "title": "Palette",
+      "url": "https://palette.ieeevit.org/",
+      "startDate": "May 22",
+      "endDate": "May 23",
+      "year": "2020",
+      "city": "Online",
+      "host": "IEEE-VIT",
+      "length": "36",
+      "size": "unlimited",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "instagramURL": "",
+      "telegramURL": "",
+      "notes": "A 36 hour long free-for-all design hackathon"
     }
   ]
 }

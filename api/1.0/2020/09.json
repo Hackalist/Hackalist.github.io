@@ -1,0 +1,23 @@
+{
+  "September" :
+  [
+    {
+      "title": "Cartesi DApp Incubation Program",
+      "url": "https://cartesi.io/incubation",
+      "startDate": "September 14",
+      "endDate": "October 12",
+      "year": "2020",
+      "city": "Remote",
+      "host": "Cartesi",
+      "length": "696",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "unknown",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/cartesiproject",
+      "twitterURL": "https://twitter.com/cartesiproject",
+      "notes": "Please see links for more details!"
+    }
+  ]
+}
