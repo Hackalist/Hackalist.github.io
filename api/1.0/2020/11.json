@@ -51,7 +51,45 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
-    },   
+    },
+    {
+      "title": "Hack Adult Vaccinations",
+      "url": "https://bit.ly/2HBeiXB",
+      "startDate": "November 27",
+      "endDate": "November 29",
+      "year": "2020",
+      "city": "online",
+      "host": "Ultrahack",
+      "length": "48",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "facebook.com/ultrahackhq",
+      "twitterURL": "twitter.com/ultrahackhq",
+      "googlePlusURL": "",
+      "notes": "Deadline to register: 6 November"
+    },
+    {
+      "title": "Open BIM DeepHack",
+      "url": "https://bit.ly/34ElmLU",
+      "startDate": "November 27",
+      "endDate": "November 29",
+      "year": "2020",
+      "city": "online",
+      "host": "Ultrahack",
+      "length": "48",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "facebook.com/ultrahackhq",
+      "twitterURL": "twitter.com/ultrahackhq",
+      "googlePlusURL": "",
+      "notes": "Deadline to register: 19 November"
+    },
     {
       "title": "HackEPS2020",
       "url": "https://lleidahack.github.io/hackeps-2020/",
@@ -70,6 +108,6 @@
       "twitterURL": "https://twitter.com/LleidaHack",
       "googlePlusURL": "",
       "notes": "It's a Spanish only Hackathon"
-    }
+    },
   ]
 }
