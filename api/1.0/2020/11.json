@@ -51,6 +51,25 @@
       "twitterURL": "",
       "googlePlusURL": "",
       "notes": ""
+    },   
+    {
+      "title": "HackEPS2020",
+      "url": "https://lleidahack.github.io/hackeps-2020/",
+      "startDate": "November 28",
+      "endDate": "December 29",
+      "year": "2020",
+      "city": "online",
+      "host": "https://lleidahack.github.io/",
+      "length": "24",
+      "size": "200",
+      "travel": "no",
+      "prize": "5 Different Prizes - To determine by each company",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/HackEPS",
+      "twitterURL": "https://twitter.com/LleidaHack",
+      "googlePlusURL": "",
+      "notes": "It's a Spanish only Hackathon"
     }
   ]
 }
