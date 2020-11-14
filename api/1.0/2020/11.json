@@ -18,6 +18,22 @@
       "notes": "Everyone can participate"
     },
     {
+      "title": "The SkyDB Debut",
+      "url": "https://gitcoin.co/hackathon/skydb/onboard",
+      "startDate": "November 2",
+      "endDate": "November 23",
+      "year": "2020",
+      "city": "Virtual",
+      "host": "Sia/Skynet, but held fully online",
+      "length": "504",
+      "size": "Unlimited",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "notes": "Build decentralized apps for at least $9,000 in prizes!"
+    },
+    {
       "title": "Human DeFi Haeck",
       "url": "http://haeck.superhero.com/",
       "startDate": "November 10",
