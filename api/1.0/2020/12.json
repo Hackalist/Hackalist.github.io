@@ -1,6 +1,38 @@
 {
    "December" :
     [
+      {
+        "title": "Mass Customization & 3D Printing DeepHack",
+        "url": "https://bit.ly/3lrKxHv",
+        "startDate": "December 4",
+        "endDate": "December 6",
+        "year": "2020",
+        "city": "Remote",
+        "host": "Ultrahack",
+        "length": "48",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "twitterURL": "https://twitter.com/ultrahackhq",
+        "notes": "Everyone can participate. Get creative and build new product ideas with 3D printing and design automation."
+      },
+      {
+        "title": "Digital Technology for Charities DeepHack",
+        "url": "https://bit.ly/3f8QC9j",
+        "startDate": "December 11",
+        "endDate": "December 13",
+        "year": "2020",
+        "city": "Virtual",
+        "host": "Ultrahack",
+        "length": "48",
+        "size": "Unlimited",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "notes": "Build digital solutions to help charities reduce adminstrative burden, improve productivity and increase impact!"
+        },
         {
           "title": "AI 4 UX",
           "url": "https://www.eventbrite.de/e/ai-4-ux-tickets-129648567355",
@@ -19,38 +51,6 @@
           "twitterURL": "https://twitter.com/wearenanogiants?lang=en",
           "googlePlusURL": "",
           "notes": ""
-        },
-       {
-      "title": "Mass Customization & 3D Printing DeepHack",
-      "url": "https://bit.ly/3lrKxHv",
-      "startDate": "December 4",
-      "endDate": "December 6",
-      "year": "2020",
-      "city": "Remote",
-      "host": "Ultrahack",
-      "length": "48",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "twitterURL": "https://twitter.com/ultrahackhq",
-      "notes": "Everyone can participate. Get creative and build new product ideas with 3D printing and design automation."
-    },
-    {
-      "title": "Digital Technology for Charities DeepHack",
-      "url": "https://bit.ly/3f8QC9j",
-      "startDate": "December 11",
-      "endDate": "December 13",
-      "year": "2020",
-      "city": "Virtual",
-      "host": "Ultrahack",
-      "length": "48",
-      "size": "Unlimited",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "notes": "Build digital solutions to help charities reduce adminstrative burden, improve productivity and increase impact!"
-      }
+       }
     ]
 }
