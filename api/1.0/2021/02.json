@@ -218,24 +218,6 @@
         "notes": ""
       },
       {
-        "title": "Calgary Hacks",
-        "url": "https://calgaryhacks.ca/",
-        "startDate": "February 13",
-        "endDate": "February 14",
-        "year": "2021",
-        "city": "Virtual",
-        "host": "University of Calgary",
-        "length": "24",
-        "size": "unknown",
-        "travel": "no",
-        "prize": "unknown",
-        "highSchoolers": "yes",
-        "cost": "free",
-        "facebookURL": "",
-        "twitterURL": "",
-        "notes": "CalgaryHacks 2021 invites post-secondary and highschool students studying in Canada to compete."
-      },
-      {
         "title": "GunnHacks 7.0",
         "url": "https://www.gunnhacks.com/",
         "startDate": "February 12",
@@ -252,6 +234,24 @@
         "facebookURL": "https://www.facebook.com/GunnHacks",
         "twitterURL": "",
         "notes": "The seventh iteration of GunnHacks, Gunn High School's annual hackathon. We welcome any high school student with an interest in technology!"
+      },
+      {
+        "title": "Calgary Hacks",
+        "url": "https://calgaryhacks.ca/",
+        "startDate": "February 13",
+        "endDate": "February 14",
+        "year": "2021",
+        "city": "Virtual",
+        "host": "University of Calgary",
+        "length": "24",
+        "size": "unknown",
+        "travel": "no",
+        "prize": "unknown",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "",
+        "twitterURL": "",
+        "notes": "CalgaryHacks 2021 invites post-secondary and highschool students studying in Canada to compete."
       },
       {
         "title": "Highfield Hack",
