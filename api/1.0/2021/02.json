@@ -236,24 +236,6 @@
         "notes": "The seventh iteration of GunnHacks, Gunn High School's annual hackathon. We welcome any high school student with an interest in technology!"
       },
       {
-        "title": "Calgary Hacks",
-        "url": "https://calgaryhacks.ca/",
-        "startDate": "February 13",
-        "endDate": "February 14",
-        "year": "2021",
-        "city": "Virtual",
-        "host": "University of Calgary",
-        "length": "24",
-        "size": "unknown",
-        "travel": "no",
-        "prize": "unknown",
-        "highSchoolers": "yes",
-        "cost": "free",
-        "facebookURL": "",
-        "twitterURL": "",
-        "notes": "CalgaryHacks 2021 invites post-secondary and highschool students studying in Canada to compete."
-      },
-      {
         "title": "Highfield Hack",
         "url": "https://highfieldhack.co.uk/",
         "startDate": "February 12",
@@ -270,6 +252,24 @@
         "facebookURL": "https://facebook.com/HackTheSouthUK",
         "twitterURL": "https://twitter.com/hackasoton",
         "notes": "48h hackathon in the beautiful south of England. Come hack with us on your craziest ideas!"
+      },
+      {
+        "title": "Calgary Hacks",
+        "url": "https://calgaryhacks.ca/",
+        "startDate": "February 13",
+        "endDate": "February 14",
+        "year": "2021",
+        "city": "Virtual",
+        "host": "University of Calgary",
+        "length": "24",
+        "size": "unknown",
+        "travel": "no",
+        "prize": "unknown",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "",
+        "twitterURL": "",
+        "notes": "CalgaryHacks 2021 invites post-secondary and highschool students studying in Canada to compete."
       },
       {
         "title": "yuHacks",
@@ -470,6 +470,24 @@
         "notes": "WiCS Hacks is open to ALL women and non-binary students in any major. All skill levels are welcome and we are beginner-friendly!"
       },
       {
+        "title": "VTHacks 8",
+        "url": "https://vthacks.com/",
+        "startDate": "February 26",
+        "endDate": "February 28",
+        "year": "2021",
+        "city": "Virtual",
+        "host": "Virginia Tech",
+        "length": "36",
+        "size": "unknown",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "unknown",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/vthacks",
+        "twitterURL": "https://twitter.com/vt_hacks",
+        "notes": ""
+      },
+      {
         "title": "Hack@CEWIT 2021",
         "url": "https://www.cewit.org/programs/events/hack.php",
         "startDate": "February 26",
@@ -576,24 +594,6 @@
         "facebookURL": "https://www.facebook.com/marihacks/",
         "twitterURL": "",
         "notes": "Any High School, CEGEP, and U0 students is eligible to apply!"
-      },
-      {
-        "title": "VTHacks 8",
-        "url": "https://vthacks.com/",
-        "startDate": "February 26",
-        "endDate": "February 28",
-        "year": "2021",
-        "city": "Virtual",
-        "host": "Virginia Tech",
-        "length": "36",
-        "size": "unknown",
-        "travel": "no",
-        "prize": "yes",
-        "highSchoolers": "unknown",
-        "cost": "free",
-        "facebookURL": "https://www.facebook.com/vthacks",
-        "twitterURL": "https://twitter.com/vt_hacks",
-        "notes": ""
       }
     ]
   }
