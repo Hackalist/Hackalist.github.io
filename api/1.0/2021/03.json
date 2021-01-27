@@ -1,0 +1,41 @@
+{
+    "March" :
+    [
+       {
+        "title": "LA Hacks",
+        "url": "https://lahacks.com/",
+        "startDate": "March 21",
+        "endDate": "March 28",
+        "year": "2021",
+        "city": "Virtual",
+        "host": "UCLA",
+        "length": "36",
+        "size": "unknown",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/LAHacks/",
+        "twitterURL": "https://twitter.com/lahacks",
+        "notes": "In order to offer flexibility and accommodate the majority of our hackers during these tough times, we have made LA Hacks 2021 a week-long event. However, on Friday, March 26th, we will release a final mystery track so that hackers who can only participate on the weekend can compete on a fair playing field."
+      },
+      {
+        "title": "WinHacks",
+        "url": "https://winhacks.ca/",
+        "startDate": "March 26",
+        "endDate": "March 28",
+        "year": "2021",
+        "city": "Virtual",
+        "host": "University of Windsor",
+        "length": "36",
+        "size": "unknown",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "http://facebook.com/WinHacksCA",
+        "twitterURL": "https://twitter.com/WinHacksCA",
+        "notes": ""
+      }
+    ]
+  }
