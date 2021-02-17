@@ -1,6 +1,25 @@
 {
     "March" :
     [
+        {
+          "title": "AI 4 UX 2021",
+          "url": "https://www.eventbrite.de/e/ai-4-ux-hackathon-tickets-139357033639",
+          "startDate": "March 5",
+          "endDate": "March 7",
+          "year": "2021",
+          "city": "Duesseldorf, Germany",
+          "host": "NanoGiants GmbH",
+          "length": "47",
+          "size": "unknown",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "unknown",
+          "cost": "free",
+          "facebookURL": "https://www.facebook.com/nanogiants/",
+          "twitterURL": "https://twitter.com/wearenanogiants?lang=en",
+          "googlePlusURL": "",
+          "notes": ""
+        },
        {
         "title": "LA Hacks",
         "url": "https://lahacks.com/",
