@@ -1,0 +1,23 @@
+{
+    "April" :
+    [
+      {
+        "title": "HackTrix",
+        "url": "https://hacktrix.ieeesrmist.in/",
+        "startDate": "April 3",
+        "endDate": "April 4",
+        "year": "2021",
+        "city": "In virtual",
+        "host": "IEEE SRMIST SB",
+        "length": "36",
+        "size": "500",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "unknown",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/ieeesrmist",
+        "twitterURL": "https://twitter.com/ieeesrmist",
+        "notes": "The art of invention and creation is one that must be honed through practice and application. To test the limits of your creativity and innovation, IEEE SRM SB introduces HackTrix, A hackathon-like-no-other packed with learning opportunities, networking, and getting mentored by some of the most experienced individuals in the realm. Sign up for a 3-day development spree from 2nd April 2021 to 4th April 2021 to showcase your revolutionary talents with 8-unique tracks that transform your field and lead you to the top. In a pool of like-minded individuals, innovate, create something extraordinary and bag yourself amazing prizes. If you think the innovator in you is intrigued, go check us out and register for HackTrix now!"
+      }
+    ]
+  }
