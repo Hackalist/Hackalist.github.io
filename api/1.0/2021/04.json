@@ -2,6 +2,24 @@
     "April" :
     [
       {
+        "title": "Uncommon Hacks",
+        "url": "https://hacks2021.uncommonhacks.com/",
+        "startDate": "April 2",
+        "endDate": "April 4",
+        "year": "2021",
+        "city": "Online",
+        "host": "University of Chicago",
+        "length": "36",
+        "size": "300",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/uncommonhacks",
+        "twitterURL": "https://twitter.com/uncommonhacks",
+        "notes": "Open to students worldwide!"
+      },
+      {
         "title": "HackTrix",
         "url": "https://hacktrix.ieeesrmist.in/",
         "startDate": "April 3",
