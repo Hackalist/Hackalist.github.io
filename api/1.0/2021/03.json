@@ -39,6 +39,25 @@
           "googlePlusURL": "",
           "notes": ""
         },
+        {
+           "title": "PackHacks",
+           "url": "https://ncsupackhacks.org",
+           "startDate": "March 20",
+           "endDate": "March 21",
+           "year": "2021",
+           "city": "virtual",
+           "host": "North Carolina State University",
+           "length": "28",
+           "size": "150",
+           "travel": "no",
+           "prize": "yes",
+           "highSchoolers": "yes",
+           "cost": "free",
+           "facebookURL": "",
+           "twitterURL": "https://twitter.com/ncsupackhacks?lang=en",
+           "googlePlusURL": "",
+           "notes": "This hackathon will be virtual"
+       },
        {
         "title": "LA Hacks",
         "url": "https://lahacks.com/",
