@@ -77,6 +77,24 @@
         "notes": "In order to offer flexibility and accommodate the majority of our hackers during these tough times, we have made LA Hacks 2021 a week-long event. However, on Friday, March 26th, we will release a final mystery track so that hackers who can only participate on the weekend can compete on a fair playing field."
       },
       {
+          "title": "Yahoo Hack Together",
+          "url": "https://yahoo.github.io/hacktogether/",
+          "startDate": "March 21",
+          "endDate": "March 28",
+          "year": "2021",
+          "city": "virtual/Global",
+          "host": "Yahoo and Verizon Media",
+          "length": "168",
+          "size": "unknown",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+          "facebookURL": "",
+          "twitterURL": "https://twitter.com/ydn/status/1366804450082312193",
+          "notes": "Yahoo’s mission to connect people to their passions doesn't stop with our consumers! Yahoo Hack Together is a virtual open source hackathon. Sign up and code with us for a chance to win Verizon Media open source swag!"
+      },
+      {
         "title": "WinHacks",
         "url": "https://winhacks.ca/",
         "startDate": "March 26",
