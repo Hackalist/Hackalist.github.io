@@ -111,6 +111,24 @@
         "facebookURL": "http://facebook.com/WinHacksCA",
         "twitterURL": "https://twitter.com/WinHacksCA",
         "notes": ""
+      },
+      {
+        "title": "Google Cloud {Code_Love_Hack}",
+        "url": "http://bit.ly/3bX7lLI",
+        "startDate": "March 29",
+        "endDate": "April 21",
+        "year": "2021",
+        "city": "Online",
+        "host": "Google and BeMyApp",
+        "length": "4 weeks",
+        "size": "No limit",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "18 and over",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/bemyapp",
+        "twitterURL": "https://twitter.com/bemyapp",
+        "notes": "Showcase your passion for coding -- and try the new #GKE Autopilot at Google Cloud {Code_Love_Hack}! Your solution could earn one of the five $2k prizes. Create an app, game, love meter or other project at  #codelovehack and spread the #hackathon love."
       }
     ]
   }
