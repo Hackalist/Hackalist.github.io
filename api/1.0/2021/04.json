@@ -72,6 +72,24 @@
         "facebookURL": "https://www.facebook.com/bemyapp/",
         "twitterURL": "https://twitter.com/bemyapp",
         "notes": "Are you a high school or college student who loves sustainability and coding? We’re looking for you to innovate water conservation at #xylemstudentchallenge. Join this 8-week virtual hackathon and compete for $20k in prizes. Are you up for the challenge? http://bit.ly/3aQX8B9"
+      },
+      {
+        "title": "Hack36",
+        "url": "https://www.hack36.com/",
+        "startDate": "April 9",
+        "endDate": "April 11",
+        "year": "2021",
+        "city": "Online",
+        "host": "MNNIT Allahabad",
+        "length": "36",
+        "size": "300",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/hack36mnnit/",
+        "twitterURL": "https://twitter.com/hack36mnnit",
+        "notes": "36-hour long geeking extravaganza. Think of an idea, make a team of 2-4 students with no year, branch, course and college restrictions. Dd we tell you it's free? Then what are you waiting for? Register ASAP. Join us for 36 hour fun filled with enriching talks, interactive workshops and fun mini games too. Trust us the journey will keep all hackers on the edge of their seats."
       }
       
     ]
