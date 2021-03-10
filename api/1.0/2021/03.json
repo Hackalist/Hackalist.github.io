@@ -129,6 +129,24 @@
         "facebookURL": "https://www.facebook.com/bemyapp",
         "twitterURL": "https://twitter.com/bemyapp",
         "notes": "Showcase your passion for coding -- and try the new #GKE Autopilot at Google Cloud {Code_Love_Hack}! Your solution could earn one of the five $2k prizes. Create an app, game, love meter or other project at  #codelovehack and spread the #hackathon love."
+      },
+      {
+        "title": "HackData",
+        "url": "https://hackdata.snukaze.com",
+        "startDate": "March 18",
+        "endDate": "March 20",
+        "year": "2021",
+        "city": "Online",
+        "host": "Shiv Nadar University",
+        "length": "48 hours",
+        "size": "No limit",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "18 and over",
+        "cost": "free",
+        "facebookURL": "https://www.linkedin.com/company/acm-snu/mycompany/",
+        "twitterURL": "https://www.instagram.com/acmsnu/",
+        "notes": "HackData is an annual 48 hour hackathon hosted by ACM and ACM-W, the computer science societies of Shiv Nadar University, in which teams build extraordinary projects and and present their ideas to an esteemed panel of judges."
       }
     ]
   }
