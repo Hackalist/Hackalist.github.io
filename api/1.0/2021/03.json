@@ -129,6 +129,25 @@
         "facebookURL": "https://www.facebook.com/bemyapp",
         "twitterURL": "https://twitter.com/bemyapp",
         "notes": "Showcase your passion for coding -- and try the new #GKE Autopilot at Google Cloud {Code_Love_Hack}! Your solution could earn one of the five $2k prizes. Create an app, game, love meter or other project at  #codelovehack and spread the #hackathon love."
-      }
+      },
+      {
+        "title": "WomenTechies 2021",
+        "url": "https://dscv.it/wt21",
+        "startDate": "March 13",
+        "endDate": "March 14",
+        "year": "2021",
+        "city": "Vellore",
+        "host": "Developer Student Clubs VIT",
+        "length": "36 hours",
+        "size": "500",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "facebookURL": "dscv.it/insta",
+        "twitterURL": "dscv.it/twitter",
+        "googlePlusURL": "",
+        "notes": "This 36-hour hackathon aims to provide talented and independent women with the platform and resources to help them grow in their desired field and contribute to society with impactful and beneficial solutions.\nThere is a minimum requirement of 50% female participation in each team, to ensure and promote women’s participation in tech and tech-related events.\nWomenTechies will be an opportunity for the budding developers to showcase their potential and skills under the mentorship of experts and come up with imperceptible ideas and ground-breaking solutions to problems that could potentially solve the woes of thousands of people.",
+        },
     ]
   }
