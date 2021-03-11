@@ -59,6 +59,25 @@
            "notes": "This hackathon will be virtual"
        },
        {
+        "title": "MOZOHACK 2.1",
+        "url": "https://mozohack.srmkzilla.net/",
+        "startDate": "March 20",
+        "endDate": "March 21",
+        "year": "2021",
+        "city": "Virtual",
+        "host": "SRMKZILLA",
+        "length": "24",
+        "size": "500",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "no",
+        "cost": "free",
+        "facebookURL": "https://www.facebook.com/SRMKZILLA",
+        "twitterURL": "https://twitter.com/SRMKZILLA_Club",
+        "googlePlusURL": "",
+        "notes": "This is a 24 hour virtual hackathon."
+      },
+       {
         "title": "LA Hacks",
         "url": "https://lahacks.com/",
         "startDate": "March 21",
