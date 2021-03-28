@@ -108,7 +108,23 @@
       "facebookURL": "https://www.facebook.com/ACM.VITU",
       "twitterURL": "https://twitter.com/ACM_VIT",
       "notes": "Code2Create is one of the biggest college-level hackathons in the country and promises to be a great learning experience for beginners as well as seasoned developers alike. You’ll end up with a mini-project to show-off on your resume, and with prizes worth 5 lakhs, speaker sessions from industry experts, schwags, and fun in-hack activities, you definitely don’t wanna miss this!"
-      }
-      
+      },
+      {
+      "title": "The AI Sports Challenge 2021",
+      "url": "https://gocoder.one/aisports?ref=653462",
+      "startDate": "April 22",
+      "endDate": "May 7",
+      "year": "2021",
+      "city": "Online",
+      "host": "Coder One",
+      "length": "168",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "twitterURL": "https://twitter.com/CoderOneHQ",
+      "notes": "An online AI programming competition open to all. Program a bot to compete in an online AI multiplayer game for prizes, job opportunities and bragging rights. Registrations close 31 March."
+    }
     ]
   }
