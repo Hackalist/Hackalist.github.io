@@ -90,6 +90,24 @@
         "facebookURL": "https://www.facebook.com/hack36mnnit/",
         "twitterURL": "https://twitter.com/hack36mnnit",
         "notes": "36-hour long geeking extravaganza. Think of an idea, make a team of 2-4 students with no year, branch, course and college restrictions. Dd we tell you it's free? Then what are you waiting for? Register ASAP. Join us for 36 hour fun filled with enriching talks, interactive workshops and fun mini games too. Trust us the journey will keep all hackers on the edge of their seats."
+      },
+      {
+      "title": "Code2Create 2021",
+      "url": "https://c2c.acmvit.in/",
+      "startDate": "April 9",
+      "endDate": "April 11",
+      "year": "2021",
+      "city": "Vellore",
+      "host": "ACM-VIT",
+      "length": "36 hours",
+      "size": "500",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/ACM.VITU",
+      "twitterURL": "https://twitter.com/ACM_VIT",
+      "notes": "Code2Create is one of the biggest college-level hackathons in the country and promises to be a great learning experience for beginners as well as seasoned developers alike. You’ll end up with a mini-project to show-off on your resume, and with prizes worth 5 lakhs, speaker sessions from industry experts, schwags, and fun in-hack activities, you definitely don’t wanna miss this!"
       }
       
     ]
