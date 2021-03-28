@@ -67,6 +67,11 @@ Please ensure your JSON syntax is correct before submitting. An easy way to chec
 * [DEPRECATED as of 10/16/2018] `googlePlusURL:` URL to official Google+ profile
 * `notes:` Any additional notes (limits to who can attend, special requirements, etc.)
 
+## Testing
+If you want to test before submitting a pull request, you will need **Node.js** (12.x or higher)
+
+To run the test, run `node path/to/repo/test.js` in the CLI inteface.
+
 ## Listing Example
 ```
     {
