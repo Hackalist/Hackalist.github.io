@@ -96,24 +96,7 @@
         "googlePlusURL": "",
         "notes": "This is a 24 hour virtual hackathon."
       },
-      {
-      "title": "SexHack 2021 Online Hackathon",
-      "url": "http://sexhack.co",
-      "startDate": "March 26",
-      "endDate": "March 28",
-      "year": "2021",
-      "city": "Riga",
-      "host": "WindHackers",
-      "length": "48",
-      "size": "200",
-      "travel": "no",
-      "prize": "yes",
-      "highSchoolers": "yes",
-      "cost": "free",
-      "facebookURL": "https://www.facebook.com/sexhackco",
-      "twitterURL": "https://www.instagram.com/sexhackco/",
-      "notes": "This is second edition of SexHack - online hackathon to build an inclusive, healthier society, as well as a safer and more enjoyable private life for everyone."
-    },
+
        {
         "title": "LA Hacks",
         "url": "https://lahacks.com/",
@@ -150,6 +133,24 @@
           "twitterURL": "https://twitter.com/ydn/status/1366804450082312193",
           "notes": "Yahoo’s mission to connect people to their passions doesn't stop with our consumers! Yahoo Hack Together is a virtual open source hackathon. Sign up and code with us for a chance to win Verizon Media open source swag!"
       },
+      {
+      "title": "SexHack 2021 Online Hackathon",
+      "url": "http://sexhack.co",
+      "startDate": "March 26",
+      "endDate": "March 28",
+      "year": "2021",
+      "city": "Riga",
+      "host": "WindHackers",
+      "length": "48",
+      "size": "200",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/sexhackco",
+      "twitterURL": "https://www.instagram.com/sexhackco/",
+      "notes": "This is second edition of SexHack - online hackathon to build an inclusive, healthier society, as well as a safer and more enjoyable private life for everyone."
+    },
       {
         "title": "WinHacks",
         "url": "https://winhacks.ca/",
