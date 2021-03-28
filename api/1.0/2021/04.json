@@ -125,6 +125,24 @@
       "cost": "free",
       "twitterURL": "https://twitter.com/CoderOneHQ",
       "notes": "An online AI programming competition open to all. Program a bot to compete in an online AI multiplayer game for prizes, job opportunities and bragging rights. Registrations close 31 March."
+    },
+    {
+      "title": "HackBMU 4.0",
+      "url": "http://hackbmu.tech",
+      "startDate": "April 23",
+      "endDate": "April 25",
+      "year": "2021",
+      "city": "Gurgaon, Haryana",
+      "host": "BML Munjal University",
+      "length": "36",
+      "size": "700",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/bmuhack/",
+      "twitterURL": "https://twitter.com/hackbmu",
+      "notes": "HackBMU is a hackathon focused on promoting innovation, diversity and networking among all future hackers. We will be hosting upcoming engineers and developers from all over the World to create mobile, web, and hardware hacks for an intense 36-hour session."
     }
     ]
   }
