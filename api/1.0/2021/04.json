@@ -179,6 +179,24 @@
       "facebookURL": "https://www.facebook.com/bmuhack/",
       "twitterURL": "https://twitter.com/hackbmu",
       "notes": "HackBMU is a hackathon focused on promoting innovation, diversity and networking among all future hackers. We will be hosting upcoming engineers and developers from all over the World to create mobile, web, and hardware hacks for an intense 36-hour session."
+    },
+    {
+      "title": "Consilio",
+      "url": "https://designwith.codechefvit.com/",
+      "startDate": "5 April 2021",
+      "endDate": "9 April 2021",
+      "year": "2021",
+      "city": "Online",
+      "host": "CodeChef VIT",
+      "length": "120",
+      "size": "unknown",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "https://www.facebook.com/codechefvit",
+      "twitterURL": "https://twitter.com/codechefvit",
+      "notes": "Consilio calls for creative problem solving methods in all aspects of life. We aim to connect students and professionals from all fields of study, using the tools and methods of design thinking. It’s for trying new things and learning, as well as working with people who have different skill sets. One can work on the visuals, one comes up with the craziest ideas, one has more in-depth insight in the challenge field... Bring out your unique ability to influence the product or feature direction in ways that other people might easily dismiss or underestimate.‍ If you share our passion for learning in a diverse and creative way - welcome, you’re exactly where you're supposed to be!"
     }
     ]
   }
