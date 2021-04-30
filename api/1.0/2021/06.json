@@ -1,0 +1,23 @@
+{
+    "June" :
+    [
+      {
+        "title": "Hydrangea Hacks",
+        "url": "https://www.hydrangeahacks.tech/",
+        "startDate": "June 18",
+        "endDate": "June 20",
+        "year": "2021",
+        "city": "San Jose, CA, United States",
+        "host": "Hydrangea Hacks",
+        "length": "48",
+        "size": "400",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "linkedinURL": "https://www.linkedin.com/company/hydrangea-hacks/",
+        "twitterURL": "https://twitter.com/HacksHydrangea",
+        "notes": "Bay Area's Largest 48-Hour Hackathon for Women and Non-binary Individuals"
+      }
+    ]
+  }
