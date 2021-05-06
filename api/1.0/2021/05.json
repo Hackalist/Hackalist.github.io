@@ -1,4 +1,24 @@
 {
     "May" :
-    []
+    [
+    {
+      "title": "SPARC FAIR Codeathon: Request for proposals",
+      "url": "https://sparc.science/help/2021-sparc-fair-codeathon",
+      "startDate": "May 6",
+      "endDate": "",
+      "year": "2021",
+      "city": "Virtual",
+      "host": "SPARC Data and Resource Center",
+      "length": "14",
+      "size": "",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "no",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/sparc_science",
+      "googlePlusURL": "",
+      "notes": "In this codeathon, we are looking for exciting projects which use SPARC data and/or SPARC tools and resources in novel ways, particularly in enhancing, demonstrating, or measuring the findability, accessibility, interoperability, or reusability (FAIR) of the data. Several prizes of up to US$10,000 each will be awarded."
+    }
+    ]
   }
