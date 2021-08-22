@@ -1,0 +1,25 @@
+{
+    "September" :
+    [
+      {
+        "title": "First Annual California Artificial Intelligence Summit",
+        "url": "https://www.girlscomputingleague.org/california-ai-2021/",
+        "startDate": "September 25",
+        "endDate": "September 25",
+        "year": "2021",
+        "city": "virtual",
+        "host": "Girls Computing League (GCL)",
+        "length": "5.5",
+        "size": "unknown",
+        "travel": "no",
+        "prize": "yes",
+        "highSchoolers": "yes",
+        "cost": "free",
+        "linkedinURL": "https://www.linkedin.com/company/girlscomputingleague/",
+        "twitterURL": "https://twitter.com/girlscomputing",
+        "instagramURL" : "https://www.instagram.com/girlscomputing/",
+        "notes": "Bay Area based competition open internationally to people of all backgrounds interested in AI and Healthcare. This event is beginner friendly and an ideathon. Submit pitches before the event to enter into a prize pool of $2400!"
+      }
+    ]
+  }
+
