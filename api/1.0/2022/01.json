@@ -1,0 +1,23 @@
+{
+  "January" :
+  [
+     {
+      "title": "µHacks",
+      "url": "https://uhacks.org/",
+      "startDate": "January 21",
+      "endDate": "January 23",
+      "year": "2022",
+      "city": "Virtual",
+      "host": "N/A",
+      "length": "36",
+      "size": "unknown",
+      "travel": "N/A",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "N/A",
+      "twitterURL": "https://twitter.com/MicroHacksHacks",
+      "notes": "We have prizes for all participants."
+    }
+  ]
+}
