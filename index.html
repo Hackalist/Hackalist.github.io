@@ -84,7 +84,7 @@
 				<a name="{{month.month}}"></a>
 				<h1>{{month.month}}</h1>
 				<div ng-repeat="hackathon in month.hacks | filter:applicable">
-					<a ng-href="{{hackathon.url}}" target="_blank">
+					<a ng-href="{{hackathon.url}}" target="_blank" rel="noopener noreferrer">
 						<h2>{{hackathon.title}}</h2>
 					</a>
 					<a ng-href="{{hackathon.facebookURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
