@@ -1,0 +1,23 @@
+{
+    "April" :
+    [
+        {
+            "title": "Bayview Hackathon",
+            "url": "https://bayview-hackahon-01.devpost.com/",
+            "startDate": "April 22",
+            "endDate": "April 23",
+            "year": "2022",
+            "city": "Anywhere",
+            "host": "Bayview Hackathon",
+            "length": "24",
+            "size": "200",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "https://www.facebook.com/profile.php?id=100077317277060",
+            "twitterURL": "https://twitter.com/bayviewHackath1",
+            "notes": ""
+        }
+    ]
+}
