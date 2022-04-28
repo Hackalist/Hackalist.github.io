@@ -1,0 +1,22 @@
+{
+    "May" :
+    [
+        {
+            "title": "APINauts hackaton",
+            "url": "https://www.apinauti.cz/",
+            "startDate": "May 26",
+            "endDate": "May 27",
+            "year": "2022",
+            "city": "Prague, Czech Republic",
+            "host": "APINauts",
+            "length": "24",
+            "size": "30",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "twitterURL": "https://twitter.com/csas_devs",
+            "notes": "Event will be held in Czech language"
+        }
+    ]
+}
