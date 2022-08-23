@@ -1,0 +1,22 @@
+{
+    "August" :
+    [
+        {
+            "title": "RocketPy Hackathon 2022",
+            "url": "https://github.com/RocketPy-Team/RocketPy",
+            "startDate": "August 26",
+            "endDate": "August 28",
+            "year": "2022",
+            "city": "Anywhere",
+            "host": "RocketPy Team",
+            "length": "3 days",
+            "size": "200",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "https://www.linkedin.com/company/rocketpy",
+            "notes": ""
+        }
+    ]
+}
