@@ -1,0 +1,23 @@
+{
+  "September" :
+  [
+     {
+    "title": "Future of Healthcare Hackathon by Datavant",
+    "url": "futureofhealthcare.devpost.com",
+    "startDate": "September 8",
+    "endDate": "September 11",
+    "year": "2022",
+    "city": "Various Locations USA",
+    "host": "Datavant",
+    "length": "78",
+    "size": "unknown",
+    "travel": "no",
+    "prize": "yes", 
+    "highSchoolers": "No",
+    "cost": "free",
+    "facebookURL": "", 
+    "twitterURL": "https://twitter.com/datavanthq",
+    "notes": "Datavant is hosting a Future of Healthcare Hackathon to bring together bright minds to pave the way for healthcare solutions. From our perspective protecting privacy, resolving public health crises, and improving patient care are critical to get right. We want to use our skills to hack for good!"
+    }
+  ]
+}
