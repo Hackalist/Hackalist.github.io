@@ -1,0 +1,23 @@
+{
+  "March" :
+  [
+     {
+    "title": "HacknCode 6.0 BY IET MPSTME",
+    "url": "",
+    "startDate": "March 11",
+    "endDate": "March 12",
+    "year": "2023",
+    "city": "Various Locations India",
+    "host": "IET MPSTME",
+    "length": "1",
+    "size": "unknown",
+    "travel": "no",
+    "prize": "yes", 
+    "highSchoolers": "Yes",
+    "cost": "free",
+    "facebookURL": "", 
+    "twitterURL": "",
+    "notes": "‘Hack ‘n’ Code’ is an annual online hackathon that enables participants to harness their problem-solving, innovative, collaborative skills and communication skills in the tech culture. Organised by the MPSTME student chapter of the IET London, Hack 'n' Code is scheduled on 11 and 12 March 2023.  The 24-hour intense  competition culminates with a monetary reward from the prize pool for the three best submissions.",
+    }
+  ]
+}
