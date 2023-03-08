@@ -33,6 +33,8 @@
             "prize": "yes",
             "highSchoolers": "yes",
             "cost": "free",
+            "facebookURL": "",
+            "twitterURL": "https://twitter.com/webots",
             "notes": "Anyone can participate remotely, the winner will receive one ETH, e.g., about USD 1500"
         }
     ]
