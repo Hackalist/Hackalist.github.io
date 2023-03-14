@@ -1,0 +1,24 @@
+{
+    "January" :
+    [
+        {
+            "title": "ICRA 2023 Simulated Humanoid Robot Wrestling Competition",
+            "url": "https://webots.cloud/run?version=R2023a&url=https://github.com/cyberbotics/wrestling/blob/main/worlds/wrestling.wbt&type=competition",
+            "startDate": "January 16",
+            "endDate": "June 2",
+            "year": "2023",
+            "city": "All",
+            "host": "Cyberbotics",
+            "length": "NA",
+            "size": "unknown",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "",
+            "twitterURL": "https://twitter.com/webots",
+            "notes": "Anyone can participate remotely, the winner will receive one ETH, e.g., about USD 1500"
+        }
+    ]
+  }
+  
