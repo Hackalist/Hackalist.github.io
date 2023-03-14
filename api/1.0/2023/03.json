@@ -18,24 +18,6 @@
             "facebookURL": "https://www.facebook.com/startupweekendsingapore/",
             "twitterURL": "https://twitter.com/sw_singapore",
             "notes": "Join the largest, wildest and most exciting hackathon! This year, we are delving into the exciting theme of Web3, so join us on this incredible journey today. "
-        },
-        {
-            "title": "ICRA 2023 Simulated Humanoid Robot Wrestling Competition",
-            "url": "https://webots.cloud/run?version=R2023a&url=https://github.com/cyberbotics/wrestling/blob/main/worlds/wrestling.wbt&type=competition",
-            "startDate": "January 16",
-            "endDate": "June 2",
-            "year": "2023",
-            "city": "All",
-            "host": "Cyberbotics",
-            "length": "NA",
-            "size": "unknown",
-            "travel": "no",
-            "prize": "yes",
-            "highSchoolers": "yes",
-            "cost": "free",
-            "facebookURL": "",
-            "twitterURL": "https://twitter.com/webots",
-            "notes": "Anyone can participate remotely, the winner will receive one ETH, e.g., about USD 1500"
         }
     ]
   }
