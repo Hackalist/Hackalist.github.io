@@ -1,0 +1,24 @@
+{
+    "May" :
+    [
+        {
+            "title": "SerresHack 5.0",
+            "url": "https://hackathon.serrestech.gr",
+            "startDate": "5 May 2023",
+            "endDate": "7 May 2023",
+            "year": "2023",
+            "city": "Serres, Greece",
+            "host": "Serrestech.gr",
+            "length": "42hr",
+            "size": "50",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "https://www.facebook.com/SerresTech",
+            "twitterURL": "https://twitter.com/serrestech",
+            "notes": "A 2+ day hackathon in Serres - Greece where students, graduates as also as professionals are trying to solve real life problems using open source code! Topic is provided in English."
+        }
+    ]
+  }
+  
