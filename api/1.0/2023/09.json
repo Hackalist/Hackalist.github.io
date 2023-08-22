@@ -1,0 +1,23 @@
+{
+    "September":
+    [
+        {
+            "title": "The Actually Open AI Hackathon",
+            "url": "https://actuallyopenai.dev/",
+            "startDate": "September 6",
+            "endDate": "September 12",
+            "year": "2023",
+            "city": "Remote",
+            "host": "Hansa",
+            "length": "6",
+            "size": "2000",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "",
+            "twitterURL": "https://twitter.com/yourhackathonname",
+            "notes": "$17,500+ in prizes, $250,000 in investment opportunities from leading VCs"
+          }
+    ]
+}
