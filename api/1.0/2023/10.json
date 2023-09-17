@@ -1,0 +1,23 @@
+{
+    "October":
+    [
+        {
+            "title": "ErgoHack VII: Future Of Finance: Ways Of Adoption",
+            "url": "https://ergohack.io/",
+            "startDate": "October 13",
+            "endDate": "October 16",
+            "year": "2023",
+            "city": "Remote",
+            "host": "ErgoPlatform",
+            "length": "72",
+            "size": "2000",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "",
+            "twitterURL": "https://twitter.com/ergo_platform",
+            "notes": "Prizes 1: 9k SigUSD 2: 5K SigUSD 3: 4K SigUSD from ErgoFoundation and 20 Gift Cards From Emporas.io"
+          }
+    ]
+}
