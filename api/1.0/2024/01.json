@@ -1,0 +1,24 @@
+{
+  "January" :
+  [
+    {
+  "title": "PEC Hacks",
+  "url": "http://pechacks.org/",
+  "startDate": "January 27",
+  "endDate": "January 28",
+  "year": "2024",
+  "city": "Chennai, TN, India",
+  "host": "Panimalar Engineering College",
+  "length": "36",
+  "size": "200",
+  "travel": "no",
+  "prize": "yes",
+  "highSchoolers": "yes",
+  "cost": "free",
+  "facebookURL": "",
+  "twitterURL": "https://twitter.com/PECHacks",
+  "googlePlusURL": "",
+  "notes": "$24,000+ in prizes, free food, and awesome swags! Join us in Namma Chennai for a 36-hour hackathon!"
+    }
+  ]
+}
