@@ -1,0 +1,23 @@
+{
+    "April" :
+    [
+        {
+            "title": "ETHDam",
+            "url": "https://ethdam.com/hackathon",
+            "startDate": "April 12",
+            "endDate": "April 14",
+            "year": "2024",
+            "city": "Amsterdam",
+            "host": "CryptoCanal",
+            "length": "48",
+            "size": "600",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "",
+            "twitterURL": "https://twitter.com/cryptocanal",
+            "notes": "https://taikai.network/cryptocanal/hackathons/ethdam2024"
+        }
+    ]
+}
