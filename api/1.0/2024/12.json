@@ -1,0 +1,23 @@
+{
+  "December" :
+  [
+    {
+      "title": "PEC Hacks 2.0",
+      "url": "https://pechacks.org/",
+      "startDate": "December 28",
+      "endDate": "December 29",
+      "year": "2024",
+      "city": "Chennai, Tamil Nadu, India",
+      "host": "Panimalar Engineering College",
+      "length": "36",
+      "size": "300",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "cost": "free",
+      "facebookURL": "",
+      "twitterURL": "",
+      "notes": "Prize pool of INR 16 lakhs+ | 6 Domains | First price INR 1 lakh | Second Price INR 75,000 | Third price INR 50,000 | Exciting Swags and many more!! Do check out our website for more information"
+    }
+  ]
+}
