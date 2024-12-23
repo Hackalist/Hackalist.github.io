@@ -1,0 +1,23 @@
+{
+    "March" :
+    [
+        {
+            "title": "BISV Hacks",
+            "url": "https://bisvhacks.com/",
+            "startDate": "1 March",
+            "endDate": "1 March",
+            "year": "2025",
+            "city": "San Jose, CA, United States ",
+            "host": "BASIS Independent Silicon Valley",
+            "length": "9",
+            "size": "unknown",
+            "travel": "no",
+            "prize": "yes",
+            "highSchoolers": "yes",
+            "cost": "free",
+            "facebookURL": "",
+            "twitterURL": "",
+            "notes": "Get ready to innovate, create, and code at the 2025 BISV Hackathon! Everyone is invited to participate and collaborate on projects that will bring meaningful change to our world. Throughout the event, coders will have the opportunity to brainstorm, program, and execute their solutions alone or with a team. Whether you are a beginner programmer hoping to gain some programming experience or a seasoned programmer eager to show you talents, the BISV Hackathon will guarantee that you learn (or win!) something from it. So, come on out and compete against others while gaining meaningful mentorship and experience from workshops! Projects from previous hackathons are allowed."
+        }
+    ]
+  }
