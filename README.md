@@ -1,6 +1,6 @@
 ![hackalist-logo](images/logo.png)
 
-![https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square](https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square) [![Build Status](https://travis-ci.org/Hackalist/Hackalist.github.io.svg?branch=master)](https://travis-ci.org/Hackalist/Hackalist.github.io)
+![https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square](https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square)
 
 ![Node.js CI](https://github.com/Hackalist/Hackalist.github.io/workflows/Node.js%20CI/badge.svg)
 
