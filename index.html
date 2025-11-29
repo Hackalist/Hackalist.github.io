@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 
-<html lang="en" ng-app="hackalist">
+<html lang="en" ng-app="hackalistApp">
 	<head>
-		<title>Hackalist - List of Upcoming Hackathons</title>
+		<title>Hackalist</title>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="A list of upcoming hackathons worldwide.">
+		<meta name="description" content="An archive of hackathons from around the world (2014-2025).">
 		<meta name="keywords" content="hackathon, hackathons, list, directory">
 		<!-- Start Google Javascript -->
 		<script>
@@ -22,134 +22,196 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 
 	</head>
-	<body ng-controller="hackathonEvents">
-
-		<div class="container" style="padding:20px;" >
-			<div class="row">
-				<div class="twelve columns">
-					<br> <a href="https://www.hackalist.org"><img src="images/logo.png" alt="Hackalist" class="img-center"> </a><br>
+	<body ng-controller="mainController">
+		<div ng-show="currentView == 'homepage'">
+			<div class="container">
+				<div class="row">
+					<div class="twelve columns">
+						<br> <a href="/"><img src="images/logo.png" alt="Hackalist" class="img-center"> </a><br>
+					</div>
+				</div>
+				<br>
+				<div class="row">
+					<div class="twelve columns">
+						<div class="text-center">
+							<p class="intro-text">
+								A directory of hackathons from around the world.
+								<br>
+								<em>
+									This site is no longer actively updated.
+									Thank you to everyone who contributed over the years!
+								</em>
+							</p>
+						</div>
+					</div>
 				</div>
 			</div>
-			<br>
-			<div class="row">
-				<div class="twelve columns">
-					<p style="text-align:center;">
-						A list of upcoming hackathons from around the world.
-						<br><br>
-						<a class="button" href="https://github.com/Hackalist/Hackalist.github.io">Contribute on GitHub</a>
-						<div id="githubButtons">
-							<iframe src="https://ghbtns.com/github-btn.html?user=Hackalist&repo=Hackalist.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="130px" height="30px"></iframe>
-							<iframe src="https://ghbtns.com/github-btn.html?user=Hackalist&repo=Hackalist.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="130px" height="30px"></iframe>
-							<iframe src="https://ghbtns.com/github-btn.html?user=Hackalist&repo=Hackalist.github.io&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="130px" height="30px"></iframe>
-						</div>
-						<div id="toggleNav" style="text-align:center;" ng-init="travelReimbursements = false; prizes = false; highSchoolers = false">
-							<h2>Show only hackathons that...</h2>
-							Offer Travel Reimbursements
-							<div class="onoffswitch" style="left:45%; text-align:center;">
-								<input id="cbTravelToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="travelReimbursements = !travelReimbursements" /><label for="cbTravelToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
-							</div>
-							<br>Have Prizes
-							<div class="onoffswitch" style="left:45%; text-align:center;">
-								<input id="cbPrizeToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="prizes = !prizes" /><label for="cbPrizeToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
-							</div>
-							<br>Accept High Schoolers
-							<div class="onoffswitch" style="left:45%; text-align:center;">
-								<input id="cbHighSchoolersToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="highSchoolers = !highSchoolers" /><label for="cbHighSchoolersToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
-							</div>
-							<br>Are Free
-							<div class="onoffswitch" style="left:45%; text-align:center;">
-								<input id="cbCostToggle" type="checkbox" class="onoffswitch-checkbox" ng-click="cost = !cost" /><label for="cbCostToggle" class="onoffswitch-label" ><span class="onoffswitch-inner"></span><span class="onoffswitch-switch"></span></label>
-							</div>
-						</div>
-						<br>
-						<div id="monthNav" style="text-align:center;">
-						  <h2>Month Navigation</h2>
 
-						  <div class="row" style="margin-bottom: 1%; margin-left:1%; margin-right: 1%; text-align: center;" ng-repeat="hacks in chunkedHackathons">
-							<div class="offset-by-one three columns" ng-repeat="month in hacks">
-								<a style="width: 100%; margin:auto;"class="button" ng-href="#{{month.month}}">{{month.month}}</a>
+			<div class="container">
+				<div class="row">
+					<div class="twelve columns">
+						<h2 class="text-center">Browse Archive by Year</h2>
+						<div id="yearGrid">
+							<div class="row" ng-repeat="yearRow in yearRows">
+								<div class="three columns" ng-repeat="yearData in yearRow">
+									<a class="button year-button" ng-click="showYear(yearData.year)">
+										{{yearData.year}}
+										<span class="year-count" ng-if="yearData.count !== null">({{yearData.count}})</span>
+										<span class="year-count loading" ng-if="yearData.count === null">...</span>
+									</a>
+								</div>
 							</div>
-						  </div>
-
 						</div>
-						<hr>
-						</hr>
-					</p>
+					</div>
 				</div>
 			</div>
 		</div>
 
-		<div class="container" style="padding:20px;">
-			<div ng-repeat="month in hackathons">
-				<a name="{{month.month}}"></a>
-				<h1>{{month.month}}</h1>
-				<div ng-repeat="hackathon in month.hacks | filter:applicable">
-					<a ng-href="{{hackathon.url}}" target="_blank" rel="noopener noreferrer">
-						<h2>{{hackathon.title}}</h2>
-					</a>
-					<a ng-href="{{hackathon.facebookURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
-						<img src="images/facebook.png" alt="Facebook profile" width="24px" ng-if="hackathon.facebookURL != ''">
-					</a>
-					<a ng-href="{{hackathon.twitterURL}}" style="margin-right: 5px;" ng-if="hackathon.facebookURL != ''">
-						<img src="images/twitter.png" alt="Twitter profile" width="24px" ng-if="hackathon.twitterURL != ''">
-					</a>
-					
-					<p class="info-line">
-						{{hackathon.startDate}} - {{hackathon.endDate}} in {{hackathon.city}}
-					</p>
-					<p class="info-line-sm">
-						Hosted by {{hackathon.host}} for {{hackathon.length}} hours
-					</p>
-					<p class="info-line-sm" ng-if="hackathon.size == 'unknown'">
-						Capacity: Unknown
-					</p>
-					<p class="info-line-sm" ng-if="hackathon.size != 'unknown'">
-						Capacity: {{hackathon.size}}
-					</p>
-					<p class="info-line-sm" ng-if="hackathon.cost == 'free'">
-						Cost: Free
-					</p>
-					<p class="info-line-sm" ng-if="hackathon.cost != 'free'">
-						Cost: {{hackathon.cost}}
-					</p>
-					<p class="info-line-sm" ng-if="hackathon.notes != ''">
-						Note: {{hackathon.notes}}
-					</p>
-					<div class="travel-reimbursement">
-						<img src="images/status-yes.png" alt="Travel reimbursement offered!" width="20" ng-if="hackathon.travel == 'yes'">
-						<img src="images/status-no.png" alt="Travel reimbursement not offered" width="20" ng-if="hackathon.travel == 'no'">
-						<img src="images/status-question.png" alt="Unknown" width="20" ng-if="hackathon.travel == 'unknown'">
-						<p class="info-line">
-							Travel Reimbursement
+		<div ng-show="currentView == 'year'">
+			<div class="container">
+				<div class="row">
+					<div class="twelve columns">
+						<br> <a ng-click="showDirectory()" class="logo-link"><img src="images/logo.png" alt="Hackalist" class="img-center"> </a><br>
+					</div>
+				</div>
+				<br>
+				<div class="row">
+					<div class="twelve columns">
+						<div class="text-center">
+							<a class="button" ng-click="showDirectory()">← Back to Homepage</a>
+						</div>
+						<p class="text-center">
+							<h1 class="text-center">Hackathons from {{selectedYear}}</h1>
+							<br>
+							<div id="toggleNav">
+								<h2>Show only hackathons that...</h2>
+								Offer Travel Reimbursements
+								<div class="onoffswitch">
+									<input id="cbTravelToggle" type="checkbox" class="onoffswitch-checkbox" ng-model="travelReimbursements" />
+									<label for="cbTravelToggle" class="onoffswitch-label">
+										<span class="onoffswitch-inner"></span>
+										<span class="onoffswitch-switch"></span>
+									</label>
+								</div>
+								<br>Have Prizes
+								<div class="onoffswitch">
+									<input id="cbPrizeToggle" type="checkbox" class="onoffswitch-checkbox" ng-model="prizes" />
+									<label for="cbPrizeToggle" class="onoffswitch-label">
+										<span class="onoffswitch-inner"></span>
+										<span class="onoffswitch-switch"></span>
+									</label>
+								</div>
+								<br>Accept High Schoolers
+								<div class="onoffswitch">
+									<input id="cbHighSchoolersToggle" type="checkbox" class="onoffswitch-checkbox" ng-model="highSchoolers" />
+									<label for="cbHighSchoolersToggle" class="onoffswitch-label">
+										<span class="onoffswitch-inner"></span>
+										<span class="onoffswitch-switch"></span>
+									</label>
+								</div>
+								<br>Are Free
+								<div class="onoffswitch">
+									<input id="cbCostToggle" type="checkbox" class="onoffswitch-checkbox" ng-model="cost" />
+									<label for="cbCostToggle" class="onoffswitch-label">
+										<span class="onoffswitch-inner"></span>
+										<span class="onoffswitch-switch"></span>
+									</label>
+								</div>
+							</div>
+							<br>
+							<div id="monthNav">
+								<h2>Month Navigation</h2>
+
+								<div class="row" ng-repeat="hacks in chunkedHackathons">
+									<div class="three columns" ng-repeat="month in hacks">
+										<a class="button" ng-click="scrollToMonth(month.month)">{{month.month}}</a>
+									</div>
+								</div>
+
+							</div>
+							<hr>
+							</hr>
 						</p>
 					</div>
-					<div class="prizes">
-						<img src="images/status-yes.png" alt="Prizes offered!" width="20" ng-if="hackathon.prize == 'yes'">
-						<img src="images/status-no.png" alt="Prizes not offered" width="20" ng-if="hackathon.prize == 'no'">
-						<img src="images/status-question.png" alt="Unknown" width="20" ng-if="hackathon.prize == 'unknown'">
-						<p class="info-line">
-							Prizes
-						</p>
+				</div>
+			</div>
+
+			<div class="container">
+				<div ng-if="hackathons.length == 0">
+					<p class="text-center loading-text">
+						<em>Loading hackathons for {{selectedYear}}...</em>
+					</p>
+				</div>
+				<div ng-repeat="month in hackathons" ng-if="hackathons.length > 0 && month.hacks && month.hacks.length > 0">
+					<h1 id="{{month.month}}">{{month.month}} {{selectedYear}}</h1>
+					<div ng-if="(month.hacks | filter:applicable).length == 0">
+						<p class="empty-filter-message">No hackathons match your selected filters for this month.</p>
 					</div>
-					<div class="high-schoolers">
-						<img src="images/status-yes.png" alt="High schoolers accepted!" width="20" ng-if="hackathon.highSchoolers == 'yes'">
-						<img src="images/status-no.png" alt="High schoolers not accepted" width="20" ng-if="hackathon.highSchoolers == 'no'">
-						<img src="images/status-question.png" alt="Unknown" width="20" ng-if="hackathon.highSchoolers == 'unknown'">
+					<div ng-repeat="hackathon in month.hacks | filter:applicable" class="hackathon-entry">
+						<a ng-href="{{hackathon.url}}" target="_blank" rel="noopener noreferrer">
+							<h2>{{hackathon.title}}</h2>
+						</a>
+						<a ng-href="{{hackathon.facebookURL}}" class="social-link" ng-if="hackathon.facebookURL != ''">
+							<img src="images/facebook.png" alt="Facebook profile" width="24px">
+						</a>
+						<a ng-href="{{hackathon.twitterURL}}" class="social-link" ng-if="hackathon.twitterURL != ''">
+							<img src="images/twitter.png" alt="Twitter profile" width="24px">
+						</a>
+						
 						<p class="info-line">
-							High Schoolers
+							{{hackathon.startDate}} - {{hackathon.endDate}} in {{hackathon.city}}
 						</p>
+						<p class="info-line-sm">
+							Hosted by {{hackathon.host}} for {{hackathon.length}} hours
+						</p>
+						<p class="info-line-sm" ng-if="hackathon.size == 'unknown'">
+							Capacity: Unknown
+						</p>
+						<p class="info-line-sm" ng-if="hackathon.size != 'unknown'">
+							Capacity: {{hackathon.size}}
+						</p>
+						<p class="info-line-sm" ng-if="hackathon.cost == 'free'">
+							Cost: Free
+						</p>
+						<p class="info-line-sm" ng-if="hackathon.cost != 'free'">
+							Cost: {{hackathon.cost}}
+						</p>
+						<p class="info-line-sm" ng-if="hackathon.notes != ''">
+							Note: {{hackathon.notes}}
+						</p>
+						<div class="travel-reimbursement">
+							<img src="images/status-yes.png" alt="Travel reimbursement offered!" width="20" ng-if="hackathon.travel == 'yes'">
+							<img src="images/status-no.png" alt="Travel reimbursement not offered" width="20" ng-if="hackathon.travel == 'no'">
+							<img src="images/status-question.png" alt="Unknown" width="20" ng-if="hackathon.travel == 'unknown'">
+							<p class="info-line">
+								Travel Reimbursement
+							</p>
+						</div>
+						<div class="prizes">
+							<img src="images/status-yes.png" alt="Prizes offered!" width="20" ng-if="hackathon.prize == 'yes'">
+							<img src="images/status-no.png" alt="Prizes not offered" width="20" ng-if="hackathon.prize == 'no'">
+							<img src="images/status-question.png" alt="Unknown" width="20" ng-if="hackathon.prize == 'unknown'">
+							<p class="info-line">
+								Prizes
+							</p>
+						</div>
+						<div class="high-schoolers">
+							<img src="images/status-yes.png" alt="High schoolers accepted!" width="20" ng-if="hackathon.highSchoolers == 'yes'">
+							<img src="images/status-no.png" alt="High schoolers not accepted" width="20" ng-if="hackathon.highSchoolers == 'no'">
+							<img src="images/status-question.png" alt="Unknown" width="20" ng-if="hackathon.highSchoolers == 'unknown'">
+							<p class="info-line">
+								High Schoolers
+							</p>
+						</div>
 					</div>
-					<br>
 				</div>
 			</div>
 		</div>
-		<div style="text-align:center;">
-			<br><br>
-			Site initiated by <a href="http://www.kevinpayravi.com/">Kevin Payravi</a>
+
+		<div class="footer">
+			<a href="https://github.com/Hackalist/Hackalist.github.io">GitHub Repo</a> | Licensed under <a href="https://github.com/Hackalist/Hackalist.github.io/blob/master/LICENSE">MIT License</a>
 			<br>
 			<a href="https://github.com/Hackalist/Hackalist.github.io/graphs/contributors">Full Contributor List</a>
-			<br>
-			<a href="https://github.com/Hackalist/Hackalist.github.io">GitHub Repo</a> | Licensed under <a href="https://github.com/Hackalist/Hackalist.github.io/blob/master/LICENSE">MIT License</a>
 			<br>
 			Built using <a href="http://getskeleton.com/">Skeleton</a>
 		</div>
