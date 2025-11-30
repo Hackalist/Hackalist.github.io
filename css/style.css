@@ -247,6 +247,13 @@ p {
 #yearGrid .columns {
 	padding: 0 10px;
 	flex: 0 0 auto;
+	margin-bottom: 10px;
+}
+
+@media (max-width: 549px) {
+	#yearGrid .row {
+		margin-bottom: 0;
+	}
 }
 
 .year-button,
@@ -309,4 +316,11 @@ p {
 	overflow: visible;
 	line-height: 1.2;
 	padding: 10px 5px;
+	color: #428BCA;
+}
+
+#monthNav .button:hover,
+#monthNav .button:focus {
+	color: #05AADC;
+	border-color: #888;
 }

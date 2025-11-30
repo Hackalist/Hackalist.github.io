@@ -47,7 +47,7 @@ app.controller('mainController', ['$http', '$scope', '$window', '$location', fun
   $scope.showDirectory = function() {
     $scope.currentView = 'homepage';
     $scope.selectedYear = null;
-    $window.history.pushState({view: 'homepage'}, 'Hackalist Archive', '/');
+    $window.history.pushState({view: 'homepage'}, 'Hackalist', '/');
     document.title = 'Hackalist';
   };
 
@@ -58,6 +58,7 @@ app.controller('mainController', ['$http', '$scope', '$window', '$location', fun
     $window.history.pushState({view: 'year', year: year}, 'Hackalist - ' + year, '/?year=' + year);
     document.title = 'Hackalist - ' + year;
     loadYear(year);
+    $window.scrollTo(0, 0);
   };
 
   $scope.applicable = function(hackathon) {
