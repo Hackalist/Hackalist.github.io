@@ -44,8 +44,16 @@ for (const year of years) {
     let lastHackathon;
 
     for (const hackathon of obj[monthName]) {
+      // Validate URL fields don't use dangerous schemes (e.g. javascript:)
+      for (const field of ['url', 'facebookURL', 'twitterURL']) {
+        const val = (hackathon[field] || '').trim();
+        if (val && /^[a-z][a-z0-9+.-]*:/i.test(val) && !/^https?:/i.test(val)) {
+          bail(`${hackathon.title} has unsafe ${field}: ${val}`);
+        }
+      }
+
       let startDate = Date.parse(hackathon.startDate);
-      if (startDate !== undefined) {
+      if (!isNaN(startDate)) {
         if (lastStartDate > startDate) {
           bail(`${hackathon.title} should be before ${lastHackathon.title}`);
         }
