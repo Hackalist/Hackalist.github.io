@@ -1,3 +1,5 @@
+# This site is no longer actively updated. Thank you to everyone who contributed over the years!
+
 ![hackalist-logo](images/logo.png)
 
 ![https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square](https://img.shields.io/badge/pull%20requests%20closed%20in-6%20minutes-brightgreen.svg?style=flat-square)
